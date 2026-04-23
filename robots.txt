@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://musclelove-777.github.io/index-stocks-compass/sitemap.xml
