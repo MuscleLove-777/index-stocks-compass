@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24 00:10 JST",
+  "updated": "2026-04-24 07:43 JST",
   "members": [
     {
       "ticker": "0005.HK",
@@ -9,7 +9,7 @@
       "close": 141.1,
       "prev_close": 144.0,
       "change_pct": -2.01,
-      "volume": 15835912,
+      "volume": 15795912,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -22,7 +22,7 @@
       "close": 412.2,
       "prev_close": 416.6,
       "change_pct": -1.06,
-      "volume": 2971361,
+      "volume": 2970861,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -35,7 +35,7 @@
       "close": 8.83,
       "prev_close": 8.77,
       "change_pct": 0.68,
-      "volume": 192716854,
+      "volume": 192534854,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -48,7 +48,7 @@
       "close": 81.75,
       "prev_close": 83.2,
       "change_pct": -1.74,
-      "volume": 27602635,
+      "volume": 27554435,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -61,7 +61,7 @@
       "close": 7.18,
       "prev_close": 7.13,
       "change_pct": 0.7,
-      "volume": 146133416,
+      "volume": 146103416,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -74,7 +74,7 @@
       "close": 60.7,
       "prev_close": 61.3,
       "change_pct": -0.98,
-      "volume": 26136866,
+      "volume": 26135866,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -87,7 +87,7 @@
       "close": 44.22,
       "prev_close": 44.3,
       "change_pct": -0.18,
-      "volume": 7594329,
+      "volume": 7592329,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -100,7 +100,7 @@
       "close": 26.8,
       "prev_close": 27.28,
       "change_pct": -1.76,
-      "volume": 36708998,
+      "volume": 36699998,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -113,7 +113,7 @@
       "close": 51.05,
       "prev_close": 50.9,
       "change_pct": 0.29,
-      "volume": 10616995,
+      "volume": 10611495,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -126,7 +126,7 @@
       "close": 5.14,
       "prev_close": 5.11,
       "change_pct": 0.59,
-      "volume": 120454544,
+      "volume": 120322544,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -139,7 +139,7 @@
       "close": 75.2,
       "prev_close": 75.15,
       "change_pct": 0.07,
-      "volume": 1855282,
+      "volume": 1853782,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -152,7 +152,7 @@
       "close": 7.24,
       "prev_close": 7.27,
       "change_pct": -0.41,
-      "volume": 14759613,
+      "volume": 14730613,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -165,7 +165,7 @@
       "close": 64.5,
       "prev_close": 63.9,
       "change_pct": 0.94,
-      "volume": 1383656,
+      "volume": 1382156,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -178,7 +178,7 @@
       "close": 19.73,
       "prev_close": 19.52,
       "change_pct": 1.08,
-      "volume": 10297920,
+      "volume": 10291920,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -191,7 +191,7 @@
       "close": 66.1,
       "prev_close": 66.3,
       "change_pct": -0.3,
-      "volume": 1371031,
+      "volume": 1369531,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -204,7 +204,7 @@
       "close": 63.0,
       "prev_close": 63.15,
       "change_pct": -0.24,
-      "volume": 2729800,
+      "volume": 2726700,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -217,7 +217,7 @@
       "close": 30.38,
       "prev_close": 30.64,
       "change_pct": -0.85,
-      "volume": 4511635,
+      "volume": 4507635,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -230,7 +230,7 @@
       "close": 137.3,
       "prev_close": 138.0,
       "change_pct": -0.51,
-      "volume": 2262772,
+      "volume": 2261272,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -243,7 +243,7 @@
       "close": 9.06,
       "prev_close": 9.05,
       "change_pct": 0.11,
-      "volume": 6960000,
+      "volume": 6959000,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -256,7 +256,7 @@
       "close": 12.54,
       "prev_close": 12.63,
       "change_pct": -0.71,
-      "volume": 12262111,
+      "volume": 12260611,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -269,7 +269,7 @@
       "close": 38.84,
       "prev_close": 39.04,
       "change_pct": -0.51,
-      "volume": 6791978,
+      "volume": 6789978,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -282,7 +282,7 @@
       "close": 8.21,
       "prev_close": 8.21,
       "change_pct": 0.0,
-      "volume": 12366884,
+      "volume": 12347384,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -295,7 +295,7 @@
       "close": 32.26,
       "prev_close": 32.5,
       "change_pct": -0.74,
-      "volume": 16107800,
+      "volume": 16103300,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -308,7 +308,7 @@
       "close": 48.38,
       "prev_close": 48.28,
       "change_pct": 0.21,
-      "volume": 3723307,
+      "volume": 3721807,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -321,7 +321,7 @@
       "close": 47.12,
       "prev_close": 47.22,
       "change_pct": -0.21,
-      "volume": 851699,
+      "volume": 848099,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -334,7 +334,7 @@
       "close": 24.0,
       "prev_close": 24.16,
       "change_pct": -0.66,
-      "volume": 2307772,
+      "volume": 2306772,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -347,7 +347,7 @@
       "close": 64.75,
       "prev_close": 64.5,
       "change_pct": 0.39,
-      "volume": 5379040,
+      "volume": 5376540,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -360,7 +360,7 @@
       "close": 33.78,
       "prev_close": 34.2,
       "change_pct": -1.23,
-      "volume": 14831883,
+      "volume": 14829883,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -373,7 +373,7 @@
       "close": 34.5,
       "prev_close": 34.82,
       "change_pct": -0.92,
-      "volume": 3038940,
+      "volume": 3037940,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -386,7 +386,7 @@
       "close": 23.66,
       "prev_close": 24.9,
       "change_pct": -4.98,
-      "volume": 97830322,
+      "volume": 97791322,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -412,7 +412,7 @@
       "close": 12.97,
       "prev_close": 12.91,
       "change_pct": 0.46,
-      "volume": 14589000,
+      "volume": 14583000,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -425,7 +425,7 @@
       "close": 26.86,
       "prev_close": 28.18,
       "change_pct": -4.68,
-      "volume": 22722535,
+      "volume": 22700535,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -438,7 +438,7 @@
       "close": 10.61,
       "prev_close": 10.67,
       "change_pct": -0.56,
-      "volume": 20142874,
+      "volume": 20073374,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -451,7 +451,7 @@
       "close": 25.86,
       "prev_close": 25.86,
       "change_pct": 0.0,
-      "volume": 3645181,
+      "volume": 3640681,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -464,7 +464,7 @@
       "close": 89.55,
       "prev_close": 89.75,
       "change_pct": -0.22,
-      "volume": 2576538,
+      "volume": 2574238,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -477,7 +477,7 @@
       "close": 135.1,
       "prev_close": 133.4,
       "change_pct": 1.27,
-      "volume": 1118089,
+      "volume": 1117089,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -490,7 +490,7 @@
       "close": 12.65,
       "prev_close": 12.8,
       "change_pct": -1.17,
-      "volume": 17122000,
+      "volume": 17114000,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -503,7 +503,7 @@
       "close": 4.57,
       "prev_close": 4.5,
       "change_pct": 1.56,
-      "volume": 105742978,
+      "volume": 105698978,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -516,7 +516,7 @@
       "close": 111.4,
       "prev_close": 115.6,
       "change_pct": -3.63,
-      "volume": 5502501,
+      "volume": 5501501,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -529,7 +529,7 @@
       "close": 495.2,
       "prev_close": 504.0,
       "change_pct": -1.75,
-      "volume": 23497367,
+      "volume": 23497267,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -542,7 +542,7 @@
       "close": 7.34,
       "prev_close": 7.29,
       "change_pct": 0.69,
-      "volume": 15278511,
+      "volume": 15264511,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -555,7 +555,7 @@
       "close": 11.1,
       "prev_close": 10.65,
       "change_pct": 4.23,
-      "volume": 167339760,
+      "volume": 167221760,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -568,7 +568,7 @@
       "close": 9.62,
       "prev_close": 9.63,
       "change_pct": -0.1,
-      "volume": 10246000,
+      "volume": 10244000,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -581,7 +581,7 @@
       "close": 7.39,
       "prev_close": 7.55,
       "change_pct": -2.12,
-      "volume": 5556417,
+      "volume": 5550417,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -594,7 +594,7 @@
       "close": 27.66,
       "prev_close": 26.88,
       "change_pct": 2.9,
-      "volume": 110719209,
+      "volume": 110717209,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -607,7 +607,7 @@
       "close": 84.0,
       "prev_close": 83.4,
       "change_pct": 0.72,
-      "volume": 22837145,
+      "volume": 22802645,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -620,7 +620,7 @@
       "close": 3.02,
       "prev_close": 3.04,
       "change_pct": -0.66,
-      "volume": 36589851,
+      "volume": 36585851,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -633,7 +633,7 @@
       "close": 58.45,
       "prev_close": 59.3,
       "change_pct": -1.43,
-      "volume": 53659196,
+      "volume": 53658696,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -646,7 +646,7 @@
       "close": 11.64,
       "prev_close": 11.63,
       "change_pct": 0.09,
-      "volume": 83271158,
+      "volume": 83269158,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -659,7 +659,7 @@
       "close": 44.14,
       "prev_close": 45.34,
       "change_pct": -2.65,
-      "volume": 44785413,
+      "volume": 44784113,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -672,7 +672,7 @@
       "close": 26.58,
       "prev_close": 26.48,
       "change_pct": 0.38,
-      "volume": 2920662,
+      "volume": 2916662,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -685,7 +685,7 @@
       "close": 47.42,
       "prev_close": 46.52,
       "change_pct": 1.93,
-      "volume": 11556965,
+      "volume": 11556465,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -698,7 +698,7 @@
       "close": 8.92,
       "prev_close": 8.77,
       "change_pct": 1.71,
-      "volume": 89329738,
+      "volume": 89327738,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -711,7 +711,7 @@
       "close": 19.56,
       "prev_close": 19.83,
       "change_pct": -1.36,
-      "volume": 5644920,
+      "volume": 5644120,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -724,7 +724,7 @@
       "close": 5.59,
       "prev_close": 5.83,
       "change_pct": -4.12,
-      "volume": 94781709,
+      "volume": 94779709,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -737,7 +737,7 @@
       "close": 103.5,
       "prev_close": 107.0,
       "change_pct": -3.27,
-      "volume": 32114237,
+      "volume": 32113437,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -750,7 +750,7 @@
       "close": 35.44,
       "prev_close": 36.3,
       "change_pct": -2.37,
-      "volume": 34264951,
+      "volume": 34245951,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -763,7 +763,7 @@
       "close": 31.18,
       "prev_close": 31.8,
       "change_pct": -1.95,
-      "volume": 135481125,
+      "volume": 135471125,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -776,7 +776,7 @@
       "close": 7.59,
       "prev_close": 7.57,
       "change_pct": 0.26,
-      "volume": 7324249,
+      "volume": 7321349,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -789,7 +789,7 @@
       "close": 16.83,
       "prev_close": 17.13,
       "change_pct": -1.75,
-      "volume": 20664310,
+      "volume": 20663510,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -802,7 +802,7 @@
       "close": 10.9,
       "prev_close": 11.31,
       "change_pct": -3.63,
-      "volume": 27142937,
+      "volume": 27142737,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -815,7 +815,7 @@
       "close": 73.15,
       "prev_close": 73.45,
       "change_pct": -0.41,
-      "volume": 8140946,
+      "volume": 8137546,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -828,7 +828,7 @@
       "close": 84.15,
       "prev_close": 84.8,
       "change_pct": -0.77,
-      "volume": 7390936,
+      "volume": 7384336,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -841,7 +841,7 @@
       "close": 200.6,
       "prev_close": 200.8,
       "change_pct": -0.1,
-      "volume": 1990616,
+      "volume": 1990016,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -854,7 +854,7 @@
       "close": 33.92,
       "prev_close": 35.02,
       "change_pct": -3.14,
-      "volume": 25337191,
+      "volume": 25335191,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -867,7 +867,7 @@
       "close": 48.32,
       "prev_close": 48.46,
       "change_pct": -0.29,
-      "volume": 5011719,
+      "volume": 5011519,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -880,7 +880,7 @@
       "close": 16.28,
       "prev_close": 16.44,
       "change_pct": -0.97,
-      "volume": 27012271,
+      "volume": 27011271,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -893,7 +893,7 @@
       "close": 19.84,
       "prev_close": 20.6,
       "change_pct": -3.69,
-      "volume": 31359697,
+      "volume": 31345197,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -906,7 +906,7 @@
       "close": 122.7,
       "prev_close": 121.9,
       "change_pct": 0.66,
-      "volume": 3150422,
+      "volume": 3150322,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -919,7 +919,7 @@
       "close": 63.3,
       "prev_close": 64.85,
       "change_pct": -2.39,
-      "volume": 7831619,
+      "volume": 7828219,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -932,7 +932,7 @@
       "close": 15.4,
       "prev_close": 15.59,
       "change_pct": -1.22,
-      "volume": 10796121,
+      "volume": 10794821,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -945,7 +945,7 @@
       "close": 36.9,
       "prev_close": 37.84,
       "change_pct": -2.48,
-      "volume": 63789430,
+      "volume": 63785430,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -958,7 +958,7 @@
       "close": 83.1,
       "prev_close": 84.25,
       "change_pct": -1.36,
-      "volume": 27565466,
+      "volume": 27552166,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -971,7 +971,7 @@
       "close": 38.74,
       "prev_close": 39.62,
       "change_pct": -2.22,
-      "volume": 12610357,
+      "volume": 12608357,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -984,7 +984,7 @@
       "close": 46.32,
       "prev_close": 46.88,
       "change_pct": -1.19,
-      "volume": 6863525,
+      "volume": 6861225,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -997,7 +997,7 @@
       "close": 20.64,
       "prev_close": 21.12,
       "change_pct": -2.27,
-      "volume": 26097677,
+      "volume": 26063277,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -1010,7 +1010,7 @@
       "close": 14.7,
       "prev_close": 15.0,
       "change_pct": -2.0,
-      "volume": 8692951,
+      "volume": 8690951,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -1023,7 +1023,7 @@
       "close": 118.7,
       "prev_close": 120.2,
       "change_pct": -1.25,
-      "volume": 4896569,
+      "volume": 4895719,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -1036,7 +1036,7 @@
       "close": 47.32,
       "prev_close": 48.14,
       "change_pct": -1.7,
-      "volume": 4221830,
+      "volume": 4216430,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -1049,7 +1049,7 @@
       "close": 120.5,
       "prev_close": 121.1,
       "change_pct": -0.5,
-      "volume": 5980906,
+      "volume": 5977706,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -1062,7 +1062,7 @@
       "close": 415.8,
       "prev_close": 422.8,
       "change_pct": -1.66,
-      "volume": 2428337,
+      "volume": 2427337,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -1075,7 +1075,7 @@
       "close": 130.4,
       "prev_close": 131.5,
       "change_pct": -0.84,
-      "volume": 54770042,
+      "volume": 54768842,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -1088,7 +1088,7 @@
       "close": 155.6,
       "prev_close": 160.2,
       "change_pct": -2.87,
-      "volume": 17900790,
+      "volume": 17900590,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
@@ -1101,7 +1101,7 @@
       "close": 172.4,
       "prev_close": 177.6,
       "change_pct": -2.93,
-      "volume": 5180999,
+      "volume": 5178599,
       "last_date": "2026-04-23",
       "market_cap": 0,
       "currency": "HKD"
