@@ -44,75 +44,210 @@ BASE_URL = "https://musclelove-777.github.io/index-stocks-compass"
 # Index definitions
 # ======================================================================
 INDICES = {
+    # ========== 日本 ==========
     "n225": {
-        "name_ja": "日経平均株価 (Nikkei 225)",
-        "name_en": "Nikkei 225",
-        "symbol": "^N225",
+        "name_ja": "日経平均株価 (Nikkei 225)", "name_en": "Nikkei 225", "symbol": "^N225",
         "wiki_url": "https://topforeignstocks.com/indices/the-components-of-the-nikkei-225-index/",
-        "wiki_table_match": None,
         "ticker_col_candidates": ["Code", "Symbol", "Ticker", "コード"],
         "name_col_candidates": ["Company Name", "Company", "Name", "銘柄名"],
         "sector_col_candidates": ["Sector", "Industry", "業種"],
-        "market": "JP",
-        "ticker_suffix": ".T",
-        "country": "Japan",
+        "market": "JP", "ticker_suffix": ".T", "digits_only": True, "digits_length": 4,
+        "country": "Japan", "region": "Japan", "flag": "🇯🇵",
         "desc": "日本の代表的な225銘柄で構成される株価平均型指数。東証プライム市場から選定。",
     },
     "topix-core30": {
-        "name_ja": "TOPIX Core30",
-        "name_en": "TOPIX Core30",
-        "symbol": "^TPX",
+        "name_ja": "TOPIX Core30", "name_en": "TOPIX Core30", "symbol": "^TPX",
         "wiki_url": "https://ja.wikipedia.org/wiki/TOPIX_Core_30",
-        "wiki_table_match": None,
         "ticker_col_candidates": ["銘柄コード", "コード", "証券コード", "Code"],
         "name_col_candidates": ["銘柄名", "企業名", "社名", "名称", "Company"],
         "sector_col_candidates": ["業種", "セクター", "Sector"],
-        "market": "JP",
-        "ticker_suffix": ".T",
-        "country": "Japan",
+        "market": "JP", "ticker_suffix": ".T", "digits_only": True, "digits_length": 4,
+        "country": "Japan", "region": "Japan", "flag": "🇯🇵",
         "desc": "TOPIX構成銘柄のうち時価総額・流動性最上位の30銘柄で構成される指数。",
     },
+    # ========== アメリカ ==========
     "sp500": {
-        "name_ja": "S&P 500",
-        "name_en": "S&P 500",
-        "symbol": "^GSPC",
+        "name_ja": "S&P 500", "name_en": "S&P 500", "symbol": "^GSPC",
         "wiki_url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
-        "wiki_table_match": "Symbol",
         "ticker_col_candidates": ["Symbol", "Ticker symbol"],
         "name_col_candidates": ["Security", "Company"],
         "sector_col_candidates": ["GICS Sector", "Sector"],
-        "market": "US",
-        "ticker_suffix": "",
-        "country": "United States",
+        "market": "US", "ticker_suffix": "", "digits_only": False,
+        "country": "United States", "region": "Americas", "flag": "🇺🇸",
         "desc": "米国を代表する大型株500銘柄で構成される時価総額加重平均指数。",
     },
     "nasdaq100": {
-        "name_ja": "NASDAQ-100",
-        "name_en": "NASDAQ-100",
-        "symbol": "^NDX",
+        "name_ja": "NASDAQ-100", "name_en": "NASDAQ-100", "symbol": "^NDX",
         "wiki_url": "https://en.wikipedia.org/wiki/Nasdaq-100",
-        "wiki_table_match": "Ticker",
         "ticker_col_candidates": ["Ticker", "Symbol"],
         "name_col_candidates": ["Company", "Security"],
         "sector_col_candidates": ["GICS Sector", "Sector"],
-        "market": "US",
-        "ticker_suffix": "",
-        "country": "United States",
+        "market": "US", "ticker_suffix": "", "digits_only": False,
+        "country": "United States", "region": "Americas", "flag": "🇺🇸",
         "desc": "NASDAQ上場の金融を除く時価総額上位100銘柄で構成される指数。",
     },
     "dow30": {
-        "name_ja": "NYダウ (Dow Jones Industrial Average)",
-        "name_en": "Dow Jones Industrial Average",
-        "symbol": "^DJI",
+        "name_ja": "NYダウ (Dow Jones Industrial Average)", "name_en": "Dow Jones Industrial Average", "symbol": "^DJI",
         "wiki_url": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
-        "wiki_table_match": "Symbol",
         "ticker_col_candidates": ["Symbol", "Ticker"],
         "name_col_candidates": ["Company", "Security"],
         "sector_col_candidates": ["Industry", "GICS Sector", "Sector"],
-        "market": "US",
-        "ticker_suffix": "",
-        "country": "United States",
+        "market": "US", "ticker_suffix": "", "digits_only": False,
+        "country": "United States", "region": "Americas", "flag": "🇺🇸",
         "desc": "米国を代表する30の優良企業で構成される価格加重平均指数。",
+    },
+    # ========== 欧州 ==========
+    "ftse100": {
+        "name_ja": "FTSE 100", "name_en": "FTSE 100", "symbol": "^FTSE",
+        "wiki_url": "https://en.wikipedia.org/wiki/FTSE_100_Index",
+        "ticker_col_candidates": ["EPIC", "Ticker", "Symbol", "Code"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["FTSE Industry Classification Benchmark sector", "FTSE Industry Classification Benchmark", "Sector", "Industry"],
+        "market": "UK", "ticker_suffix": ".L", "digits_only": False,
+        "country": "United Kingdom", "region": "Europe", "flag": "🇬🇧",
+        "desc": "ロンドン証券取引所(LSE)上場の時価総額上位100銘柄で構成されるイギリス代表指数。",
+    },
+    "dax40": {
+        "name_ja": "DAX 40", "name_en": "DAX", "symbol": "^GDAXI",
+        "wiki_url": "https://en.wikipedia.org/wiki/DAX",
+        "ticker_col_candidates": ["Ticker symbol", "Ticker", "Symbol"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["Prime Standard Sector", "Industry", "Sector"],
+        "market": "DE", "ticker_suffix": ".DE", "digits_only": False,
+        "country": "Germany", "region": "Europe", "flag": "🇩🇪",
+        "desc": "フランクフルト証券取引所に上場するドイツ主要40銘柄で構成される指数。",
+    },
+    "cac40": {
+        "name_ja": "CAC 40", "name_en": "CAC 40", "symbol": "^FCHI",
+        "wiki_url": "https://en.wikipedia.org/wiki/CAC_40",
+        "ticker_col_candidates": ["Ticker", "Symbol", "EURONEXT"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["Sector", "Industry"],
+        "market": "FR", "ticker_suffix": ".PA", "digits_only": False,
+        "country": "France", "region": "Europe", "flag": "🇫🇷",
+        "desc": "ユーロネクスト・パリに上場するフランス主要40銘柄で構成される指数。",
+    },
+    "ftsemib": {
+        "name_ja": "FTSE MIB", "name_en": "FTSE MIB", "symbol": "FTSEMIB.MI",
+        "wiki_url": "https://en.wikipedia.org/wiki/FTSE_MIB",
+        "ticker_col_candidates": ["Ticker", "Symbol", "Code", "ISIN"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["ICB Sector", "Sector", "Industry"],
+        "market": "IT", "ticker_suffix": ".MI", "digits_only": False,
+        "country": "Italy", "region": "Europe", "flag": "🇮🇹",
+        "desc": "ボルサ・イタリアーナに上場するイタリア主要40銘柄で構成される指数。",
+    },
+    "ibex35": {
+        "name_ja": "IBEX 35", "name_en": "IBEX 35", "symbol": "^IBEX",
+        "wiki_url": "https://en.wikipedia.org/wiki/IBEX_35",
+        "ticker_col_candidates": ["Ticker", "Symbol", "Code"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["Sector", "Industry"],
+        "market": "ES", "ticker_suffix": ".MC", "digits_only": False,
+        "country": "Spain", "region": "Europe", "flag": "🇪🇸",
+        "desc": "マドリード証券取引所に上場するスペイン主要35銘柄で構成される指数。",
+    },
+    "aex": {
+        "name_ja": "AEX", "name_en": "AEX index", "symbol": "^AEX",
+        "wiki_url": "https://en.wikipedia.org/wiki/AEX_index",
+        "ticker_col_candidates": ["Ticker", "Symbol", "Code"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["ICB Sector", "Sector", "Industry"],
+        "market": "NL", "ticker_suffix": ".AS", "digits_only": False,
+        "country": "Netherlands", "region": "Europe", "flag": "🇳🇱",
+        "desc": "ユーロネクスト・アムステルダムに上場するオランダ主要25銘柄で構成される指数。",
+    },
+    "smi": {
+        "name_ja": "SMI (Swiss Market Index)", "name_en": "Swiss Market Index", "symbol": "^SSMI",
+        "wiki_url": "https://en.wikipedia.org/wiki/Swiss_Market_Index",
+        "ticker_col_candidates": ["Ticker", "Symbol", "ISIN"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["Sector", "Industry"],
+        "market": "CH", "ticker_suffix": ".SW", "digits_only": False,
+        "country": "Switzerland", "region": "Europe", "flag": "🇨🇭",
+        "desc": "SIXスイス証券取引所に上場するスイス主要20銘柄で構成される指数。",
+    },
+    # ========== アジア太平洋 ==========
+    "hsi": {
+        "name_ja": "ハンセン指数 (Hang Seng)", "name_en": "Hang Seng Index", "symbol": "^HSI",
+        "wiki_url": "https://en.wikipedia.org/wiki/Hang_Seng_Index",
+        "ticker_col_candidates": ["Stock code", "Ticker", "Code", "Symbol"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["Industry", "Sector"],
+        "market": "HK", "ticker_suffix": ".HK", "digits_only": True, "digits_length": 4,
+        "country": "Hong Kong", "region": "Asia-Pacific", "flag": "🇭🇰",
+        "desc": "香港証券取引所に上場する香港代表企業で構成される時価総額加重指数。",
+    },
+    "hstech": {
+        "name_ja": "ハンセンTECH指数", "name_en": "Hang Seng TECH Index", "symbol": "^HSTECH",
+        "wiki_url": "https://en.wikipedia.org/wiki/Hang_Seng_TECH_Index",
+        "ticker_col_candidates": ["Stock code", "Ticker", "Code", "Symbol"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["Industry", "Sector"],
+        "market": "HK", "ticker_suffix": ".HK", "digits_only": True, "digits_length": 4,
+        "country": "Hong Kong", "region": "Asia-Pacific", "flag": "🇭🇰",
+        "desc": "香港上場のテック系30銘柄で構成される、アジア版NASDAQと称される指数。",
+    },
+    "kospi200": {
+        "name_ja": "KOSPI 200", "name_en": "KOSPI 200", "symbol": "^KS200",
+        "wiki_url": "https://en.wikipedia.org/wiki/KOSPI",
+        "ticker_col_candidates": ["Code", "Ticker", "Symbol"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["Sector", "Industry"],
+        "market": "KR", "ticker_suffix": ".KS", "digits_only": True, "digits_length": 6,
+        "country": "South Korea", "region": "Asia-Pacific", "flag": "🇰🇷",
+        "desc": "韓国取引所(KRX)に上場する韓国主要200銘柄で構成される時価総額加重指数。",
+    },
+    "asx200": {
+        "name_ja": "S&P/ASX 200", "name_en": "S&P/ASX 200", "symbol": "^AXJO",
+        "wiki_url": "https://en.wikipedia.org/wiki/S%26P/ASX_200",
+        "ticker_col_candidates": ["Code", "Ticker", "Symbol", "ASX code"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["GICS Sector", "Sector", "Industry"],
+        "market": "AU", "ticker_suffix": ".AX", "digits_only": False,
+        "country": "Australia", "region": "Asia-Pacific", "flag": "🇦🇺",
+        "desc": "オーストラリア証券取引所(ASX)に上場する時価総額上位200銘柄で構成される指数。",
+    },
+    "nifty50": {
+        "name_ja": "NIFTY 50", "name_en": "NIFTY 50", "symbol": "^NSEI",
+        "wiki_url": "https://en.wikipedia.org/wiki/NIFTY_50",
+        "ticker_col_candidates": ["Symbol", "Ticker", "NSE Code", "Code"],
+        "name_col_candidates": ["Company name", "Company", "Name"],
+        "sector_col_candidates": ["Sector", "Industry"],
+        "market": "IN", "ticker_suffix": ".NS", "digits_only": False,
+        "country": "India", "region": "Asia-Pacific", "flag": "🇮🇳",
+        "desc": "インド国立証券取引所(NSE)に上場するインド主要50銘柄で構成される指数。",
+    },
+    "sensex": {
+        "name_ja": "S&P BSE SENSEX", "name_en": "BSE SENSEX", "symbol": "^BSESN",
+        "wiki_url": "https://en.wikipedia.org/wiki/BSE_SENSEX",
+        "ticker_col_candidates": ["BSE code", "Code", "Symbol", "Ticker"],
+        "name_col_candidates": ["Companies", "Company", "Name"],
+        "sector_col_candidates": ["Sector", "Industry"],
+        "market": "IN", "ticker_suffix": ".BO", "digits_only": True, "digits_length": 6,
+        "country": "India", "region": "Asia-Pacific", "flag": "🇮🇳",
+        "desc": "ボンベイ証券取引所(BSE)に上場するインド主要30銘柄で構成される歴史ある指数。",
+    },
+    # ========== アメリカ大陸その他 ==========
+    "tsx60": {
+        "name_ja": "S&P/TSX 60", "name_en": "S&P/TSX 60", "symbol": "^SPTSX",
+        "wiki_url": "https://en.wikipedia.org/wiki/S%26P/TSX_60",
+        "ticker_col_candidates": ["Ticker", "Symbol", "Code"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["Sector", "Industry"],
+        "market": "CA", "ticker_suffix": ".TO", "digits_only": False,
+        "country": "Canada", "region": "Americas", "flag": "🇨🇦",
+        "desc": "トロント証券取引所に上場するカナダ大型60銘柄で構成される指数。",
+    },
+    "ibovespa": {
+        "name_ja": "IBOVESPA", "name_en": "IBOVESPA", "symbol": "^BVSP",
+        "wiki_url": "https://en.wikipedia.org/wiki/%C3%8Dndice_Bovespa",
+        "ticker_col_candidates": ["Ticker", "Symbol", "Code"],
+        "name_col_candidates": ["Company", "Name"],
+        "sector_col_candidates": ["Sector", "Industry"],
+        "market": "BR", "ticker_suffix": ".SA", "digits_only": False,
+        "country": "Brazil", "region": "Americas", "flag": "🇧🇷",
+        "desc": "ブラジル・サンパウロ証券取引所(B3)上場のブラジル主要銘柄で構成される指数。",
     },
 }
 
@@ -120,6 +255,28 @@ INDICES = {
 # ======================================================================
 # Step 1: Wikipedia から構成銘柄リスト取得
 # ======================================================================
+def normalize_ticker(raw: str, cfg: dict) -> str | None:
+    """市場別のticker正規化。数字ベース市場(JP/HK/KR/IN BSE)はzero-pad、文字ベースは大文字化+suffix付与。"""
+    raw = str(raw).strip()
+    if not raw or raw.lower() == "nan":
+        return None
+    if cfg.get("digits_only"):
+        digits = "".join(ch for ch in raw if ch.isdigit())
+        if not digits:
+            return None
+        dl = cfg.get("digits_length", 4)
+        ticker = digits[:dl].zfill(dl) + cfg["ticker_suffix"]
+    else:
+        base = raw.replace(".", "-").upper()
+        # Some indices list tickers with suffix already (e.g. "AIR.PA")
+        # Strip known suffix to avoid double-append
+        suffix = cfg.get("ticker_suffix", "")
+        if suffix and base.endswith(suffix.replace(".", "-").upper()):
+            base = base[: -len(suffix)]
+        ticker = base + suffix
+    return ticker
+
+
 def _flatten_columns(df: pd.DataFrame) -> pd.DataFrame:
     """Multi-index columns -> flat strings."""
     if isinstance(df.columns, pd.MultiIndex):
@@ -180,14 +337,10 @@ def fetch_members_from_wiki(cfg: dict) -> list[dict]:
         if not raw_ticker or not name:
             continue
 
-        # Japanese code -> "7203" (4-digit) -> "7203.T"
-        if cfg["market"] == "JP":
-            digits = "".join(ch for ch in raw_ticker if ch.isdigit())
-            if len(digits) < 4:
-                continue
-            ticker = digits[:4] + cfg["ticker_suffix"]
-        else:
-            ticker = raw_ticker.replace(".", "-").upper()  # BRK.B -> BRK-B for yfinance
+        # Normalize ticker per market
+        ticker = normalize_ticker(raw_ticker, cfg)
+        if not ticker:
+            continue
 
         members.append({
             "ticker": ticker,
@@ -248,21 +401,31 @@ def fetch_prices(tickers: list[str]) -> dict:
 
 
 def fetch_info_batch(tickers: list[str], max_items: int | None = None) -> dict:
-    """fast_info で時価総額など軽く取る。tickerすべて試すと時間かかるのでmax_itemsで制御可能。"""
+    """fast_info を並列で取得。Yahoo Finance のレート対策で最大10並列。"""
+    from concurrent.futures import ThreadPoolExecutor, as_completed
     result = {}
     sub = tickers if max_items is None else tickers[:max_items]
-    for i, t in enumerate(sub):
+
+    def get_one(t: str):
         try:
             fi = yf.Ticker(t).fast_info
-            result[t] = {
+            return t, {
                 "market_cap": int(fi.get("market_cap", 0) or 0),
                 "currency": fi.get("currency", ""),
             }
         except Exception:
-            pass
-        if i % 50 == 49:
-            print(f"    info: {i+1}/{len(sub)}")
-            time.sleep(0.3)
+            return t, None
+
+    done = 0
+    with ThreadPoolExecutor(max_workers=10) as ex:
+        futures = [ex.submit(get_one, t) for t in sub]
+        for f in as_completed(futures):
+            t, info = f.result()
+            if info:
+                result[t] = info
+            done += 1
+            if done % 100 == 0:
+                print(f"    info: {done}/{len(sub)}")
     return result
 
 
@@ -319,16 +482,35 @@ HEAD_TMPL = """<!DOCTYPE html>
     <a class="brand" href="{root_path}">INDEX STOCKS <span class="brand-mark">COMPASS</span></a>
     <nav class="site-nav">
       <a href="{root_path}n225/">日経225</a>
-      <a href="{root_path}topix-core30/">TOPIX30</a>
       <a href="{root_path}sp500/">S&amp;P500</a>
-      <a href="{root_path}nasdaq100/">NASDAQ100</a>
-      <a href="{root_path}dow30/">NYダウ</a>
+      <a href="{root_path}dax40/">DAX</a>
+      <a href="{root_path}hsi/">ハンセン</a>
+      <a href="{root_path}#all-indices">全20指数 →</a>
     </nav>
   </div>
 </header>
 """
 
-FOOT_TMPL = """<footer class="site-footer">
+PROMO_HTML = """
+<section class="promo-musclelove">
+  <div class="container">
+    <div class="promo-card">
+      <div class="promo-icon">💪</div>
+      <div class="promo-body">
+        <div class="promo-eyebrow">PR · 運営メディア</div>
+        <h3>MuscleLove — 筋トレ・フィットネス情報ネットワーク</h3>
+        <p>格闘女子・フィジーク・アームレスリング・筋トレ飯など、40+サイトを展開するMuscleLoveを運営中。XとPatreonで限定コンテンツも配信しています。</p>
+      </div>
+      <div class="promo-cta">
+        <a class="btn-promo" href="https://x.com/MuscleGirlLove7" target="_blank" rel="noopener">X @MuscleGirlLove7</a>
+        <a class="btn-promo outline" href="https://www.patreon.com/MuscleLove" target="_blank" rel="noopener">Patreon</a>
+      </div>
+    </div>
+  </div>
+</section>
+"""
+
+FOOT_TMPL = PROMO_HTML + """<footer class="site-footer">
   <div class="container">
     <div><strong>Index Stocks Compass</strong> — 主要株価指数の構成銘柄・株価を毎日自動更新</div>
     <div>最終更新: {updated}</div>
@@ -340,22 +522,27 @@ FOOT_TMPL = """<footer class="site-footer">
 """
 
 
-def render_top(index_data: dict, updated: str) -> str:
-    cards = []
-    for slug, cfg in INDICES.items():
-        members = index_data[slug]["members"]
-        count = len(members)
-        # average change_pct across available prices
-        pcts = [m["change_pct"] for m in members if m.get("change_pct") is not None]
-        avg = sum(pcts) / len(pcts) if pcts else 0.0
-        ups = sum(1 for p in pcts if p > 0)
-        downs = sum(1 for p in pcts if p < 0)
-        cls = color_class(avg)
-        cards.append(f"""
+REGIONS_ORDER = ["Japan", "Americas", "Europe", "Asia-Pacific"]
+REGIONS_LABEL = {
+    "Japan": "🇯🇵 日本",
+    "Americas": "🌎 アメリカ大陸",
+    "Europe": "🇪🇺 ヨーロッパ",
+    "Asia-Pacific": "🌏 アジア・オセアニア",
+}
+
+
+def _index_card(slug: str, cfg: dict, members: list[dict]) -> str:
+    count = len(members)
+    pcts = [m["change_pct"] for m in members if m.get("change_pct") is not None]
+    avg = sum(pcts) / len(pcts) if pcts else 0.0
+    ups = sum(1 for p in pcts if p > 0)
+    downs = sum(1 for p in pcts if p < 0)
+    cls = color_class(avg)
+    return f"""
       <a class="index-card" href="{slug}/">
         <div class="index-head">
           <div>
-            <h3>{cfg["name_ja"]}</h3>
+            <h3>{cfg["flag"]} {cfg["name_ja"]}</h3>
             <div class="index-sub">{cfg["name_en"]} · {count}銘柄</div>
           </div>
           <span class="flag flag-{cfg["market"].lower()}">{cfg["market"]}</span>
@@ -369,25 +556,51 @@ def render_top(index_data: dict, updated: str) -> str:
           <span class="down">▼ {downs}</span>
           <span class="flat">— {count - ups - downs}</span>
         </div>
-      </a>""")
+      </a>"""
+
+
+def render_top(index_data: dict, updated: str) -> str:
+    # Group by region
+    region_blocks = []
+    total_count = sum(len(index_data[s]["members"]) for s in INDICES)
+    for region in REGIONS_ORDER:
+        slugs_in = [s for s, c in INDICES.items() if c.get("region") == region]
+        if not slugs_in:
+            continue
+        cards = [_index_card(s, INDICES[s], index_data[s]["members"]) for s in slugs_in]
+        n_indices = len(slugs_in)
+        n_stocks = sum(len(index_data[s]["members"]) for s in slugs_in)
+        region_blocks.append(f"""
+    <div class="region-block">
+      <div class="region-head">
+        <h3 class="region-title">{REGIONS_LABEL[region]}</h3>
+        <div class="region-sub">{n_indices}指数 · {n_stocks}銘柄</div>
+      </div>
+      <div class="index-grid">
+        {"".join(cards)}
+      </div>
+    </div>""")
 
     body = f"""
 <section class="hero">
   <div class="container">
-    <h1>株価指数の構成銘柄を、<br>毎日まるごと追跡。</h1>
-    <p class="lead">日経225 · TOPIX Core30 · S&amp;P 500 · NASDAQ-100 · NYダウ。<br>5つの主要指数の構成銘柄と株価を毎朝自動で更新し、ワンクリックで俯瞰できます。</p>
+    <h1>世界の株価指数を、<br>まるごと毎日アップデート。</h1>
+    <p class="lead">日米欧アジア <strong>20指数 / {total_count}銘柄</strong> の構成と株価を毎朝自動で更新。<br>半年ごとの指数入替にも自動追従する、世界の市場の羅針盤。</p>
+    <div class="hero-stats">
+      <div class="stat"><div class="num">20</div><div class="label">Indices</div></div>
+      <div class="stat"><div class="num">{total_count}</div><div class="label">Stocks tracked</div></div>
+      <div class="stat"><div class="num">15</div><div class="label">Countries</div></div>
+    </div>
   </div>
 </section>
 
-<section class="block">
+<section class="block" id="all-indices">
   <div class="container">
     <div class="section-head">
-      <h2>主要指数スナップショット</h2>
-      <p>各指数の最新の構成銘柄数と、構成銘柄の平均騰落率を一覧表示。</p>
+      <h2>全指数スナップショット</h2>
+      <p>地域別に20指数を一覧表示。各カードは構成銘柄数と平均騰落率、上昇/下落銘柄の内訳を示しています。</p>
     </div>
-    <div class="index-grid">
-      {"".join(cards)}
-    </div>
+    {"".join(region_blocks)}
   </div>
 </section>
 
@@ -395,15 +608,15 @@ def render_top(index_data: dict, updated: str) -> str:
   <div class="container">
     <div class="section-head">
       <h2>このサイトについて</h2>
-      <p>Index Stocks Compass は、日米の主要株価指数に採用されている全銘柄の最新株価・前日比を毎日自動集計・公開する情報サイトです。構成銘柄の変更（定期入替・臨時入替）も週次で自動追従します。プロの投資家から初学者まで、「今、この指数に何が入っているか」を把握するための羅針盤としてお使いください。</p>
+      <p>Index Stocks Compass は、世界の主要株価指数に採用されている全銘柄の最新株価・前日比を毎日自動集計・公開する情報サイトです。構成銘柄の変更（定期入替・臨時入替）も自動追従します。プロの投資家から初学者まで、「今、この指数に何が入っているか」を把握するための羅針盤としてお使いください。</p>
     </div>
   </div>
 </section>
 """
     head = HEAD_TMPL.format(
         lang="ja",
-        title="Index Stocks Compass | 日経225・TOPIX・S&P500の構成銘柄を毎日自動更新",
-        desc="日経平均・TOPIX Core30・S&P500・NASDAQ100・NYダウの構成銘柄と最新株価を毎日自動で集計。構成銘柄変更の追跡も自動化。",
+        title=f"Index Stocks Compass | 世界20指数{total_count}銘柄の構成銘柄と株価を毎日自動更新",
+        desc=f"日経225・S&P500・DAX・FTSE・ハンセン・NIFTY等、世界20指数{total_count}銘柄の構成と株価を毎日自動集計。構成銘柄変更も自動追従。",
         canonical=BASE_URL + "/",
         ogtype="website",
         css_path="assets/style.css",
@@ -443,7 +656,7 @@ def render_index(slug: str, cfg: dict, members: list[dict], updated: str) -> str
 <section class="page-hero">
   <div class="container">
     <div class="breadcrumb"><a href="../">ホーム</a> › {cfg["name_ja"]}</div>
-    <h1>{cfg["name_ja"]}</h1>
+    <h1>{cfg["flag"]} {cfg["name_ja"]}</h1>
     <p class="lead">{cfg["desc"]}</p>
     <div class="hero-stats">
       <div class="stat"><div class="num">{len(members)}</div><div class="label">構成銘柄</div></div>

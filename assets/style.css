@@ -160,6 +160,70 @@ section.block.alt { background: var(--bg-alt); border-top: 1px solid var(--borde
 .t-name { color: var(--ink); font-weight: 500; }
 .t-sector { color: var(--ink-soft); font-size: 0.82rem; }
 
+/* Region grouping (top page) */
+.region-block { margin-bottom: 48px; }
+.region-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 18px;
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 10px;
+}
+.region-title { font-size: 1.2rem; font-weight: 900; color: var(--ink); letter-spacing: 0.02em; }
+.region-sub { font-size: 0.82rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+
+/* MuscleLove promo (house ad) */
+.promo-musclelove { padding: 30px 0 10px; }
+.promo-card {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  padding: 22px 24px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #FFF7E6 0%, #FFE9B0 100%);
+  border: 1.5px solid var(--accent);
+  box-shadow: 0 6px 28px rgba(246, 198, 72, 0.18);
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.promo-icon { font-size: 2.4rem; line-height: 1; flex-shrink: 0; }
+.promo-body { flex: 1; min-width: 0; }
+.promo-eyebrow {
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #8B6B1C;
+  margin-bottom: 4px;
+}
+.promo-body h3 { font-size: 1.08rem; font-weight: 900; color: #0B1020; margin-bottom: 4px; }
+.promo-body p { font-size: 0.88rem; color: #2C2C2C; line-height: 1.55; }
+.promo-cta { display: flex; flex-direction: column; gap: 8px; flex-shrink: 0; }
+.btn-promo {
+  display: inline-block;
+  padding: 9px 18px;
+  border-radius: 999px;
+  background: #0B1020;
+  color: var(--accent) !important;
+  font-weight: 800;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  text-align: center;
+  transition: transform 0.2s;
+}
+.btn-promo:hover { transform: translateY(-1px); opacity: 1; }
+.btn-promo.outline {
+  background: transparent;
+  border: 1.5px solid #0B1020;
+  color: #0B1020 !important;
+}
+@media (max-width: 640px) {
+  .promo-card { flex-direction: column; align-items: flex-start; text-align: left; }
+  .promo-cta { flex-direction: row; flex-wrap: wrap; width: 100%; }
+  .btn-promo { flex: 1; }
+}
+
 /* Footer */
 .site-footer {
   background: #080D1E;
