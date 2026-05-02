@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02 07:49 JST",
+  "updated": "2026-05-03 07:40 JST",
   "members": [
     {
       "ticker": "AEM.TO",
@@ -9,7 +9,7 @@
       "close": 249.67,
       "prev_close": 255.43,
       "change_pct": -2.26,
-      "volume": 720834,
+      "volume": 754800,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -22,7 +22,7 @@
       "close": 81.09,
       "prev_close": 80.36,
       "change_pct": 0.91,
-      "volume": 993242,
+      "volume": 997100,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -35,7 +35,7 @@
       "close": 207.41,
       "prev_close": 206.84,
       "change_pct": 0.28,
-      "volume": 2059576,
+      "volume": 2065300,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -48,7 +48,7 @@
       "close": 106.05,
       "prev_close": 105.68,
       "change_pct": 0.35,
-      "volume": 4234871,
+      "volume": 4240000,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -61,7 +61,7 @@
       "close": 52.75,
       "prev_close": 53.37,
       "change_pct": -1.16,
-      "volume": 2699015,
+      "volume": 2703800,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -74,7 +74,7 @@
       "close": 32.56,
       "prev_close": 32.28,
       "change_pct": 0.87,
-      "volume": 1889375,
+      "volume": 1902900,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -87,7 +87,7 @@
       "close": 65.23,
       "prev_close": 65.26,
       "change_pct": -0.05,
-      "volume": 1277653,
+      "volume": 1280900,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -100,7 +100,7 @@
       "close": 61.48,
       "prev_close": 61.35,
       "change_pct": 0.21,
-      "volume": 1949460,
+      "volume": 1973000,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -113,7 +113,7 @@
       "close": 49.2,
       "prev_close": 48.67,
       "change_pct": 1.09,
-      "volume": 383227,
+      "volume": 384392,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -126,7 +126,7 @@
       "close": 35.15,
       "prev_close": 35.5,
       "change_pct": -0.99,
-      "volume": 508788,
+      "volume": 511600,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -139,7 +139,7 @@
       "close": 163.66,
       "prev_close": 166.98,
       "change_pct": -1.99,
-      "volume": 560666,
+      "volume": 564700,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -152,7 +152,7 @@
       "close": 152.5,
       "prev_close": 151.57,
       "change_pct": 0.61,
-      "volume": 1903904,
+      "volume": 1909900,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -165,7 +165,7 @@
       "close": 152.19,
       "prev_close": 152.57,
       "change_pct": -0.25,
-      "volume": 754105,
+      "volume": 758100,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -178,7 +178,7 @@
       "close": 63.88,
       "prev_close": 64.84,
       "change_pct": -1.48,
-      "volume": 9006225,
+      "volume": 9011900,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -191,7 +191,7 @@
       "close": 117.16,
       "prev_close": 118.14,
       "change_pct": -0.83,
-      "volume": 982583,
+      "volume": 988700,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -204,7 +204,7 @@
       "close": 189.16,
       "prev_close": 188.91,
       "change_pct": 0.13,
-      "volume": 108977,
+      "volume": 109000,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -217,7 +217,7 @@
       "close": 84.92,
       "prev_close": 85.78,
       "change_pct": -1.0,
-      "volume": 281989,
+      "volume": 284800,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -230,7 +230,7 @@
       "close": 569.51,
       "prev_close": 557.68,
       "change_pct": 2.12,
-      "volume": 344676,
+      "volume": 347500,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -243,7 +243,7 @@
       "close": 39.82,
       "prev_close": 39.74,
       "change_pct": 0.2,
-      "volume": 4938976,
+      "volume": 4942700,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -256,7 +256,7 @@
       "close": 90.41,
       "prev_close": 88.91,
       "change_pct": 1.69,
-      "volume": 595639,
+      "volume": 595600,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -269,7 +269,7 @@
       "close": 2441.95,
       "prev_close": 2473.89,
       "change_pct": -1.29,
-      "volume": 38257,
+      "volume": 39400,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -282,7 +282,7 @@
       "close": 174.0,
       "prev_close": 173.6,
       "change_pct": 0.23,
-      "volume": 377168,
+      "volume": 380600,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -295,7 +295,7 @@
       "close": 72.1,
       "prev_close": 72.47,
       "change_pct": -0.51,
-      "volume": 667460,
+      "volume": 670400,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -308,7 +308,7 @@
       "close": 74.58,
       "prev_close": 75.34,
       "change_pct": -1.01,
-      "volume": 4773312,
+      "volume": 4781000,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -321,7 +321,7 @@
       "close": 2170.28,
       "prev_close": 2350.67,
       "change_pct": -7.67,
-      "volume": 160568,
+      "volume": 168800,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -334,7 +334,7 @@
       "close": 32.34,
       "prev_close": 33.26,
       "change_pct": -2.77,
-      "volume": 2495150,
+      "volume": 2498500,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -347,7 +347,7 @@
       "close": 179.9,
       "prev_close": 182.01,
       "change_pct": -1.16,
-      "volume": 133699,
+      "volume": 134800,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -360,7 +360,7 @@
       "close": 77.74,
       "prev_close": 77.68,
       "change_pct": 0.08,
-      "volume": 604944,
+      "volume": 604900,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -373,7 +373,7 @@
       "close": 307.53,
       "prev_close": 313.38,
       "change_pct": -1.87,
-      "volume": 240946,
+      "volume": 245500,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -386,7 +386,7 @@
       "close": 97.65,
       "prev_close": 98.03,
       "change_pct": -0.39,
-      "volume": 131754,
+      "volume": 185800,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -399,7 +399,7 @@
       "close": 83.61,
       "prev_close": 84.3,
       "change_pct": -0.82,
-      "volume": 551651,
+      "volume": 554600,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -412,7 +412,7 @@
       "close": 58.41,
       "prev_close": 58.36,
       "change_pct": 0.09,
-      "volume": 584122,
+      "volume": 586900,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -425,7 +425,7 @@
       "close": 174.6,
       "prev_close": 181.96,
       "change_pct": -4.04,
-      "volume": 1448854,
+      "volume": 1448900,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -438,7 +438,7 @@
       "close": 261.66,
       "prev_close": 261.74,
       "change_pct": -0.03,
-      "volume": 199361,
+      "volume": 225300,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -451,7 +451,7 @@
       "close": 40.22,
       "prev_close": 41.15,
       "change_pct": -2.26,
-      "volume": 2851491,
+      "volume": 2857700,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -464,7 +464,7 @@
       "close": 62.72,
       "prev_close": 62.62,
       "change_pct": 0.16,
-      "volume": 573783,
+      "volume": 644300,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -477,7 +477,7 @@
       "close": 82.68,
       "prev_close": 86.45,
       "change_pct": -4.36,
-      "volume": 1057254,
+      "volume": 1057500,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -490,7 +490,7 @@
       "close": 53.2,
       "prev_close": 53.41,
       "change_pct": -0.39,
-      "volume": 3717032,
+      "volume": 3717000,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -503,7 +503,7 @@
       "close": 91.16,
       "prev_close": 91.06,
       "change_pct": 0.11,
-      "volume": 204565,
+      "volume": 204600,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -516,7 +516,7 @@
       "close": 102.24,
       "prev_close": 103.25,
       "change_pct": -0.98,
-      "volume": 663739,
+      "volume": 663200,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -529,7 +529,7 @@
       "close": 31.51,
       "prev_close": 30.79,
       "change_pct": 2.34,
-      "volume": 364472,
+      "volume": 368900,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -542,7 +542,7 @@
       "close": 63.2,
       "prev_close": 63.23,
       "change_pct": -0.05,
-      "volume": 912915,
+      "volume": 912900,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -555,7 +555,7 @@
       "close": 76.21,
       "prev_close": 75.78,
       "change_pct": 0.57,
-      "volume": 932587,
+      "volume": 932600,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -568,7 +568,7 @@
       "close": 108.76,
       "prev_close": 109.61,
       "change_pct": -0.78,
-      "volume": 575652,
+      "volume": 607900,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -581,7 +581,7 @@
       "close": 49.5,
       "prev_close": 49.45,
       "change_pct": 0.1,
-      "volume": 1024714,
+      "volume": 1024700,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -594,7 +594,7 @@
       "close": 244.2,
       "prev_close": 244.31,
       "change_pct": -0.05,
-      "volume": 1494070,
+      "volume": 1514600,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -607,7 +607,7 @@
       "close": 40.98,
       "prev_close": 41.13,
       "change_pct": -0.36,
-      "volume": 541073,
+      "volume": 548800,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -620,7 +620,7 @@
       "close": 173.48,
       "prev_close": 164.88,
       "change_pct": 5.22,
-      "volume": 1349014,
+      "volume": 1349000,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -633,7 +633,7 @@
       "close": 98.27,
       "prev_close": 97.87,
       "change_pct": 0.41,
-      "volume": 677953,
+      "volume": 678000,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -646,7 +646,7 @@
       "close": 91.83,
       "prev_close": 93.08,
       "change_pct": -1.34,
-      "volume": 2500182,
+      "volume": 2500200,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -659,7 +659,7 @@
       "close": 90.63,
       "prev_close": 91.08,
       "change_pct": -0.49,
-      "volume": 4980107,
+      "volume": 4985000,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -685,7 +685,7 @@
       "close": 17.07,
       "prev_close": 17.01,
       "change_pct": 0.35,
-      "volume": 4159612,
+      "volume": 4162900,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -698,7 +698,7 @@
       "close": 128.18,
       "prev_close": 129.94,
       "change_pct": -1.35,
-      "volume": 476731,
+      "volume": 478900,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -711,7 +711,7 @@
       "close": 145.84,
       "prev_close": 146.33,
       "change_pct": -0.33,
-      "volume": 4683539,
+      "volume": 4695600,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -724,7 +724,7 @@
       "close": 65.95,
       "prev_close": 65.8,
       "change_pct": 0.23,
-      "volume": 1401547,
+      "volume": 1410500,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -737,7 +737,7 @@
       "close": 219.0,
       "prev_close": 223.76,
       "change_pct": -2.13,
-      "volume": 252713,
+      "volume": 255400,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -750,7 +750,7 @@
       "close": 170.85,
       "prev_close": 171.58,
       "change_pct": -0.43,
-      "volume": 401631,
+      "volume": 406100,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
@@ -763,7 +763,7 @@
       "close": 227.03,
       "prev_close": 226.0,
       "change_pct": 0.46,
-      "volume": 285689,
+      "volume": 285700,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
