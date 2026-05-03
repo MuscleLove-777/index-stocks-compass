@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03 07:40 JST",
+  "updated": "2026-05-04 07:40 JST",
   "members": [
     {
       "ticker": "AEM.TO",
@@ -696,9 +696,9 @@
       "name": "Thomson Reuters Corporation",
       "sector": "Industrials",
       "close": 128.18,
-      "prev_close": 129.94,
-      "change_pct": -1.35,
-      "volume": 478900,
+      "prev_close": 131.98,
+      "change_pct": -2.88,
+      "volume": 478932,
       "last_date": "2026-05-01",
       "market_cap": 0,
       "currency": "CAD"
