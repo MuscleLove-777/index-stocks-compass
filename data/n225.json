@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09 07:54 JST",
+  "updated": "2026-05-10 07:42 JST",
   "members": [
     {
       "ticker": "6857.T",
@@ -2047,11 +2047,11 @@
       "wiki_ticker": "9735.T",
       "name": "Secom Co., Ltd.",
       "sector": "Services",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5647.0,
+      "prev_close": 5628.0,
+      "change_pct": 0.34,
+      "volume": 1526300,
+      "last_date": "2026-05-08",
       "market_cap": 0,
       "currency": "JPY"
     },
