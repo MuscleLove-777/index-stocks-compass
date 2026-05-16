@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16 07:54 JST",
+  "updated": "2026-05-17 07:43 JST",
   "members": [
     {
       "ticker": "360.AX",
@@ -2563,17 +2563,17 @@
       "currency": ""
     },
     {
-      "ticker": "YAN.AX",
-      "wiki_ticker": "YAN",
+      "ticker": "YAL.AX",
+      "wiki_ticker": "YAL",
       "name": "Yancoal Australia",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 6.71,
+      "prev_close": 6.44,
+      "change_pct": 4.19,
+      "volume": 3330530,
+      "last_date": "2026-05-15",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ZIM.AX",
