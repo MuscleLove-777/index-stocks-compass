@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23 07:57 JST",
+  "updated": "2026-05-24 07:52 JST",
   "members": [
     {
       "ticker": "360.AX",
@@ -82,7 +82,7 @@
     {
       "ticker": "AIA.AX",
       "wiki_ticker": "AIA",
-      "name": "Auckland Airport",
+      "name": "Auckland International Airport Limited",
       "sector": "Industrials",
       "close": 6.67,
       "prev_close": 6.59,
@@ -701,7 +701,7 @@
       "volume": 0,
       "last_date": "2026-05-22",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CWY.AX",
@@ -1117,7 +1117,7 @@
       "volume": null,
       "last_date": null,
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "IFT.AX",
@@ -1520,7 +1520,7 @@
       "volume": null,
       "last_date": null,
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "NST.AX",
