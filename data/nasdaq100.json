@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20 07:56 JST",
+  "updated": "2026-06-21 08:07 JST",
   "members": [
     {
       "ticker": "ADBE",
@@ -552,10 +552,10 @@
       "wiki_ticker": "GEHC",
       "name": "GE HealthCare",
       "sector": "",
-      "close": 61.59,
+      "close": NaN,
       "prev_close": 61.15,
-      "change_pct": 0.72,
-      "volume": 8337100,
+      "change_pct": NaN,
+      "volume": 7050000,
       "last_date": "2026-06-18",
       "market_cap": 0,
       "currency": "USD"
@@ -604,10 +604,10 @@
       "wiki_ticker": "INSM",
       "name": "Insmed Incorporated",
       "sector": "",
-      "close": 95.8,
+      "close": NaN,
       "prev_close": 98.45,
-      "change_pct": -2.69,
-      "volume": 23379000,
+      "change_pct": NaN,
+      "volume": 16076027,
       "last_date": "2026-06-18",
       "market_cap": 0,
       "currency": "USD"

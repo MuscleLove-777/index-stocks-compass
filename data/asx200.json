@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20 07:56 JST",
+  "updated": "2026-06-21 08:07 JST",
   "members": [
     {
       "ticker": "360.AX",
@@ -1117,7 +1117,7 @@
       "volume": null,
       "last_date": null,
       "market_cap": 0,
-      "currency": "AUD"
+      "currency": ""
     },
     {
       "ticker": "IFT.AX",
