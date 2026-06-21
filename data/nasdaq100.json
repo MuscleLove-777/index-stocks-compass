@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21 08:07 JST",
+  "updated": "2026-06-22 08:11 JST",
   "members": [
     {
       "ticker": "ADBE",
@@ -552,10 +552,10 @@
       "wiki_ticker": "GEHC",
       "name": "GE HealthCare",
       "sector": "",
-      "close": NaN,
+      "close": 61.59,
       "prev_close": 61.15,
-      "change_pct": NaN,
-      "volume": 7050000,
+      "change_pct": 0.72,
+      "volume": 8337100,
       "last_date": "2026-06-18",
       "market_cap": 0,
       "currency": "USD"
@@ -604,10 +604,10 @@
       "wiki_ticker": "INSM",
       "name": "Insmed Incorporated",
       "sector": "",
-      "close": NaN,
+      "close": 95.8,
       "prev_close": 98.45,
-      "change_pct": NaN,
-      "volume": 16076027,
+      "change_pct": -2.69,
+      "volume": 23379000,
       "last_date": "2026-06-18",
       "market_cap": 0,
       "currency": "USD"
@@ -916,11 +916,11 @@
       "wiki_ticker": "ORLY",
       "name": "O'Reilly Automotive",
       "sector": "",
-      "close": 86.84,
-      "prev_close": 88.4,
-      "change_pct": -1.76,
-      "volume": 15497300,
-      "last_date": "2026-06-18",
+      "close": null,
+      "prev_close": null,
+      "change_pct": null,
+      "volume": null,
+      "last_date": null,
       "market_cap": 0,
       "currency": "USD"
     },
