@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28 08:01 JST",
+  "updated": "2026-06-29 08:00 JST",
   "members": [
     {
       "ticker": "MMM",
@@ -175,10 +175,10 @@
       "wiki_ticker": "HON",
       "name": "Honeywell",
       "sector": "Industrials",
-      "close": 232.21,
-      "prev_close": 231.24,
+      "close": 464.42,
+      "prev_close": 462.48,
       "change_pct": 0.42,
-      "volume": 17877400,
+      "volume": 8387947,
       "last_date": "2026-06-26",
       "market_cap": 0,
       "currency": "USD"
