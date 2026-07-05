@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05 07:56 JST",
+  "updated": "2026-07-06 07:59 JST",
   "members": [
     {
       "ticker": "A2A.MI",
@@ -358,8 +358,8 @@
       "name": "Nexi",
       "sector": "Industrial Goods and Services",
       "close": 3.77,
-      "prev_close": 3.77,
-      "change_pct": -0.08,
+      "prev_close": 3.71,
+      "change_pct": 1.45,
       "volume": 12488327,
       "last_date": "2026-07-03",
       "market_cap": 0,

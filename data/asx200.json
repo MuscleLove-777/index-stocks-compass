@@ -1,31 +1,31 @@
 {
-  "updated": "2026-07-05 07:56 JST",
+  "updated": "2026-07-06 07:59 JST",
   "members": [
     {
       "ticker": "360.AX",
       "wiki_ticker": "360",
       "name": "Life360",
       "sector": "Information Technology",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 27.46,
+      "prev_close": 27.19,
+      "change_pct": 0.99,
+      "volume": 1015893,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "4DX.AX",
       "wiki_ticker": "4DX",
       "name": "4DMedical",
       "sector": "Healthcare",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 4.25,
+      "prev_close": 4.06,
+      "change_pct": 4.68,
+      "volume": 4409442,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "A2M.AX",
@@ -38,33 +38,33 @@
       "volume": 1418942,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "AAI.AX",
       "wiki_ticker": "AAI",
       "name": "Alcoa",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 73.09,
+      "prev_close": 70.5,
+      "change_pct": 3.67,
+      "volume": 436161,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "AFI.AX",
       "wiki_ticker": "AFI",
       "name": "Australian Foundation Investment Company",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 6.88,
+      "prev_close": 6.85,
+      "change_pct": 0.44,
+      "volume": 902336,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "AGL.AX",
@@ -77,33 +77,33 @@
       "volume": 2673227,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "AIA.AX",
       "wiki_ticker": "AIA",
       "name": "Auckland International Airport Limited",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 7.09,
+      "prev_close": 7.12,
+      "change_pct": -0.42,
+      "volume": 272340,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ALD.AX",
       "wiki_ticker": "ALD",
       "name": "Ampol",
       "sector": "Energy",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 33.88,
+      "prev_close": 33.53,
+      "change_pct": 1.04,
+      "volume": 682520,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ALK.AX",
@@ -116,7 +116,7 @@
       "volume": 4162780,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ALL.AX",
@@ -129,7 +129,7 @@
       "volume": 1191180,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ALQ.AX",
@@ -142,137 +142,137 @@
       "volume": 1133846,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ALX.AX",
       "wiki_ticker": "ALX",
       "name": "Atlas Arteria",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5.1,
+      "prev_close": 5.1,
+      "change_pct": 0.0,
+      "volume": 40365753,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "AMC.AX",
       "wiki_ticker": "AMC",
       "name": "Amcor",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 64.55,
+      "prev_close": 62.47,
+      "change_pct": 3.33,
+      "volume": 502095,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "AMP.AX",
       "wiki_ticker": "AMP",
       "name": "AMP",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 1.72,
+      "prev_close": 1.68,
+      "change_pct": 2.08,
+      "volume": 7262175,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ANN.AX",
       "wiki_ticker": "ANN",
       "name": "Ansell",
       "sector": "Healthcare",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 32.46,
+      "prev_close": 31.82,
+      "change_pct": 2.01,
+      "volume": 280717,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ANZ.AX",
       "wiki_ticker": "ANZ",
       "name": "Australia & New Zealand Banking Group",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 35.26,
+      "prev_close": 34.79,
+      "change_pct": 1.35,
+      "volume": 2720610,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "APA.AX",
       "wiki_ticker": "APA",
       "name": "APA Group",
       "sector": "Utilities",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 9.93,
+      "prev_close": 9.95,
+      "change_pct": -0.2,
+      "volume": 2174730,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "APE.AX",
       "wiki_ticker": "APE",
       "name": "Eagers Automotive",
       "sector": "Consumer Discretionary",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 21.87,
+      "prev_close": 21.2,
+      "change_pct": 3.16,
+      "volume": 670436,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ARB.AX",
       "wiki_ticker": "ARB",
       "name": "ARB Corporation",
       "sector": "Consumer Discretionary",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 18.17,
+      "prev_close": 18.37,
+      "change_pct": -1.09,
+      "volume": 317128,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ARG.AX",
       "wiki_ticker": "ARG",
       "name": "Argo Investments",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 9.08,
+      "prev_close": 9.04,
+      "change_pct": 0.44,
+      "volume": 447677,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ASB.AX",
       "wiki_ticker": "ASB",
       "name": "Austal",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 4.19,
+      "prev_close": 4.09,
+      "change_pct": 2.44,
+      "volume": 661986,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ASK.AX",
@@ -285,33 +285,33 @@
       "volume": 732022,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ASX.AX",
       "wiki_ticker": "ASX",
       "name": "ASX",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 51.52,
+      "prev_close": 52.25,
+      "change_pct": -1.4,
+      "volume": 1022670,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "AUB.AX",
       "wiki_ticker": "AUB",
       "name": "AUB Group",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 28.07,
+      "prev_close": 28.1,
+      "change_pct": -0.11,
+      "volume": 440817,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "AZJ.AX",
@@ -324,20 +324,20 @@
       "volume": 5911997,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "BEN.AX",
       "wiki_ticker": "BEN",
       "name": "Bendigo & Adelaide Bank",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 10.41,
+      "prev_close": 10.33,
+      "change_pct": 0.77,
+      "volume": 993436,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "BFL.AX",
@@ -350,7 +350,7 @@
       "volume": 5107,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "BGA.AX",
@@ -363,111 +363,111 @@
       "volume": 551747,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "BGL.AX",
       "wiki_ticker": "BGL",
       "name": "Bellevue Gold",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 1.33,
+      "prev_close": 1.26,
+      "change_pct": 5.14,
+      "volume": 9000496,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "BHP.AX",
       "wiki_ticker": "BHP",
       "name": "BHP",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 60.5,
+      "prev_close": 59.57,
+      "change_pct": 1.56,
+      "volume": 5454380,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "BOQ.AX",
       "wiki_ticker": "BOQ",
       "name": "Bank of Queensland",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 6.18,
+      "prev_close": 6.17,
+      "change_pct": 0.16,
+      "volume": 1276529,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "BPT.AX",
       "wiki_ticker": "BPT",
       "name": "Beach Energy",
       "sector": "Energy",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 0.84,
+      "prev_close": 0.83,
+      "change_pct": 0.6,
+      "volume": 7647889,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "BRG.AX",
       "wiki_ticker": "BRG",
       "name": "Breville Group",
       "sector": "Consumer Discretionary",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 31.84,
+      "prev_close": 32.01,
+      "change_pct": -0.53,
+      "volume": 268429,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "BSL.AX",
       "wiki_ticker": "BSL",
       "name": "BlueScope",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 31.32,
+      "prev_close": 30.4,
+      "change_pct": 3.03,
+      "volume": 1065539,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "BWP.AX",
       "wiki_ticker": "BWP",
       "name": "BWP Trust",
       "sector": "Real Estate",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 3.81,
+      "prev_close": 3.79,
+      "change_pct": 0.53,
+      "volume": 862294,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "BXB.AX",
       "wiki_ticker": "BXB",
       "name": "Brambles",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 19.72,
+      "prev_close": 19.37,
+      "change_pct": 1.81,
+      "volume": 1661424,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CAR.AX",
@@ -480,85 +480,85 @@
       "volume": 1359348,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CBA.AX",
       "wiki_ticker": "CBA",
       "name": "Commonwealth Bank",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 165.02,
+      "prev_close": 161.14,
+      "change_pct": 2.41,
+      "volume": 1298076,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CDA.AX",
       "wiki_ticker": "CDA",
       "name": "Codan",
       "sector": "Information Technology",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 44.0,
+      "prev_close": 44.04,
+      "change_pct": -0.09,
+      "volume": 361680,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CEN.AX",
       "wiki_ticker": "CEN",
       "name": "Contact Energy",
       "sector": "Utilities",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 7.46,
+      "prev_close": 7.5,
+      "change_pct": -0.53,
+      "volume": 2170,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CGF.AX",
       "wiki_ticker": "CGF",
       "name": "Challenger",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 10.33,
+      "prev_close": 10.17,
+      "change_pct": 1.57,
+      "volume": 845407,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CHC.AX",
       "wiki_ticker": "CHC",
       "name": "Charter Hall",
       "sector": "Real Estate",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 22.9,
+      "prev_close": 22.49,
+      "change_pct": 1.82,
+      "volume": 933529,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CIA.AX",
       "wiki_ticker": "CIA",
       "name": "Champion Iron",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 4.04,
+      "prev_close": 3.89,
+      "change_pct": 3.86,
+      "volume": 2978765,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CIP.AX",
@@ -571,20 +571,20 @@
       "volume": 699271,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CLW.AX",
       "wiki_ticker": "CLW",
       "name": "Charter Hall Long WALE REIT",
       "sector": "Real Estate",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 3.65,
+      "prev_close": 3.62,
+      "change_pct": 0.83,
+      "volume": 683595,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CMM.AX",
@@ -597,20 +597,20 @@
       "volume": 2984253,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CNU.AX",
       "wiki_ticker": "CNU",
       "name": "Chorus",
       "sector": "Communication Services",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 7.87,
+      "prev_close": 7.98,
+      "change_pct": -1.38,
+      "volume": 253844,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "COH.AX",
@@ -623,33 +623,33 @@
       "volume": 380897,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "COL.AX",
       "wiki_ticker": "COL",
       "name": "Coles Group",
       "sector": "Consumer Staples",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 23.28,
+      "prev_close": 23.1,
+      "change_pct": 0.78,
+      "volume": 2688223,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CPU.AX",
       "wiki_ticker": "CPU",
       "name": "Computershare",
       "sector": "Information Technology",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 39.39,
+      "prev_close": 38.24,
+      "change_pct": 3.01,
+      "volume": 915509,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CQR.AX",
@@ -662,7 +662,7 @@
       "volume": 1476590,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CSC.AX",
@@ -675,33 +675,33 @@
       "volume": 691971,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CSL.AX",
       "wiki_ticker": "CSL",
       "name": "CSL",
       "sector": "Healthcare",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 121.81,
+      "prev_close": 117.75,
+      "change_pct": 3.45,
+      "volume": 1442210,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CTD.AX",
       "wiki_ticker": "CTD",
       "name": "Corporate Travel Management",
       "sector": "Consumer Discretionary",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 16.07,
+      "prev_close": 16.07,
+      "change_pct": 0.0,
+      "volume": 0,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CWY.AX",
@@ -714,7 +714,7 @@
       "volume": 11192460,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "CYL.AX",
@@ -727,20 +727,20 @@
       "volume": 1870375,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "DBI.AX",
       "wiki_ticker": "DBI",
       "name": "Dalrymple Bay Infrastructure",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5.7,
+      "prev_close": 5.7,
+      "change_pct": 0.0,
+      "volume": 457135,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "DNL.AX",
@@ -753,33 +753,33 @@
       "volume": 2830085,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "DOW.AX",
       "wiki_ticker": "DOW",
       "name": "Downer Group",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 7.9,
+      "prev_close": 7.83,
+      "change_pct": 0.89,
+      "volume": 792567,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "DRO.AX",
       "wiki_ticker": "DRO",
       "name": "Droneshield",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 2.41,
+      "prev_close": 2.39,
+      "change_pct": 0.84,
+      "volume": 5657467,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "DRR.AX",
@@ -792,20 +792,20 @@
       "volume": 1180287,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "DXS.AX",
       "wiki_ticker": "DXS",
       "name": "Dexus",
       "sector": "Real Estate",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5.46,
+      "prev_close": 5.45,
+      "change_pct": 0.18,
+      "volume": 2834879,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "DYL.AX",
@@ -818,7 +818,7 @@
       "volume": 4472003,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "EBO.AX",
@@ -831,33 +831,33 @@
       "volume": 86761,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "EDV.AX",
       "wiki_ticker": "EDV",
       "name": "Endeavour Group",
       "sector": "Consumer Staples",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 3.37,
+      "prev_close": 3.39,
+      "change_pct": -0.59,
+      "volume": 3390809,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "EMR.AX",
       "wiki_ticker": "EMR",
       "name": "Emerald Resources",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5.7,
+      "prev_close": 5.36,
+      "change_pct": 6.34,
+      "volume": 1733563,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "EOS.AX",
@@ -870,20 +870,20 @@
       "volume": 1539910,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "EVN.AX",
       "wiki_ticker": "EVN",
       "name": "Evolution Mining",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 12.82,
+      "prev_close": 11.78,
+      "change_pct": 8.83,
+      "volume": 5740033,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "EVT.AX",
@@ -896,7 +896,7 @@
       "volume": 146519,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "FBU.AX",
@@ -909,20 +909,20 @@
       "volume": 335564,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "FLT.AX",
       "wiki_ticker": "FLT",
       "name": "Flight Centre Travel Group",
       "sector": "Consumer Discretionary",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 12.18,
+      "prev_close": 12.0,
+      "change_pct": 1.5,
+      "volume": 950832,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "FMG.AX",
@@ -935,7 +935,7 @@
       "volume": 9071158,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "FPH.AX",
@@ -948,7 +948,7 @@
       "volume": 265533,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "FRW.AX",
@@ -961,20 +961,20 @@
       "volume": 0,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "GDG.AX",
       "wiki_ticker": "GDG",
       "name": "Generation Development Group",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 4.06,
+      "prev_close": 3.72,
+      "change_pct": 9.14,
+      "volume": 1808315,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "GGP.AX",
@@ -987,20 +987,20 @@
       "volume": 2309021,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "GMD.AX",
       "wiki_ticker": "GMD",
       "name": "Genesis Minerals",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 6.29,
+      "prev_close": 5.39,
+      "change_pct": 16.7,
+      "volume": 7843014,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "GMG.AX",
@@ -1013,7 +1013,7 @@
       "volume": 2763692,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "GNE.AX",
@@ -1026,33 +1026,33 @@
       "volume": 998,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "GPT.AX",
       "wiki_ticker": "GPT",
       "name": "GPT Group",
       "sector": "Real Estate",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 4.81,
+      "prev_close": 4.8,
+      "change_pct": 0.21,
+      "volume": 5020799,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "GQG.AX",
       "wiki_ticker": "GQG",
       "name": "GQG Partners",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 1.47,
+      "prev_close": 1.47,
+      "change_pct": 0.34,
+      "volume": 3460375,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "HDN.AX",
@@ -1065,46 +1065,46 @@
       "volume": 2260168,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "HUB.AX",
       "wiki_ticker": "HUB",
       "name": "HUB24",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 81.04,
+      "prev_close": 76.14,
+      "change_pct": 6.44,
+      "volume": 275371,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "HVN.AX",
       "wiki_ticker": "HVN",
       "name": "Harvey Norman",
       "sector": "Consumer Discretionary",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 4.64,
+      "prev_close": 4.63,
+      "change_pct": 0.22,
+      "volume": 1889486,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "IAG.AX",
       "wiki_ticker": "IAG",
       "name": "Insurance Australia Group",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 8.12,
+      "prev_close": 8.2,
+      "change_pct": -0.98,
+      "volume": 4322536,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "IFL.AX",
@@ -1124,65 +1124,65 @@
       "wiki_ticker": "IFT",
       "name": "Infratil",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 12.49,
+      "prev_close": 12.61,
+      "change_pct": -0.95,
+      "volume": 310989,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "IGO.AX",
       "wiki_ticker": "IGO",
       "name": "IGO",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 7.51,
+      "prev_close": 7.42,
+      "change_pct": 1.21,
+      "volume": 4518983,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ILU.AX",
       "wiki_ticker": "ILU",
       "name": "Iluka Resources",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 7.0,
+      "prev_close": 7.0,
+      "change_pct": 0.0,
+      "volume": 2268859,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "IMD.AX",
       "wiki_ticker": "IMD",
       "name": "IMDEX",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 4.07,
+      "prev_close": 4.04,
+      "change_pct": 0.74,
+      "volume": 903632,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "JBH.AX",
       "wiki_ticker": "JBH",
       "name": "JB Hi-Fi",
       "sector": "Consumer Discretionary",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 77.42,
+      "prev_close": 76.85,
+      "change_pct": 0.74,
+      "volume": 347496,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "JHX.AX",
@@ -1195,7 +1195,7 @@
       "volume": 1226813,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "L1G.AX",
@@ -1208,7 +1208,7 @@
       "volume": 1619803,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "LLC.AX",
@@ -1221,20 +1221,20 @@
       "volume": 2376701,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "LNW.AX",
       "wiki_ticker": "LNW",
       "name": "Light & Wonder",
       "sector": "Consumer Discretionary",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 106.63,
+      "prev_close": 105.47,
+      "change_pct": 1.1,
+      "volume": 209645,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "LOV.AX",
@@ -1247,7 +1247,7 @@
       "volume": 304302,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "LSF.AX",
@@ -1260,20 +1260,20 @@
       "volume": 487639,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "LTR.AX",
       "wiki_ticker": "LTR",
       "name": "Liontown Resources",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 1.71,
+      "prev_close": 1.67,
+      "change_pct": 2.1,
+      "volume": 18150090,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "LYC.AX",
@@ -1286,7 +1286,7 @@
       "volume": 2110640,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "MCY.AX",
@@ -1299,7 +1299,7 @@
       "volume": 2375,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "MEZ.AX",
@@ -1312,7 +1312,7 @@
       "volume": 19562,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "MFF.AX",
@@ -1325,7 +1325,7 @@
       "volume": 304911,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "MFG.AX",
@@ -1338,20 +1338,20 @@
       "volume": 506023,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "MGR.AX",
       "wiki_ticker": "MGR",
       "name": "Mirvac",
       "sector": "Real Estate",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 1.71,
+      "prev_close": 1.7,
+      "change_pct": 0.59,
+      "volume": 5720355,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "MIN.AX",
@@ -1364,59 +1364,59 @@
       "volume": 705134,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "MND.AX",
       "wiki_ticker": "MND",
       "name": "Monadelphous Group",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 28.75,
+      "prev_close": 28.53,
+      "change_pct": 0.77,
+      "volume": 155063,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "MPL.AX",
       "wiki_ticker": "MPL",
       "name": "Medibank",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5.0,
+      "prev_close": 4.99,
+      "change_pct": 0.2,
+      "volume": 7729946,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "MQG.AX",
       "wiki_ticker": "MQG",
       "name": "Macquarie Group",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 251.65,
+      "prev_close": 250.26,
+      "change_pct": 0.56,
+      "volume": 525700,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "MSB.AX",
       "wiki_ticker": "MSB",
       "name": "Mesoblast",
       "sector": "Healthcare",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 2.06,
+      "prev_close": 2.05,
+      "change_pct": 0.49,
+      "volume": 1405252,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "MTS.AX",
@@ -1429,20 +1429,20 @@
       "volume": 3157354,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "MXT.AX",
       "wiki_ticker": "MXT",
       "name": "Metrics Master Income Trust",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 1.93,
+      "prev_close": 1.91,
+      "change_pct": 1.05,
+      "volume": 1165073,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "NAB.AX",
@@ -1455,59 +1455,59 @@
       "volume": 3649919,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "NEM.AX",
       "wiki_ticker": "NEM",
       "name": "Newmont",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 142.17,
+      "prev_close": 135.43,
+      "change_pct": 4.98,
+      "volume": 294800,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "NHC.AX",
       "wiki_ticker": "NHC",
       "name": "New Hope",
       "sector": "Energy",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5.37,
+      "prev_close": 5.3,
+      "change_pct": 1.32,
+      "volume": 1123055,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "NHF.AX",
       "wiki_ticker": "NHF",
       "name": "Nib",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 7.09,
+      "prev_close": 7.04,
+      "change_pct": 0.71,
+      "volume": 659950,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "NIC.AX",
       "wiki_ticker": "NIC",
       "name": "Nickel Industries",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 0.94,
+      "prev_close": 0.95,
+      "change_pct": -1.05,
+      "volume": 2895195,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "NSR.AX",
@@ -1527,52 +1527,52 @@
       "wiki_ticker": "NST",
       "name": "Northern Star Resources",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 22.16,
+      "prev_close": 19.83,
+      "change_pct": 11.75,
+      "volume": 7157749,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "NWH.AX",
       "wiki_ticker": "NWH",
       "name": "NRW Holdings",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 7.23,
+      "prev_close": 7.2,
+      "change_pct": 0.42,
+      "volume": 401611,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "NWL.AX",
       "wiki_ticker": "NWL",
       "name": "Netwealth Group",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 22.63,
+      "prev_close": 21.76,
+      "change_pct": 4.0,
+      "volume": 454387,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "NWS.AX",
       "wiki_ticker": "NWS",
       "name": "News Corp Class B",
       "sector": "Communication Services",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 43.4,
+      "prev_close": 42.33,
+      "change_pct": 2.53,
+      "volume": 57221,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "NXG.AX",
@@ -1585,7 +1585,7 @@
       "volume": 190777,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "NXT.AX",
@@ -1598,33 +1598,33 @@
       "volume": 2553287,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "OBM.AX",
       "wiki_ticker": "OBM",
       "name": "Ora Banda Mining",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 1.19,
+      "prev_close": 1.11,
+      "change_pct": 7.69,
+      "volume": 6322689,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ORA.AX",
       "wiki_ticker": "ORA",
       "name": "Orora",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 1.38,
+      "prev_close": 1.39,
+      "change_pct": -0.72,
+      "volume": 4535187,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ORG.AX",
@@ -1637,59 +1637,59 @@
       "volume": 3901482,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ORI.AX",
       "wiki_ticker": "ORI",
       "name": "Orica",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 24.08,
+      "prev_close": 23.83,
+      "change_pct": 1.05,
+      "volume": 621746,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "PDI.AX",
       "wiki_ticker": "PDI",
       "name": "Predictive Discovery",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 0.76,
+      "prev_close": 0.73,
+      "change_pct": 4.79,
+      "volume": 13034017,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "PDN.AX",
       "wiki_ticker": "PDN",
       "name": "Paladin Energy",
       "sector": "Energy",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 9.98,
+      "prev_close": 9.95,
+      "change_pct": 0.3,
+      "volume": 1783464,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "PLS.AX",
       "wiki_ticker": "PLS",
       "name": "PLS Group",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5.23,
+      "prev_close": 5.13,
+      "change_pct": 1.95,
+      "volume": 15968628,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "PME.AX",
@@ -1702,20 +1702,20 @@
       "volume": 265580,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "PMV.AX",
       "wiki_ticker": "PMV",
       "name": "Premier Investments",
       "sector": "Consumer Discretionary",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 14.42,
+      "prev_close": 14.52,
+      "change_pct": -0.69,
+      "volume": 136337,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "PNI.AX",
@@ -1728,20 +1728,20 @@
       "volume": 441537,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "PPT.AX",
       "wiki_ticker": "PPT",
       "name": "Perpetual",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 18.98,
+      "prev_close": 18.73,
+      "change_pct": 1.33,
+      "volume": 507724,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "PRN.AX",
@@ -1754,33 +1754,33 @@
       "volume": 788868,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "PRU.AX",
       "wiki_ticker": "PRU",
       "name": "Perseus Mining",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5.22,
+      "prev_close": 4.87,
+      "change_pct": 7.19,
+      "volume": 4070004,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "PXA.AX",
       "wiki_ticker": "PXA",
       "name": "Pexa Group",
       "sector": "Real Estate",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 8.54,
+      "prev_close": 10.85,
+      "change_pct": -21.29,
+      "volume": 6642130,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "QAN.AX",
@@ -1793,46 +1793,46 @@
       "volume": 4414569,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "QBE.AX",
       "wiki_ticker": "QBE",
       "name": "QBE Insurance",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 24.83,
+      "prev_close": 25.08,
+      "change_pct": -1.0,
+      "volume": 2202822,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "QUB.AX",
       "wiki_ticker": "QUB",
       "name": "Qube Holdings",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5.12,
+      "prev_close": 5.1,
+      "change_pct": 0.39,
+      "volume": 8585204,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "RDX.AX",
       "wiki_ticker": "RDX",
       "name": "Redox",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 3.64,
+      "prev_close": 3.68,
+      "change_pct": -1.09,
+      "volume": 332758,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "REA.AX",
@@ -1845,7 +1845,7 @@
       "volume": 208615,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "REG.AX",
@@ -1858,20 +1858,20 @@
       "volume": 693130,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "REH.AX",
       "wiki_ticker": "REH",
       "name": "Reece Group",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 16.44,
+      "prev_close": 16.32,
+      "change_pct": 0.74,
+      "volume": 296881,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "RGN.AX",
@@ -1884,33 +1884,33 @@
       "volume": 3094972,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "RHC.AX",
       "wiki_ticker": "RHC",
       "name": "Ramsay Health Care",
       "sector": "Healthcare",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 44.16,
+      "prev_close": 43.63,
+      "change_pct": 1.21,
+      "volume": 1138222,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "RIO.AX",
       "wiki_ticker": "RIO",
       "name": "Rio Tinto",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 171.16,
+      "prev_close": 171.27,
+      "change_pct": -0.06,
+      "volume": 1008331,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "RMD.AX",
@@ -1923,33 +1923,33 @@
       "volume": 2147619,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "RMS.AX",
       "wiki_ticker": "RMS",
       "name": "Ramelius Resources",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 3.21,
+      "prev_close": 3.0,
+      "change_pct": 7.0,
+      "volume": 8577300,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "RRL.AX",
       "wiki_ticker": "RRL",
       "name": "Regis Resources",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 6.63,
+      "prev_close": 6.13,
+      "change_pct": 8.16,
+      "volume": 3610634,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "RSG.AX",
@@ -1962,20 +1962,20 @@
       "volume": 5499262,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "RWC.AX",
       "wiki_ticker": "RWC",
       "name": "Reliance Worldwide Corporation",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 3.88,
+      "prev_close": 3.8,
+      "change_pct": 2.11,
+      "volume": 1573657,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "RYM.AX",
@@ -1988,7 +1988,7 @@
       "volume": 25,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "S32.AX",
@@ -2001,7 +2001,7 @@
       "volume": 28245956,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SCG.AX",
@@ -2014,20 +2014,20 @@
       "volume": 8530711,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SDF.AX",
       "wiki_ticker": "SDF",
       "name": "Steadfast Group",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5.07,
+      "prev_close": 5.07,
+      "change_pct": 0.0,
+      "volume": 2046501,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SEK.AX",
@@ -2040,33 +2040,33 @@
       "volume": 909050,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SFR.AX",
       "wiki_ticker": "SFR",
       "name": "Sandfire Resources",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 19.34,
+      "prev_close": 18.61,
+      "change_pct": 3.92,
+      "volume": 1174253,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SGH.AX",
       "wiki_ticker": "SGH",
       "name": "SGH",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 44.61,
+      "prev_close": 43.31,
+      "change_pct": 3.0,
+      "volume": 323707,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SGM.AX",
@@ -2079,33 +2079,33 @@
       "volume": 698584,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SGP.AX",
       "wiki_ticker": "SGP",
       "name": "Stockland",
       "sector": "Real Estate",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 4.04,
+      "prev_close": 3.99,
+      "change_pct": 1.25,
+      "volume": 8737820,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SHL.AX",
       "wiki_ticker": "SHL",
       "name": "Sonic Healthcare",
       "sector": "Healthcare",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 21.25,
+      "prev_close": 20.92,
+      "change_pct": 1.58,
+      "volume": 1052891,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SIG.AX",
@@ -2118,46 +2118,46 @@
       "volume": 6494872,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SMR.AX",
       "wiki_ticker": "SMR",
       "name": "Stanmore Resources",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 2.3,
+      "prev_close": 2.29,
+      "change_pct": 0.44,
+      "volume": 847521,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SNZ.AX",
       "wiki_ticker": "SNZ",
       "name": "Summerset Group Holdings",
       "sector": "Healthcare",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 7.18,
+      "prev_close": 7.17,
+      "change_pct": 0.14,
+      "volume": 7,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SOL.AX",
       "wiki_ticker": "SOL",
       "name": "Soul Patts",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 45.5,
+      "prev_close": 44.8,
+      "change_pct": 1.56,
+      "volume": 311815,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SPK.AX",
@@ -2170,20 +2170,20 @@
       "volume": 694001,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "STO.AX",
       "wiki_ticker": "STO",
       "name": "Santos",
       "sector": "Energy",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 7.1,
+      "prev_close": 7.09,
+      "change_pct": 0.14,
+      "volume": 6122735,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SUL.AX",
@@ -2196,20 +2196,20 @@
       "volume": 362868,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "SUN.AX",
       "wiki_ticker": "SUN",
       "name": "Suncorp",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 18.63,
+      "prev_close": 19.35,
+      "change_pct": -3.72,
+      "volume": 3781188,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "TAH.AX",
@@ -2222,20 +2222,20 @@
       "volume": 3211539,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "TCL.AX",
       "wiki_ticker": "TCL",
       "name": "Transurban",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 14.48,
+      "prev_close": 14.41,
+      "change_pct": 0.49,
+      "volume": 2604263,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "TLC.AX",
@@ -2248,20 +2248,20 @@
       "volume": 4159023,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "TLS.AX",
       "wiki_ticker": "TLS",
       "name": "Telstra",
       "sector": "Communication Services",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 4.98,
+      "prev_close": 4.99,
+      "change_pct": -0.2,
+      "volume": 14141514,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "TLX.AX",
@@ -2274,20 +2274,20 @@
       "volume": 3082023,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "TNE.AX",
       "wiki_ticker": "TNE",
       "name": "TechnologyOne",
       "sector": "Information Technology",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 30.48,
+      "prev_close": 29.73,
+      "change_pct": 2.52,
+      "volume": 776595,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "TPG.AX",
@@ -2300,7 +2300,7 @@
       "volume": 1658965,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "TUA.AX",
@@ -2313,7 +2313,7 @@
       "volume": 771772,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "TWE.AX",
@@ -2326,7 +2326,7 @@
       "volume": 2067718,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "VAU.AX",
@@ -2339,46 +2339,46 @@
       "volume": 3952475,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "VCX.AX",
       "wiki_ticker": "VCX",
       "name": "Vicinity Centres",
       "sector": "Real Estate",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 2.64,
+      "prev_close": 2.58,
+      "change_pct": 2.33,
+      "volume": 7062936,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "VEA.AX",
       "wiki_ticker": "VEA",
       "name": "Viva Energy",
       "sector": "Energy",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 2.14,
+      "prev_close": 2.12,
+      "change_pct": 0.94,
+      "volume": 5148694,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "VGN.AX",
       "wiki_ticker": "VGN",
       "name": "Virgin Australia Holdings",
       "sector": "Industrials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 3.03,
+      "prev_close": 3.02,
+      "change_pct": 0.33,
+      "volume": 752726,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "VNT.AX",
@@ -2391,124 +2391,124 @@
       "volume": 1930193,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "WAF.AX",
       "wiki_ticker": "WAF",
       "name": "West African Resources",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 2.91,
+      "prev_close": 2.78,
+      "change_pct": 4.68,
+      "volume": 5510088,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "WAM.AX",
       "wiki_ticker": "WAM",
       "name": "WAM Capital",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 1.57,
+      "prev_close": 1.53,
+      "change_pct": 1.95,
+      "volume": 1021779,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "WBC.AX",
       "wiki_ticker": "WBC",
       "name": "Westpac",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 35.69,
+      "prev_close": 35.46,
+      "change_pct": 0.65,
+      "volume": 3247832,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "WDS.AX",
       "wiki_ticker": "WDS",
       "name": "Woodside Energy Group",
       "sector": "Energy",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 27.87,
+      "prev_close": 28.03,
+      "change_pct": -0.57,
+      "volume": 3161010,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "WES.AX",
       "wiki_ticker": "WES",
       "name": "Wesfarmers",
       "sector": "Consumer Discretionary",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 88.25,
+      "prev_close": 86.85,
+      "change_pct": 1.61,
+      "volume": 1536588,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "WGX.AX",
       "wiki_ticker": "WGX",
       "name": "Westgold Resources",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5.08,
+      "prev_close": 4.75,
+      "change_pct": 6.95,
+      "volume": 4415046,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "WHC.AX",
       "wiki_ticker": "WHC",
       "name": "Whitehaven Coal",
       "sector": "Energy",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 7.59,
+      "prev_close": 7.53,
+      "change_pct": 0.8,
+      "volume": 1360223,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "WLE.AX",
       "wiki_ticker": "WLE",
       "name": "WAM Leaders",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 1.38,
+      "prev_close": 1.36,
+      "change_pct": 1.47,
+      "volume": 1056279,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "WOR.AX",
       "wiki_ticker": "WOR",
       "name": "Worley",
       "sector": "Energy",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 10.78,
+      "prev_close": 10.77,
+      "change_pct": 0.09,
+      "volume": 1484715,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "WOW.AX",
@@ -2521,7 +2521,7 @@
       "volume": 1406350,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "WTC.AX",
@@ -2534,20 +2534,20 @@
       "volume": 1198086,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "XRO.AX",
       "wiki_ticker": "XRO",
       "name": "Xero",
       "sector": "Information Technology",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 72.25,
+      "prev_close": 71.23,
+      "change_pct": 1.43,
+      "volume": 516852,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "XYX.AX",
@@ -2567,13 +2567,13 @@
       "wiki_ticker": "YAL",
       "name": "Yancoal Australia",
       "sector": "Materials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 5.56,
+      "prev_close": 5.53,
+      "change_pct": 0.54,
+      "volume": 2140017,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ZIM.AX",
@@ -2586,20 +2586,20 @@
       "volume": 11945,
       "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     },
     {
       "ticker": "ZIP.AX",
       "wiki_ticker": "ZIP",
       "name": "Zip",
       "sector": "Financials",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 3.23,
+      "prev_close": 3.09,
+      "change_pct": 4.53,
+      "volume": 13128206,
+      "last_date": "2026-07-03",
       "market_cap": 0,
-      "currency": ""
+      "currency": "AUD"
     }
   ]
 }
