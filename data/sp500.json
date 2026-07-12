@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 07:45 JST",
+  "updated": "2026-07-13 07:45 JST",
   "members": [
     {
       "ticker": "MMM",
@@ -3062,9 +3062,9 @@
       "name": "Honeywell Aerospace",
       "sector": "Industrials",
       "close": 220.75,
-      "prev_close": 220.75,
-      "change_pct": 0.0,
-      "volume": 1869141,
+      "prev_close": 223.12,
+      "change_pct": -1.06,
+      "volume": 1925700,
       "last_date": "2026-07-10",
       "market_cap": 0,
       "currency": "USD"
