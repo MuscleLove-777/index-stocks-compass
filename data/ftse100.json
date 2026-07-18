@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 07:48 JST",
+  "updated": "2026-07-19 07:47 JST",
   "members": [
     {
       "ticker": "III.L",
@@ -9,7 +9,7 @@
       "close": 2576.0,
       "prev_close": 2643.0,
       "change_pct": -2.53,
-      "volume": 3752894,
+      "volume": 3752913,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -22,7 +22,7 @@
       "close": 250.4,
       "prev_close": 253.0,
       "change_pct": -1.03,
-      "volume": 3030191,
+      "volume": 3030231,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -35,7 +35,7 @@
       "close": 3648.0,
       "prev_close": 3572.0,
       "change_pct": 2.13,
-      "volume": 400794,
+      "volume": 400842,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -48,7 +48,7 @@
       "close": 346.0,
       "prev_close": 339.6,
       "change_pct": 1.88,
-      "volume": 2620590,
+      "volume": 2620597,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -61,7 +61,7 @@
       "close": 1319.0,
       "prev_close": 1326.0,
       "change_pct": -0.53,
-      "volume": 734341,
+      "volume": 734343,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -74,7 +74,7 @@
       "close": 3400.0,
       "prev_close": 3485.0,
       "change_pct": -2.44,
-      "volume": 8447407,
+      "volume": 8448993,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -87,7 +87,7 @@
       "close": 3491.0,
       "prev_close": 3588.0,
       "change_pct": -2.7,
-      "volume": 2532284,
+      "volume": 2532302,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -100,7 +100,7 @@
       "close": 2052.0,
       "prev_close": 2006.0,
       "change_pct": 2.29,
-      "volume": 1241668,
+      "volume": 1241708,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -113,7 +113,7 @@
       "close": 12594.0,
       "prev_close": 12628.0,
       "change_pct": -0.27,
-      "volume": 2010910,
+      "volume": 2012949,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -126,7 +126,7 @@
       "close": 498.3,
       "prev_close": 516.4,
       "change_pct": -3.51,
-      "volume": 4414342,
+      "volume": 4414352,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -139,7 +139,7 @@
       "close": 672.6,
       "prev_close": 659.2,
       "change_pct": 2.03,
-      "volume": 5241584,
+      "volume": 5243079,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -152,7 +152,7 @@
       "close": 1036.0,
       "prev_close": 1032.5,
       "change_pct": 0.34,
-      "volume": 1223684,
+      "volume": 1223777,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -165,7 +165,7 @@
       "close": 1880.0,
       "prev_close": 1834.0,
       "change_pct": 2.51,
-      "volume": 5505972,
+      "volume": 5580050,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -178,7 +178,7 @@
       "close": 516.7,
       "prev_close": 524.8,
       "change_pct": -1.54,
-      "volume": 27865874,
+      "volume": 27866781,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -191,7 +191,7 @@
       "close": 293.3,
       "prev_close": 293.9,
       "change_pct": -0.2,
-      "volume": 16779538,
+      "volume": 16779713,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -204,7 +204,7 @@
       "close": 1287.5,
       "prev_close": 1287.5,
       "change_pct": 0.0,
-      "volume": 604308,
+      "volume": 604312,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -217,7 +217,7 @@
       "close": 517.1,
       "prev_close": 510.2,
       "change_pct": 1.35,
-      "volume": 26451940,
+      "volume": 26093078,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -230,7 +230,7 @@
       "close": 4669.0,
       "prev_close": 4535.0,
       "change_pct": 2.95,
-      "volume": 3930966,
+      "volume": 4174125,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -243,7 +243,7 @@
       "close": 440.0,
       "prev_close": 435.8,
       "change_pct": 0.96,
-      "volume": 4832557,
+      "volume": 4832644,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -256,7 +256,7 @@
       "close": 197.95,
       "prev_close": 193.45,
       "change_pct": 2.33,
-      "volume": 20118834,
+      "volume": 20118765,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -269,7 +269,7 @@
       "close": 2796.0,
       "prev_close": 2782.0,
       "change_pct": 0.5,
-      "volume": 884634,
+      "volume": 884691,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -282,7 +282,7 @@
       "close": 1049.0,
       "prev_close": 1120.5,
       "change_pct": -6.38,
-      "volume": 4174406,
+      "volume": 4174414,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -295,7 +295,7 @@
       "close": 173.3,
       "prev_close": 172.05,
       "change_pct": 0.73,
-      "volume": 9233023,
+      "volume": 9233014,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -308,7 +308,7 @@
       "close": 7875.0,
       "prev_close": 7905.0,
       "change_pct": -0.38,
-      "volume": 153649,
+      "volume": 153650,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -321,7 +321,7 @@
       "close": 4936.0,
       "prev_close": 4972.0,
       "change_pct": -0.72,
-      "volume": 377121,
+      "volume": 377148,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -334,7 +334,7 @@
       "close": 31.59,
       "prev_close": 31.25,
       "change_pct": 1.09,
-      "volume": 1643970,
+      "volume": 1647794,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "USD"
@@ -347,7 +347,7 @@
       "close": 4580.0,
       "prev_close": 4534.0,
       "change_pct": 1.01,
-      "volume": 1082222,
+      "volume": 1082223,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -373,7 +373,7 @@
       "close": 2928.0,
       "prev_close": 2929.0,
       "change_pct": -0.03,
-      "volume": 260551,
+      "volume": 260578,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -386,7 +386,7 @@
       "close": 6285.0,
       "prev_close": 6285.0,
       "change_pct": 0.0,
-      "volume": 1434606,
+      "volume": 1434609,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -399,7 +399,7 @@
       "close": 1574.0,
       "prev_close": 1580.0,
       "change_pct": -0.38,
-      "volume": 3893580,
+      "volume": 3894448,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -412,7 +412,7 @@
       "close": 7240.0,
       "prev_close": 7195.0,
       "change_pct": 0.63,
-      "volume": 716405,
+      "volume": 716412,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -425,7 +425,7 @@
       "close": 3428.0,
       "prev_close": 3422.0,
       "change_pct": 0.18,
-      "volume": 476679,
+      "volume": 476701,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -438,7 +438,7 @@
       "close": 558.8,
       "prev_close": 568.4,
       "change_pct": -1.69,
-      "volume": 1413506,
+      "volume": 1413505,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -451,7 +451,7 @@
       "close": 2719.0,
       "prev_close": 2681.0,
       "change_pct": 1.42,
-      "volume": 2948869,
+      "volume": 2948891,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -464,7 +464,7 @@
       "close": 332.8,
       "prev_close": 337.0,
       "change_pct": -1.25,
-      "volume": 997456,
+      "volume": 997457,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -477,7 +477,7 @@
       "close": 2442.0,
       "prev_close": 2455.0,
       "change_pct": -0.53,
-      "volume": 1317293,
+      "volume": 1317359,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -490,7 +490,7 @@
       "close": 20260.0,
       "prev_close": 20280.0,
       "change_pct": -0.1,
-      "volume": 47038,
+      "volume": 47112,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -503,7 +503,7 @@
       "close": 516.7,
       "prev_close": 516.7,
       "change_pct": 0.0,
-      "volume": 43890631,
+      "volume": 45171839,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -516,7 +516,7 @@
       "close": 1916.5,
       "prev_close": 1956.0,
       "change_pct": -2.02,
-      "volume": 13824556,
+      "volume": 13825954,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -529,7 +529,7 @@
       "close": 373.3,
       "prev_close": 370.1,
       "change_pct": 0.86,
-      "volume": 20562808,
+      "volume": 20562833,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -542,7 +542,7 @@
       "close": 3676.0,
       "prev_close": 3676.0,
       "change_pct": 0.0,
-      "volume": 1372696,
+      "volume": 1372709,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -555,7 +555,7 @@
       "close": 1877.0,
       "prev_close": 1870.0,
       "change_pct": 0.37,
-      "volume": 576609,
+      "volume": 576611,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -568,7 +568,7 @@
       "close": 800.5,
       "prev_close": 805.0,
       "change_pct": -0.56,
-      "volume": 2064588,
+      "volume": 2064590,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -581,7 +581,7 @@
       "close": 1492.2,
       "prev_close": 1493.8,
       "change_pct": -0.11,
-      "volume": 17355670,
+      "volume": 17706385,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -594,7 +594,7 @@
       "close": 1890.0,
       "prev_close": 1907.0,
       "change_pct": -0.89,
-      "volume": 869976,
+      "volume": 869979,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -607,7 +607,7 @@
       "close": 1743.0,
       "prev_close": 1773.0,
       "change_pct": -1.69,
-      "volume": 946064,
+      "volume": 946098,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -620,7 +620,7 @@
       "close": 157.45,
       "prev_close": 159.65,
       "change_pct": -1.38,
-      "volume": 336934,
+      "volume": 339204,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "USD"
@@ -633,7 +633,7 @@
       "close": 2968.0,
       "prev_close": 2940.0,
       "change_pct": 0.95,
-      "volume": 611139,
+      "volume": 611142,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -646,7 +646,7 @@
       "close": 2870.0,
       "prev_close": 2805.0,
       "change_pct": 2.32,
-      "volume": 1579337,
+      "volume": 1580298,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -672,7 +672,7 @@
       "close": 444.3,
       "prev_close": 448.9,
       "change_pct": -1.02,
-      "volume": 9036326,
+      "volume": 9061891,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -685,7 +685,7 @@
       "close": 5820.0,
       "prev_close": 5815.0,
       "change_pct": 0.09,
-      "volume": 431558,
+      "volume": 431560,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -698,7 +698,7 @@
       "close": 624.0,
       "prev_close": 622.5,
       "change_pct": 0.24,
-      "volume": 4606588,
+      "volume": 4606599,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -711,7 +711,7 @@
       "close": 86.94,
       "prev_close": 87.38,
       "change_pct": -0.5,
-      "volume": 8621689,
+      "volume": 8621693,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -724,7 +724,7 @@
       "close": 11340.0,
       "prev_close": 11470.0,
       "change_pct": -1.13,
-      "volume": 41708,
+      "volume": 41715,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -737,7 +737,7 @@
       "close": 304.2,
       "prev_close": 297.1,
       "change_pct": 2.39,
-      "volume": 9893843,
+      "volume": 9893839,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -750,7 +750,7 @@
       "close": 701.5,
       "prev_close": 691.5,
       "change_pct": 1.45,
-      "volume": 3067652,
+      "volume": 3067667,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -763,7 +763,7 @@
       "close": 298.2,
       "prev_close": 296.3,
       "change_pct": 0.64,
-      "volume": 18101151,
+      "volume": 18104039,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -776,7 +776,7 @@
       "close": 111.5,
       "prev_close": 112.65,
       "change_pct": -1.02,
-      "volume": 131511605,
+      "volume": 131512154,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -789,7 +789,7 @@
       "close": 193.1,
       "prev_close": 189.4,
       "change_pct": 1.95,
-      "volume": 5318437,
+      "volume": 5318415,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -802,7 +802,7 @@
       "close": 8978.0,
       "prev_close": 9094.0,
       "change_pct": -1.28,
-      "volume": 1886785,
+      "volume": 1886839,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -815,7 +815,7 @@
       "close": 353.9,
       "prev_close": 352.7,
       "change_pct": 0.34,
-      "volume": 2709555,
+      "volume": 2709607,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -828,7 +828,7 @@
       "close": 379.1,
       "prev_close": 383.2,
       "change_pct": -1.07,
-      "volume": 9378623,
+      "volume": 9378626,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -841,7 +841,7 @@
       "close": 465.8,
       "prev_close": 465.1,
       "change_pct": 0.15,
-      "volume": 3653274,
+      "volume": 3653275,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -854,7 +854,7 @@
       "close": 44.36,
       "prev_close": 43.66,
       "change_pct": 1.6,
-      "volume": 159947,
+      "volume": 168851,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "EUR"
@@ -867,7 +867,7 @@
       "close": 1257.0,
       "prev_close": 1216.5,
       "change_pct": 3.33,
-      "volume": 8066908,
+      "volume": 8764670,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -880,7 +880,7 @@
       "close": 669.4,
       "prev_close": 664.6,
       "change_pct": 0.72,
-      "volume": 18120505,
+      "volume": 20370323,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -893,7 +893,7 @@
       "close": 14875.0,
       "prev_close": 15005.0,
       "change_pct": -0.87,
-      "volume": 155931,
+      "volume": 155944,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -906,7 +906,7 @@
       "close": 1255.5,
       "prev_close": 1250.0,
       "change_pct": 0.44,
-      "volume": 1681748,
+      "volume": 1681749,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -919,7 +919,7 @@
       "close": 3814.0,
       "prev_close": 3900.0,
       "change_pct": -2.21,
-      "volume": 140543,
+      "volume": 140600,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -932,7 +932,7 @@
       "close": 1087.5,
       "prev_close": 1103.0,
       "change_pct": -1.41,
-      "volume": 1396288,
+      "volume": 1396375,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -945,7 +945,7 @@
       "close": 627.5,
       "prev_close": 646.0,
       "change_pct": -2.86,
-      "volume": 4485088,
+      "volume": 4485091,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -958,7 +958,7 @@
       "close": 1044.0,
       "prev_close": 1053.0,
       "change_pct": -0.85,
-      "volume": 4852389,
+      "volume": 4852398,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -971,7 +971,7 @@
       "close": 5086.0,
       "prev_close": 5092.0,
       "change_pct": -0.12,
-      "volume": 1466458,
+      "volume": 1466591,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -984,7 +984,7 @@
       "close": 2496.0,
       "prev_close": 2502.0,
       "change_pct": -0.24,
-      "volume": 3676231,
+      "volume": 3743703,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -997,7 +997,7 @@
       "close": 450.0,
       "prev_close": 449.4,
       "change_pct": 0.13,
-      "volume": 3612366,
+      "volume": 3612369,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1010,7 +1010,7 @@
       "close": 6726.0,
       "prev_close": 6741.0,
       "change_pct": -0.22,
-      "volume": 6370396,
+      "volume": 6370625,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1023,7 +1023,7 @@
       "close": 1365.6,
       "prev_close": 1378.4,
       "change_pct": -0.93,
-      "volume": 13329437,
+      "volume": 13336167,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1036,7 +1036,7 @@
       "close": 845.6,
       "prev_close": 850.0,
       "change_pct": -0.52,
-      "volume": 5027980,
+      "volume": 5028067,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1049,7 +1049,7 @@
       "close": 356.3,
       "prev_close": 353.6,
       "change_pct": 0.76,
-      "volume": 14535260,
+      "volume": 14535318,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1062,7 +1062,7 @@
       "close": 588.0,
       "prev_close": 588.0,
       "change_pct": 0.0,
-      "volume": 1109161,
+      "volume": 1109169,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1075,7 +1075,7 @@
       "close": 1359.0,
       "prev_close": 1409.5,
       "change_pct": -3.58,
-      "volume": 3310545,
+      "volume": 3310637,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1088,7 +1088,7 @@
       "close": 897.4,
       "prev_close": 884.0,
       "change_pct": 1.52,
-      "volume": 4748964,
+      "volume": 4748991,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1101,7 +1101,7 @@
       "close": 3066.0,
       "prev_close": 2980.0,
       "change_pct": 2.89,
-      "volume": 1630692,
+      "volume": 1630704,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1114,7 +1114,7 @@
       "close": 3236.0,
       "prev_close": 3160.0,
       "change_pct": 2.41,
-      "volume": 9539354,
+      "volume": 9633294,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1127,7 +1127,7 @@
       "close": 2561.0,
       "prev_close": 2551.0,
       "change_pct": 0.39,
-      "volume": 882322,
+      "volume": 882327,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1140,7 +1140,7 @@
       "close": 1151.0,
       "prev_close": 1163.0,
       "change_pct": -1.03,
-      "volume": 3601523,
+      "volume": 3601529,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1153,7 +1153,7 @@
       "close": 6960.0,
       "prev_close": 6930.0,
       "change_pct": 0.43,
-      "volume": 175953,
+      "volume": 175955,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1166,7 +1166,7 @@
       "close": 2488.0,
       "prev_close": 2429.0,
       "change_pct": 2.43,
-      "volume": 4553976,
+      "volume": 4904145,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1179,7 +1179,7 @@
       "close": 2103.0,
       "prev_close": 2129.0,
       "change_pct": -1.22,
-      "volume": 4146410,
+      "volume": 4146433,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1192,7 +1192,7 @@
       "close": 903.5,
       "prev_close": 900.0,
       "change_pct": 0.39,
-      "volume": 2213246,
+      "volume": 2213412,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1205,7 +1205,7 @@
       "close": 1080.0,
       "prev_close": 1110.0,
       "change_pct": -2.7,
-      "volume": 2646065,
+      "volume": 2646064,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1218,7 +1218,7 @@
       "close": 484.7,
       "prev_close": 478.4,
       "change_pct": 1.32,
-      "volume": 12478713,
+      "volume": 12479429,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1231,7 +1231,7 @@
       "close": 167.2,
       "prev_close": 163.9,
       "change_pct": 2.01,
-      "volume": 6262173,
+      "volume": 6262162,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1244,7 +1244,7 @@
       "close": 4673.0,
       "prev_close": 4630.5,
       "change_pct": 0.92,
-      "volume": 3176792,
+      "volume": 3235855,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1257,7 +1257,7 @@
       "close": 1375.0,
       "prev_close": 1351.0,
       "change_pct": 1.78,
-      "volume": 4311999,
+      "volume": 4312092,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1270,7 +1270,7 @@
       "close": 117.8,
       "prev_close": 116.25,
       "change_pct": 1.33,
-      "volume": 129412572,
+      "volume": 132414960,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1283,7 +1283,7 @@
       "close": 2482.0,
       "prev_close": 2504.0,
       "change_pct": -0.88,
-      "volume": 1596407,
+      "volume": 1596413,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
@@ -1296,7 +1296,7 @@
       "close": 2392.0,
       "prev_close": 2380.0,
       "change_pct": 0.5,
-      "volume": 406734,
+      "volume": 406739,
       "last_date": "2026-07-17",
       "market_cap": 0,
       "currency": "GBp"
