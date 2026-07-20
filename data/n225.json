@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20 07:50 JST",
+  "updated": "2026-07-21 07:59 JST",
   "members": [
     {
       "ticker": "6857.T",
@@ -32,11 +32,11 @@
       "wiki_ticker": "5201.T",
       "name": "Agc Inc.",
       "sector": "Glass & Ceramics",
-      "close": 6135.0,
-      "prev_close": 6422.0,
-      "change_pct": -4.47,
-      "volume": 1310900,
-      "last_date": "2026-07-17",
+      "close": null,
+      "prev_close": null,
+      "change_pct": null,
+      "volume": null,
+      "last_date": null,
       "market_cap": 0,
       "currency": "JPY"
     },
