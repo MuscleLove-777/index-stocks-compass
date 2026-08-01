@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01 07:58 JST",
+  "updated": "2026-08-02 07:53 JST",
   "members": [
     {
       "ticker": "ACS.MC",
@@ -71,9 +71,9 @@
       "wiki_ticker": "BBVA.MC",
       "name": "BBVA",
       "sector": "Financial Services",
-      "close": NaN,
+      "close": 24.2,
       "prev_close": 23.96,
-      "change_pct": NaN,
+      "change_pct": 1.0,
       "volume": 9982006,
       "last_date": "2026-07-31",
       "market_cap": 0,
@@ -396,9 +396,9 @@
       "wiki_ticker": "SAN.MC",
       "name": "Santander",
       "sector": "Financial Services",
-      "close": NaN,
+      "close": 12.32,
       "prev_close": 12.25,
-      "change_pct": NaN,
+      "change_pct": 0.57,
       "volume": 23582699,
       "last_date": "2026-07-31",
       "market_cap": 0,
