@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 07:53 JST",
+  "updated": "2026-08-03 07:54 JST",
   "members": [
     {
       "ticker": "NOVN.SW",
@@ -9,7 +9,7 @@
       "close": 126.6,
       "prev_close": 126.78,
       "change_pct": -0.14,
-      "volume": 2229728,
+      "volume": 2230428,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -22,7 +22,7 @@
       "close": 353.6,
       "prev_close": 353.4,
       "change_pct": 0.06,
-      "volume": 801889,
+      "volume": 802004,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -35,7 +35,7 @@
       "close": 81.01,
       "prev_close": 82.38,
       "change_pct": -1.66,
-      "volume": 2997151,
+      "volume": 3037722,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -48,7 +48,7 @@
       "close": 79.52,
       "prev_close": 78.66,
       "change_pct": 1.09,
-      "volume": 2948929,
+      "volume": 2961956,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -61,7 +61,7 @@
       "close": 42.55,
       "prev_close": 42.62,
       "change_pct": -0.16,
-      "volume": 5634994,
+      "volume": 5691717,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -71,10 +71,10 @@
       "wiki_ticker": "CFR",
       "name": "Compagnie Financière Richemont SA",
       "sector": "Retail discretionary",
-      "close": NaN,
+      "close": 190.9,
       "prev_close": 191.25,
-      "change_pct": NaN,
-      "volume": 974934,
+      "change_pct": -0.18,
+      "volume": 973896,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -87,7 +87,7 @@
       "close": 615.8,
       "prev_close": 614.8,
       "change_pct": 0.16,
-      "volume": 235548,
+      "volume": 235572,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -100,7 +100,7 @@
       "close": 73.34,
       "prev_close": 75.42,
       "change_pct": -2.76,
-      "volume": 2184549,
+      "volume": 2217540,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -110,9 +110,9 @@
       "wiki_ticker": "SREN",
       "name": "Swiss Reinsurance Company Ltd",
       "sector": "Financials",
-      "close": NaN,
+      "close": 134.85,
       "prev_close": 134.5,
-      "change_pct": NaN,
+      "change_pct": 0.26,
       "volume": 760255,
       "last_date": "2026-07-31",
       "market_cap": 0,
@@ -123,10 +123,10 @@
       "wiki_ticker": "LONN",
       "name": "Lonza Group AG",
       "sector": "Materials",
-      "close": NaN,
+      "close": 562.2,
       "prev_close": 570.2,
-      "change_pct": NaN,
-      "volume": 154162,
+      "change_pct": -1.4,
+      "volume": 154142,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -152,7 +152,7 @@
       "close": 3230.0,
       "prev_close": 3287.0,
       "change_pct": -1.73,
-      "volume": 18398,
+      "volume": 18463,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -165,7 +165,7 @@
       "close": 55.38,
       "prev_close": 56.12,
       "change_pct": -1.32,
-      "volume": 1465319,
+      "volume": 1468061,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -178,7 +178,7 @@
       "close": 181.85,
       "prev_close": 179.85,
       "change_pct": 1.11,
-      "volume": 609521,
+      "volume": 613268,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -188,9 +188,9 @@
       "wiki_ticker": "AMRZ",
       "name": "Amrize AG",
       "sector": "Materials",
-      "close": NaN,
+      "close": 39.68,
       "prev_close": 40.06,
-      "change_pct": NaN,
+      "change_pct": -0.95,
       "volume": 1187900,
       "last_date": "2026-07-31",
       "market_cap": 0,
@@ -201,9 +201,9 @@
       "wiki_ticker": "SLHN",
       "name": "Swiss Life Holding AG",
       "sector": "Financials",
-      "close": NaN,
+      "close": 954.8,
       "prev_close": 951.0,
-      "change_pct": NaN,
+      "change_pct": 0.4,
       "volume": 46427,
       "last_date": "2026-07-31",
       "market_cap": 0,
@@ -217,7 +217,7 @@
       "close": 205.7,
       "prev_close": 203.9,
       "change_pct": 0.88,
-      "volume": 196346,
+      "volume": 196411,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"
@@ -256,7 +256,7 @@
       "close": 82.08,
       "prev_close": 82.14,
       "change_pct": -0.07,
-      "volume": 1306105,
+      "volume": 1309247,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CHF"

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 07:53 JST",
+  "updated": "2026-08-03 07:54 JST",
   "members": [
     {
       "ticker": "AEM.TO",
@@ -110,10 +110,10 @@
       "wiki_ticker": "BIP.UN",
       "name": "Brookfield Infrastructure Partners L.P.",
       "sector": "Utilities",
-      "close": NaN,
+      "close": 58.62,
       "prev_close": 58.94,
-      "change_pct": NaN,
-      "volume": 427724,
+      "change_pct": -0.54,
+      "volume": 429300,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "CAD"
@@ -669,9 +669,9 @@
       "wiki_ticker": "TECK.B",
       "name": "Teck Resources Limited",
       "sector": "Basic Materials",
-      "close": NaN,
+      "close": 84.36,
       "prev_close": 87.53,
-      "change_pct": NaN,
+      "change_pct": -3.62,
       "volume": 1014518,
       "last_date": "2026-07-31",
       "market_cap": 0,

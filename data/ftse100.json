@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 07:53 JST",
+  "updated": "2026-08-03 07:54 JST",
   "members": [
     {
       "ticker": "III.L",
@@ -331,10 +331,10 @@
       "wiki_ticker": "CPG",
       "name": "Compass Group",
       "sector": "",
-      "close": NaN,
+      "close": 31.71,
       "prev_close": 31.94,
-      "change_pct": NaN,
-      "volume": 2437815,
+      "change_pct": -0.72,
+      "volume": 2446143,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "USD"
@@ -617,10 +617,10 @@
       "wiki_ticker": "IHG",
       "name": "IHG Hotels & Resorts",
       "sector": "",
-      "close": NaN,
+      "close": 160.7,
       "prev_close": 160.95,
-      "change_pct": NaN,
-      "volume": 198510,
+      "change_pct": -0.16,
+      "volume": 198782,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "USD"
@@ -851,10 +851,10 @@
       "wiki_ticker": "MTLN",
       "name": "Metlen Energy & Metals",
       "sector": "",
-      "close": NaN,
+      "close": 46.22,
       "prev_close": 45.22,
-      "change_pct": NaN,
-      "volume": 114137,
+      "change_pct": 2.21,
+      "volume": 115228,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "EUR"

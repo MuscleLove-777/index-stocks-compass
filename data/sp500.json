@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 07:53 JST",
+  "updated": "2026-08-03 07:54 JST",
   "members": [
     {
       "ticker": "MMM",
@@ -3142,7 +3142,7 @@
       "close": 472.55,
       "prev_close": 473.69,
       "change_pct": -0.24,
-      "volume": 738767,
+      "volume": 742546,
       "last_date": "2026-07-31",
       "market_cap": 0,
       "currency": "USD"
