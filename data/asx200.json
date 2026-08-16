@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 07:18 JST",
+  "updated": "2026-08-17 07:18 JST",
   "members": [
     {
       "ticker": "360.AX",
@@ -178,7 +178,7 @@
       "close": 2.33,
       "prev_close": 2.33,
       "change_pct": 0.0,
-      "volume": 8009437,
+      "volume": 7989187,
       "last_date": "2026-08-14",
       "market_cap": 0,
       "currency": "AUD"
@@ -204,7 +204,7 @@
       "close": 38.89,
       "prev_close": 38.04,
       "change_pct": 2.23,
-      "volume": 7383963,
+      "volume": 7362426,
       "last_date": "2026-08-14",
       "market_cap": 0,
       "currency": "AUD"
@@ -230,7 +230,7 @@
       "close": 23.44,
       "prev_close": 23.43,
       "change_pct": 0.04,
-      "volume": 296735,
+      "volume": 295133,
       "last_date": "2026-08-14",
       "market_cap": 0,
       "currency": "AUD"
