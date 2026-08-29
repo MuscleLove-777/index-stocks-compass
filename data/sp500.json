@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29 12:30 JST",
+  "updated": "2026-08-30 08:53 JST",
   "members": [
     {
       "ticker": "MMM",
@@ -9,7 +9,7 @@
       "close": 174.34,
       "prev_close": 178.83,
       "change_pct": -2.51,
-      "volume": 2335571,
+      "volume": 2336400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -22,7 +22,7 @@
       "close": 60.38,
       "prev_close": 61.95,
       "change_pct": -2.53,
-      "volume": 1811583,
+      "volume": 1811600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -35,7 +35,7 @@
       "close": 112.47,
       "prev_close": 111.59,
       "change_pct": 0.79,
-      "volume": 7520601,
+      "volume": 7545100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -48,7 +48,7 @@
       "close": 255.48,
       "prev_close": 258.15,
       "change_pct": -1.03,
-      "volume": 3222214,
+      "volume": 3224400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -61,7 +61,7 @@
       "close": 189.61,
       "prev_close": 187.38,
       "change_pct": 1.19,
-      "volume": 4840291,
+      "volume": 4840700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -74,7 +74,7 @@
       "close": 291.52,
       "prev_close": 289.15,
       "change_pct": 0.82,
-      "volume": 3639051,
+      "volume": 3649300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -87,7 +87,7 @@
       "close": 465.58,
       "prev_close": 476.67,
       "change_pct": -2.33,
-      "volume": 15283714,
+      "volume": 15338800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -100,7 +100,7 @@
       "close": 14.73,
       "prev_close": 14.75,
       "change_pct": -0.14,
-      "volume": 5672730,
+      "volume": 5672800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -113,7 +113,7 @@
       "close": 116.52,
       "prev_close": 116.58,
       "change_pct": -0.05,
-      "volume": 2720212,
+      "volume": 2739100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -126,7 +126,7 @@
       "close": 153.84,
       "prev_close": 157.69,
       "change_pct": -2.44,
-      "volume": 2966228,
+      "volume": 2966300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -139,7 +139,7 @@
       "close": 308.09,
       "prev_close": 305.47,
       "change_pct": 0.86,
-      "volume": 1042569,
+      "volume": 1044700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -152,7 +152,7 @@
       "close": 189.43,
       "prev_close": 184.4,
       "change_pct": 2.73,
-      "volume": 4827573,
+      "volume": 4829400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -165,7 +165,7 @@
       "close": 107.47,
       "prev_close": 111.24,
       "change_pct": -3.39,
-      "volume": 2582605,
+      "volume": 2583100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -178,7 +178,7 @@
       "close": 137.36,
       "prev_close": 135.77,
       "change_pct": 1.17,
-      "volume": 1445917,
+      "volume": 1446000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -191,7 +191,7 @@
       "close": 51.57,
       "prev_close": 52.28,
       "change_pct": -1.36,
-      "volume": 1323494,
+      "volume": 1323500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -204,7 +204,7 @@
       "close": 157.58,
       "prev_close": 158.84,
       "change_pct": -0.79,
-      "volume": 954628,
+      "volume": 954600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -217,7 +217,7 @@
       "close": 157.48,
       "prev_close": 159.72,
       "change_pct": -1.4,
-      "volume": 1201998,
+      "volume": 1202000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -230,7 +230,7 @@
       "close": 68.03,
       "prev_close": 68.21,
       "change_pct": -0.26,
-      "volume": 2044512,
+      "volume": 2048700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -243,7 +243,7 @@
       "close": 260.58,
       "prev_close": 257.62,
       "change_pct": 1.15,
-      "volume": 968018,
+      "volume": 970800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -256,7 +256,7 @@
       "close": 346.59,
       "prev_close": 340.65,
       "change_pct": 1.74,
-      "volume": 25240919,
+      "volume": 25317400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -269,7 +269,7 @@
       "close": 342.88,
       "prev_close": 337.71,
       "change_pct": 1.53,
-      "volume": 17479507,
+      "volume": 17829200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -282,7 +282,7 @@
       "close": 68.65,
       "prev_close": 67.67,
       "change_pct": 1.45,
-      "volume": 5842231,
+      "volume": 5863500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -295,7 +295,7 @@
       "close": 266.43,
       "prev_close": 256.26,
       "change_pct": 3.97,
-      "volume": 49322804,
+      "volume": 49475500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -308,7 +308,7 @@
       "close": 46.67,
       "prev_close": 46.52,
       "change_pct": 0.32,
-      "volume": 2884665,
+      "volume": 2884700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -321,7 +321,7 @@
       "close": 106.12,
       "prev_close": 106.75,
       "change_pct": -0.59,
-      "volume": 1094588,
+      "volume": 1094600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -334,7 +334,7 @@
       "close": 122.31,
       "prev_close": 122.71,
       "change_pct": -0.33,
-      "volume": 2607614,
+      "volume": 2607800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -347,7 +347,7 @@
       "close": 333.2,
       "prev_close": 334.16,
       "change_pct": -0.29,
-      "volume": 1944971,
+      "volume": 1945200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -360,7 +360,7 @@
       "close": 76.93,
       "prev_close": 76.63,
       "change_pct": 0.39,
-      "volume": 1975069,
+      "volume": 1975100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -373,7 +373,7 @@
       "close": 176.23,
       "prev_close": 174.16,
       "change_pct": 1.19,
-      "volume": 1597071,
+      "volume": 1597100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -386,7 +386,7 @@
       "close": 138.3,
       "prev_close": 136.69,
       "change_pct": 1.18,
-      "volume": 1908169,
+      "volume": 1908200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -399,7 +399,7 @@
       "close": 559.32,
       "prev_close": 555.77,
       "change_pct": 0.64,
-      "volume": 270172,
+      "volume": 271200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -412,7 +412,7 @@
       "close": 236.25,
       "prev_close": 243.67,
       "change_pct": -3.05,
-      "volume": 1746053,
+      "volume": 1746300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -425,7 +425,7 @@
       "close": 432.42,
       "prev_close": 436.99,
       "change_pct": -1.05,
-      "volume": 1731466,
+      "volume": 1739700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -438,7 +438,7 @@
       "close": 157.74,
       "prev_close": 161.38,
       "change_pct": -2.26,
-      "volume": 4227975,
+      "volume": 4228300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -451,7 +451,7 @@
       "close": 361.78,
       "prev_close": 374.52,
       "change_pct": -3.4,
-      "volume": 3325986,
+      "volume": 3338300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -464,7 +464,7 @@
       "close": 355.4,
       "prev_close": 349.56,
       "change_pct": 1.67,
-      "volume": 669113,
+      "volume": 669100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -477,7 +477,7 @@
       "close": 42.54,
       "prev_close": 42.38,
       "change_pct": 0.38,
-      "volume": 3317142,
+      "volume": 3317200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -490,7 +490,7 @@
       "close": 135.04,
       "prev_close": 133.44,
       "change_pct": 1.2,
-      "volume": 2243349,
+      "volume": 2243400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -503,7 +503,7 @@
       "close": 319.7,
       "prev_close": 314.58,
       "change_pct": 1.63,
-      "volume": 38500185,
+      "volume": 38609800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -516,7 +516,7 @@
       "close": 461.67,
       "prev_close": 482.36,
       "change_pct": -4.29,
-      "volume": 6506714,
+      "volume": 6524800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -529,7 +529,7 @@
       "close": 317.76,
       "prev_close": 312.63,
       "change_pct": 1.64,
-      "volume": 6614095,
+      "volume": 6621800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -542,7 +542,7 @@
       "close": 45.75,
       "prev_close": 45.44,
       "change_pct": 0.68,
-      "volume": 4648163,
+      "volume": 4648400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -555,7 +555,7 @@
       "close": 98.84,
       "prev_close": 98.76,
       "change_pct": 0.08,
-      "volume": 3990822,
+      "volume": 3990800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -568,7 +568,7 @@
       "close": 81.54,
       "prev_close": 79.1,
       "change_pct": 3.08,
-      "volume": 3593466,
+      "volume": 3606300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -581,7 +581,7 @@
       "close": 142.53,
       "prev_close": 142.41,
       "change_pct": 0.08,
-      "volume": 1096964,
+      "volume": 1097000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -594,7 +594,7 @@
       "close": 195.38,
       "prev_close": 201.09,
       "change_pct": -2.84,
-      "volume": 3061286,
+      "volume": 3063000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -607,7 +607,7 @@
       "close": 267.56,
       "prev_close": 260.15,
       "change_pct": 2.85,
-      "volume": 1151306,
+      "volume": 1151300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -620,7 +620,7 @@
       "close": 285.65,
       "prev_close": 285.41,
       "change_pct": 0.08,
-      "volume": 229376,
+      "volume": 229400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -633,7 +633,7 @@
       "close": 26.01,
       "prev_close": 25.43,
       "change_pct": 2.28,
-      "volume": 22672085,
+      "volume": 22677400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -646,7 +646,7 @@
       "close": 166.65,
       "prev_close": 167.22,
       "change_pct": -0.34,
-      "volume": 516714,
+      "volume": 516700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -659,7 +659,7 @@
       "close": 260.66,
       "prev_close": 270.58,
       "change_pct": -3.67,
-      "volume": 3420669,
+      "volume": 3437900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -672,7 +672,7 @@
       "close": 287.48,
       "prev_close": 284.68,
       "change_pct": 0.98,
-      "volume": 1761135,
+      "volume": 1761300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -685,7 +685,7 @@
       "close": 2961.96,
       "prev_close": 2932.33,
       "change_pct": 1.01,
-      "volume": 316242,
+      "volume": 316200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -698,7 +698,7 @@
       "close": 177.75,
       "prev_close": 178.34,
       "change_pct": -0.33,
-      "volume": 753240,
+      "volume": 775400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -711,7 +711,7 @@
       "close": 600.73,
       "prev_close": 611.2,
       "change_pct": -1.71,
-      "volume": 525492,
+      "volume": 526800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -724,7 +724,7 @@
       "close": 62.41,
       "prev_close": 62.11,
       "change_pct": 0.48,
-      "volume": 5700456,
+      "volume": 5705600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -737,7 +737,7 @@
       "close": 63.77,
       "prev_close": 63.37,
       "change_pct": 0.63,
-      "volume": 1361022,
+      "volume": 1361000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -750,7 +750,7 @@
       "close": 62.32,
       "prev_close": 61.17,
       "change_pct": 1.88,
-      "volume": 32915990,
+      "volume": 33509700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -763,7 +763,7 @@
       "close": 26.13,
       "prev_close": 25.93,
       "change_pct": 0.77,
-      "volume": 3960355,
+      "volume": 3960400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -776,7 +776,7 @@
       "close": 189.52,
       "prev_close": 188.13,
       "change_pct": 0.74,
-      "volume": 1693770,
+      "volume": 1693800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -789,7 +789,7 @@
       "close": 505.0,
       "prev_close": 503.7,
       "change_pct": 0.26,
-      "volume": 4848036,
+      "volume": 4851200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -802,7 +802,7 @@
       "close": 82.44,
       "prev_close": 83.56,
       "change_pct": -1.34,
-      "volume": 5154224,
+      "volume": 5154300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -815,7 +815,7 @@
       "close": 72.35,
       "prev_close": 72.47,
       "change_pct": -0.17,
-      "volume": 1630489,
+      "volume": 1630500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -828,7 +828,7 @@
       "close": 218.5,
       "prev_close": 221.5,
       "change_pct": -1.35,
-      "volume": 517362,
+      "volume": 517400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -841,7 +841,7 @@
       "close": 1164.48,
       "prev_close": 1167.57,
       "change_pct": -0.26,
-      "volume": 699850,
+      "volume": 721300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -854,7 +854,7 @@
       "close": 142.39,
       "prev_close": 143.64,
       "change_pct": -0.87,
-      "volume": 2440148,
+      "volume": 2440600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -867,7 +867,7 @@
       "close": 83.57,
       "prev_close": 84.85,
       "change_pct": -1.51,
-      "volume": 3457954,
+      "volume": 3458100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -880,7 +880,7 @@
       "close": 162.5,
       "prev_close": 162.24,
       "change_pct": 0.16,
-      "volume": 2353557,
+      "volume": 2353600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -893,7 +893,7 @@
       "close": 209.82,
       "prev_close": 209.89,
       "change_pct": -0.03,
-      "volume": 4559660,
+      "volume": 4564100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -906,7 +906,7 @@
       "close": 205.63,
       "prev_close": 202.56,
       "change_pct": 1.52,
-      "volume": 3590456,
+      "volume": 3591700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -919,7 +919,7 @@
       "close": 46.84,
       "prev_close": 46.67,
       "change_pct": 0.36,
-      "volume": 17143444,
+      "volume": 17145900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -932,7 +932,7 @@
       "close": 66.58,
       "prev_close": 66.95,
       "change_pct": -0.55,
-      "volume": 5542352,
+      "volume": 5542900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -945,7 +945,7 @@
       "close": 368.79,
       "prev_close": 371.54,
       "change_pct": -0.74,
-      "volume": 16481416,
+      "volume": 16572500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -958,7 +958,7 @@
       "close": 183.64,
       "prev_close": 183.08,
       "change_pct": 0.31,
-      "volume": 734211,
+      "volume": 734200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -971,7 +971,7 @@
       "close": 73.31,
       "prev_close": 71.39,
       "change_pct": 2.69,
-      "volume": 1397427,
+      "volume": 1397400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -984,7 +984,7 @@
       "close": 27.22,
       "prev_close": 27.28,
       "change_pct": -0.22,
-      "volume": 1396767,
+      "volume": 1396800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -997,7 +997,7 @@
       "close": 67.72,
       "prev_close": 67.21,
       "change_pct": 0.76,
-      "volume": 1652009,
+      "volume": 1652000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1010,7 +1010,7 @@
       "close": 115.48,
       "prev_close": 111.57,
       "change_pct": 3.5,
-      "volume": 1572940,
+      "volume": 1576400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1023,7 +1023,7 @@
       "close": 69.32,
       "prev_close": 69.97,
       "change_pct": -0.93,
-      "volume": 857959,
+      "volume": 858000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1036,7 +1036,7 @@
       "close": 150.39,
       "prev_close": 151.14,
       "change_pct": -0.5,
-      "volume": 869756,
+      "volume": 878300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1049,7 +1049,7 @@
       "close": 340.39,
       "prev_close": 347.55,
       "change_pct": -2.06,
-      "volume": 1794901,
+      "volume": 1795000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1062,7 +1062,7 @@
       "close": 106.35,
       "prev_close": 105.79,
       "change_pct": 0.53,
-      "volume": 845054,
+      "volume": 868800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1075,7 +1075,7 @@
       "close": 215.67,
       "prev_close": 216.67,
       "change_pct": -0.46,
-      "volume": 2536449,
+      "volume": 2537600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1088,7 +1088,7 @@
       "close": 234.55,
       "prev_close": 235.13,
       "change_pct": -0.25,
-      "volume": 1777884,
+      "volume": 1779200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1101,7 +1101,7 @@
       "close": 24.76,
       "prev_close": 24.95,
       "change_pct": -0.76,
-      "volume": 19115985,
+      "volume": 19128000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1114,7 +1114,7 @@
       "close": 58.79,
       "prev_close": 58.84,
       "change_pct": -0.08,
-      "volume": 6044642,
+      "volume": 6045000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1127,7 +1127,7 @@
       "close": 74.04,
       "prev_close": 74.09,
       "change_pct": -0.07,
-      "volume": 4622532,
+      "volume": 4623000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1140,7 +1140,7 @@
       "close": 755.47,
       "prev_close": 763.38,
       "change_pct": -1.04,
-      "volume": 442108,
+      "volume": 442100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1153,7 +1153,7 @@
       "close": 800.25,
       "prev_close": 817.0,
       "change_pct": -2.05,
-      "volume": 1785995,
+      "volume": 1787500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1166,7 +1166,7 @@
       "close": 310.45,
       "prev_close": 313.95,
       "change_pct": -1.11,
-      "volume": 953714,
+      "volume": 953900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1179,7 +1179,7 @@
       "close": 150.82,
       "prev_close": 147.22,
       "change_pct": 2.45,
-      "volume": 1483414,
+      "volume": 1483400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1192,7 +1192,7 @@
       "close": 147.69,
       "prev_close": 148.97,
       "change_pct": -0.86,
-      "volume": 1636870,
+      "volume": 1636900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1205,7 +1205,7 @@
       "close": 322.03,
       "prev_close": 321.23,
       "change_pct": 0.25,
-      "volume": 625238,
+      "volume": 628800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1218,7 +1218,7 @@
       "close": 64.75,
       "prev_close": 65.33,
       "change_pct": -0.89,
-      "volume": 2526609,
+      "volume": 2526800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1231,7 +1231,7 @@
       "close": 39.24,
       "prev_close": 39.29,
       "change_pct": -0.13,
-      "volume": 7220407,
+      "volume": 7258800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1244,7 +1244,7 @@
       "close": 125.79,
       "prev_close": 125.71,
       "change_pct": 0.06,
-      "volume": 1535490,
+      "volume": 1537200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1257,7 +1257,7 @@
       "close": 291.5,
       "prev_close": 296.41,
       "change_pct": -1.66,
-      "volume": 659832,
+      "volume": 659800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1270,7 +1270,7 @@
       "close": 110.16,
       "prev_close": 108.05,
       "change_pct": 1.95,
-      "volume": 12818280,
+      "volume": 12819300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1283,7 +1283,7 @@
       "close": 153.62,
       "prev_close": 148.32,
       "change_pct": 3.57,
-      "volume": 1688547,
+      "volume": 1697700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1296,7 +1296,7 @@
       "close": 201.86,
       "prev_close": 199.77,
       "change_pct": 1.05,
-      "volume": 5267962,
+      "volume": 5275300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1309,7 +1309,7 @@
       "close": 38.03,
       "prev_close": 37.22,
       "change_pct": 2.18,
-      "volume": 12709639,
+      "volume": 12712600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1322,7 +1322,7 @@
       "close": 339.92,
       "prev_close": 338.31,
       "change_pct": 0.48,
-      "volume": 1206867,
+      "volume": 1206900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1335,7 +1335,7 @@
       "close": 101.26,
       "prev_close": 102.37,
       "change_pct": -1.08,
-      "volume": 1239961,
+      "volume": 1244500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1348,7 +1348,7 @@
       "close": 378.44,
       "prev_close": 399.85,
       "change_pct": -5.35,
-      "volume": 1316442,
+      "volume": 1317800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1361,7 +1361,7 @@
       "close": 278.88,
       "prev_close": 277.67,
       "change_pct": 0.44,
-      "volume": 1310314,
+      "volume": 1602400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1374,7 +1374,7 @@
       "close": 171.97,
       "prev_close": 172.52,
       "change_pct": -0.32,
-      "volume": 350072,
+      "volume": 350100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1387,7 +1387,7 @@
       "close": 204.18,
       "prev_close": 204.15,
       "change_pct": 0.01,
-      "volume": 1344010,
+      "volume": 1344000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1400,7 +1400,7 @@
       "close": 109.93,
       "prev_close": 112.15,
       "change_pct": -1.98,
-      "volume": 13033724,
+      "volume": 13040600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1413,7 +1413,7 @@
       "close": 132.9,
       "prev_close": 132.68,
       "change_pct": 0.17,
-      "volume": 12091189,
+      "volume": 12092000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1426,7 +1426,7 @@
       "close": 69.71,
       "prev_close": 70.18,
       "change_pct": -0.67,
-      "volume": 2375901,
+      "volume": 2393200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1439,7 +1439,7 @@
       "close": 102.53,
       "prev_close": 103.63,
       "change_pct": -1.06,
-      "volume": 1865694,
+      "volume": 1866000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1452,7 +1452,7 @@
       "close": 285.8,
       "prev_close": 280.94,
       "change_pct": 1.73,
-      "volume": 2740835,
+      "volume": 2981900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1465,7 +1465,7 @@
       "close": 68.21,
       "prev_close": 68.35,
       "change_pct": -0.2,
-      "volume": 2176145,
+      "volume": 2176200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1478,7 +1478,7 @@
       "close": 89.66,
       "prev_close": 89.06,
       "change_pct": 0.67,
-      "volume": 9879988,
+      "volume": 9887200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1491,7 +1491,7 @@
       "close": 64.04,
       "prev_close": 63.76,
       "change_pct": 0.44,
-      "volume": 5302703,
+      "volume": 5303000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1504,7 +1504,7 @@
       "close": 279.2,
       "prev_close": 295.39,
       "change_pct": -5.48,
-      "volume": 5203328,
+      "volume": 5220300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1517,7 +1517,7 @@
       "close": 178.64,
       "prev_close": 190.72,
       "change_pct": -6.33,
-      "volume": 9959934,
+      "volume": 9981400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1530,7 +1530,7 @@
       "close": 90.75,
       "prev_close": 90.96,
       "change_pct": -0.23,
-      "volume": 2773008,
+      "volume": 3016100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1543,7 +1543,7 @@
       "close": 27.06,
       "prev_close": 26.41,
       "change_pct": 2.46,
-      "volume": 20584595,
+      "volume": 20586700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1556,7 +1556,7 @@
       "close": 1518.73,
       "prev_close": 1614.98,
       "change_pct": -5.96,
-      "volume": 356969,
+      "volume": 357100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1569,7 +1569,7 @@
       "close": 130.35,
       "prev_close": 129.52,
       "change_pct": 0.64,
-      "volume": 4651172,
+      "volume": 4651300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1582,7 +1582,7 @@
       "close": 107.49,
       "prev_close": 106.69,
       "change_pct": 0.75,
-      "volume": 1656970,
+      "volume": 1657100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1595,7 +1595,7 @@
       "close": 130.69,
       "prev_close": 131.43,
       "change_pct": -0.56,
-      "volume": 1999158,
+      "volume": 2003900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1608,7 +1608,7 @@
       "close": 276.75,
       "prev_close": 282.41,
       "change_pct": -2.0,
-      "volume": 1720807,
+      "volume": 1771800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1621,7 +1621,7 @@
       "close": 71.17,
       "prev_close": 70.96,
       "change_pct": 0.3,
-      "volume": 1011285,
+      "volume": 1011300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1634,7 +1634,7 @@
       "close": 32.99,
       "prev_close": 32.76,
       "change_pct": 0.7,
-      "volume": 6771845,
+      "volume": 6772000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1647,7 +1647,7 @@
       "close": 148.98,
       "prev_close": 152.8,
       "change_pct": -2.5,
-      "volume": 6108449,
+      "volume": 6142100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1660,7 +1660,7 @@
       "close": 407.88,
       "prev_close": 403.67,
       "change_pct": 1.04,
-      "volume": 242619,
+      "volume": 242600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1673,7 +1673,7 @@
       "close": 83.9,
       "prev_close": 82.4,
       "change_pct": 1.82,
-      "volume": 3118530,
+      "volume": 3130200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1686,7 +1686,7 @@
       "close": 32.22,
       "prev_close": 31.34,
       "change_pct": 2.81,
-      "volume": 4336370,
+      "volume": 4336700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1699,7 +1699,7 @@
       "close": 945.47,
       "prev_close": 934.66,
       "change_pct": 1.16,
-      "volume": 1400393,
+      "volume": 1401300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1712,7 +1712,7 @@
       "close": 95.86,
       "prev_close": 95.58,
       "change_pct": 0.29,
-      "volume": 3341650,
+      "volume": 3341700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1725,7 +1725,7 @@
       "close": 218.4,
       "prev_close": 227.96,
       "change_pct": -4.19,
-      "volume": 14700037,
+      "volume": 14712600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1738,7 +1738,7 @@
       "close": 76.14,
       "prev_close": 75.03,
       "change_pct": 1.48,
-      "volume": 1935026,
+      "volume": 1935000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1751,7 +1751,7 @@
       "close": 51.28,
       "prev_close": 51.54,
       "change_pct": -0.5,
-      "volume": 6691332,
+      "volume": 6722200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1764,7 +1764,7 @@
       "close": 564.85,
       "prev_close": 573.87,
       "change_pct": -1.57,
-      "volume": 767452,
+      "volume": 767500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1777,7 +1777,7 @@
       "close": 93.06,
       "prev_close": 92.92,
       "change_pct": 0.15,
-      "volume": 3992593,
+      "volume": 3993100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1790,7 +1790,7 @@
       "close": 216.07,
       "prev_close": 215.68,
       "change_pct": 0.18,
-      "volume": 2859906,
+      "volume": 2860000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1803,7 +1803,7 @@
       "close": 215.63,
       "prev_close": 211.13,
       "change_pct": 2.13,
-      "volume": 779452,
+      "volume": 779500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1816,7 +1816,7 @@
       "close": 236.98,
       "prev_close": 242.93,
       "change_pct": -2.45,
-      "volume": 2489254,
+      "volume": 2519300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1829,7 +1829,7 @@
       "close": 180.68,
       "prev_close": 178.88,
       "change_pct": 1.01,
-      "volume": 461791,
+      "volume": 461800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1842,7 +1842,7 @@
       "close": 87.76,
       "prev_close": 86.33,
       "change_pct": 1.66,
-      "volume": 2551549,
+      "volume": 2594200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1855,7 +1855,7 @@
       "close": 630.33,
       "prev_close": 622.66,
       "change_pct": 1.23,
-      "volume": 629952,
+      "volume": 630600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1868,7 +1868,7 @@
       "close": 456.24,
       "prev_close": 472.26,
       "change_pct": -3.39,
-      "volume": 3936721,
+      "volume": 3941200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1881,7 +1881,7 @@
       "close": 80.07,
       "prev_close": 81.14,
       "change_pct": -1.32,
-      "volume": 3800189,
+      "volume": 3801200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1894,7 +1894,7 @@
       "close": 47.35,
       "prev_close": 47.12,
       "change_pct": 0.49,
-      "volume": 8783049,
+      "volume": 8783600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1907,7 +1907,7 @@
       "close": 90.82,
       "prev_close": 89.29,
       "change_pct": 1.71,
-      "volume": 2544135,
+      "volume": 2546700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1920,7 +1920,7 @@
       "close": 197.67,
       "prev_close": 200.52,
       "change_pct": -1.42,
-      "volume": 2128057,
+      "volume": 2128100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1933,7 +1933,7 @@
       "close": 185.47,
       "prev_close": 192.1,
       "change_pct": -3.45,
-      "volume": 1699377,
+      "volume": 1699500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1946,7 +1946,7 @@
       "close": 122.89,
       "prev_close": 125.89,
       "change_pct": -2.38,
-      "volume": 3297834,
+      "volume": 3310200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1959,7 +1959,7 @@
       "close": 128.26,
       "prev_close": 127.0,
       "change_pct": 0.99,
-      "volume": 2502109,
+      "volume": 2502300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1972,7 +1972,7 @@
       "close": 65.55,
       "prev_close": 66.5,
       "change_pct": -1.43,
-      "volume": 3276462,
+      "volume": 3320600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1985,7 +1985,7 @@
       "close": 350.0,
       "prev_close": 332.06,
       "change_pct": 5.4,
-      "volume": 1037349,
+      "volume": 1037400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -1998,7 +1998,7 @@
       "close": 236.74,
       "prev_close": 231.89,
       "change_pct": 2.09,
-      "volume": 2998943,
+      "volume": 2999900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2011,7 +2011,7 @@
       "close": 198.68,
       "prev_close": 201.82,
       "change_pct": -1.56,
-      "volume": 1215415,
+      "volume": 1231100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2024,7 +2024,7 @@
       "close": 30.51,
       "prev_close": 30.33,
       "change_pct": 0.59,
-      "volume": 5820848,
+      "volume": 5963800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2037,7 +2037,7 @@
       "close": 147.39,
       "prev_close": 145.26,
       "change_pct": 1.47,
-      "volume": 1421314,
+      "volume": 1462500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2050,7 +2050,7 @@
       "close": 135.86,
       "prev_close": 136.24,
       "change_pct": -0.28,
-      "volume": 877206,
+      "volume": 877200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2063,7 +2063,7 @@
       "close": 120.25,
       "prev_close": 120.84,
       "change_pct": -0.49,
-      "volume": 2702758,
+      "volume": 2703000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2076,7 +2076,7 @@
       "close": 136.98,
       "prev_close": 138.8,
       "change_pct": -1.31,
-      "volume": 1055511,
+      "volume": 1055500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2089,7 +2089,7 @@
       "close": 402.78,
       "prev_close": 416.04,
       "change_pct": -3.19,
-      "volume": 1822113,
+      "volume": 1822900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2102,7 +2102,7 @@
       "close": 105.62,
       "prev_close": 102.27,
       "change_pct": 3.28,
-      "volume": 4269025,
+      "volume": 4277400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2115,7 +2115,7 @@
       "close": 86.84,
       "prev_close": 86.47,
       "change_pct": 0.43,
-      "volume": 2271140,
+      "volume": 2273300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2128,7 +2128,7 @@
       "close": 286.75,
       "prev_close": 285.91,
       "change_pct": 0.29,
-      "volume": 730371,
+      "volume": 732400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2141,7 +2141,7 @@
       "close": 70.17,
       "prev_close": 73.68,
       "change_pct": -4.76,
-      "volume": 7395049,
+      "volume": 7395200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2154,7 +2154,7 @@
       "close": 90.21,
       "prev_close": 89.95,
       "change_pct": 0.29,
-      "volume": 2043684,
+      "volume": 2043700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2167,7 +2167,7 @@
       "close": 394.43,
       "prev_close": 399.11,
       "change_pct": -1.17,
-      "volume": 561304,
+      "volume": 561300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2180,7 +2180,7 @@
       "close": 740.17,
       "prev_close": 775.04,
       "change_pct": -4.5,
-      "volume": 370026,
+      "volume": 371000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2193,7 +2193,7 @@
       "close": 155.18,
       "prev_close": 157.71,
       "change_pct": -1.6,
-      "volume": 1520787,
+      "volume": 1533800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2206,7 +2206,7 @@
       "close": 105.75,
       "prev_close": 106.49,
       "change_pct": -0.69,
-      "volume": 1448273,
+      "volume": 1448300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2219,7 +2219,7 @@
       "close": 143.35,
       "prev_close": 144.5,
       "change_pct": -0.8,
-      "volume": 2687415,
+      "volume": 2688300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2232,7 +2232,7 @@
       "close": 54.57,
       "prev_close": 54.77,
       "change_pct": -0.37,
-      "volume": 3640328,
+      "volume": 3645800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2245,7 +2245,7 @@
       "close": 194.35,
       "prev_close": 190.36,
       "change_pct": 2.1,
-      "volume": 1145037,
+      "volume": 1148400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2258,7 +2258,7 @@
       "close": 1044.41,
       "prev_close": 1076.45,
       "change_pct": -2.98,
-      "volume": 477061,
+      "volume": 477100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2271,7 +2271,7 @@
       "close": 260.4,
       "prev_close": 259.44,
       "change_pct": 0.37,
-      "volume": 224285,
+      "volume": 224300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2284,7 +2284,7 @@
       "close": 284.03,
       "prev_close": 280.76,
       "change_pct": 1.16,
-      "volume": 642611,
+      "volume": 645800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2297,7 +2297,7 @@
       "close": 103.39,
       "prev_close": 106.21,
       "change_pct": -2.66,
-      "volume": 3120876,
+      "volume": 3121700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2310,7 +2310,7 @@
       "close": 377.61,
       "prev_close": 377.66,
       "change_pct": -0.01,
-      "volume": 265752,
+      "volume": 265800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2323,7 +2323,7 @@
       "close": 80.65,
       "prev_close": 81.42,
       "change_pct": -0.95,
-      "volume": 1448127,
+      "volume": 1448100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2336,7 +2336,7 @@
       "close": 70.84,
       "prev_close": 70.92,
       "change_pct": -0.11,
-      "volume": 1476970,
+      "volume": 1513500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2349,7 +2349,7 @@
       "close": 43.93,
       "prev_close": 43.96,
       "change_pct": -0.07,
-      "volume": 5456527,
+      "volume": 5471800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2362,7 +2362,7 @@
       "close": 98.16,
       "prev_close": 98.0,
       "change_pct": 0.16,
-      "volume": 1890549,
+      "volume": 1894100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2375,7 +2375,7 @@
       "close": 329.44,
       "prev_close": 318.92,
       "change_pct": 3.3,
-      "volume": 967090,
+      "volume": 969200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2388,7 +2388,7 @@
       "close": 190.97,
       "prev_close": 190.72,
       "change_pct": 0.13,
-      "volume": 555091,
+      "volume": 567300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2401,7 +2401,7 @@
       "close": 142.91,
       "prev_close": 142.79,
       "change_pct": 0.08,
-      "volume": 813288,
+      "volume": 813300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2414,7 +2414,7 @@
       "close": 156.71,
       "prev_close": 156.44,
       "change_pct": 0.17,
-      "volume": 11102309,
+      "volume": 11352600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2427,7 +2427,7 @@
       "close": 394.24,
       "prev_close": 410.22,
       "change_pct": -3.9,
-      "volume": 336122,
+      "volume": 336100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2440,7 +2440,7 @@
       "close": 308.98,
       "prev_close": 304.47,
       "change_pct": 1.48,
-      "volume": 715165,
+      "volume": 715300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2453,7 +2453,7 @@
       "close": 1153.57,
       "prev_close": 1157.06,
       "change_pct": -0.3,
-      "volume": 157523,
+      "volume": 157600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2466,7 +2466,7 @@
       "close": 49.78,
       "prev_close": 51.14,
       "change_pct": -2.66,
-      "volume": 5999665,
+      "volume": 6041300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2479,7 +2479,7 @@
       "close": 116.75,
       "prev_close": 116.92,
       "change_pct": -0.15,
-      "volume": 579264,
+      "volume": 579300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2492,7 +2492,7 @@
       "close": 330.88,
       "prev_close": 331.41,
       "change_pct": -0.16,
-      "volume": 956859,
+      "volume": 956900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2505,7 +2505,7 @@
       "close": 133.45,
       "prev_close": 133.25,
       "change_pct": 0.15,
-      "volume": 774102,
+      "volume": 774100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2518,7 +2518,7 @@
       "close": 228.49,
       "prev_close": 233.26,
       "change_pct": -2.04,
-      "volume": 1000721,
+      "volume": 1000700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2531,7 +2531,7 @@
       "close": 41.44,
       "prev_close": 40.55,
       "change_pct": 2.19,
-      "volume": 3729137,
+      "volume": 3747400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2544,7 +2544,7 @@
       "close": 54.54,
       "prev_close": 54.85,
       "change_pct": -0.57,
-      "volume": 5617707,
+      "volume": 5617800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2557,7 +2557,7 @@
       "close": 204.46,
       "prev_close": 210.1,
       "change_pct": -2.68,
-      "volume": 1446985,
+      "volume": 1447600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2570,7 +2570,7 @@
       "close": 45.88,
       "prev_close": 46.25,
       "change_pct": -0.8,
-      "volume": 2340967,
+      "volume": 2343100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2583,7 +2583,7 @@
       "close": 53.18,
       "prev_close": 52.58,
       "change_pct": 1.14,
-      "volume": 3984956,
+      "volume": 4075800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2596,7 +2596,7 @@
       "close": 110.5,
       "prev_close": 115.3,
       "change_pct": -4.16,
-      "volume": 2058200,
+      "volume": 2058600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2609,7 +2609,7 @@
       "close": 13.88,
       "prev_close": 13.95,
       "change_pct": -0.5,
-      "volume": 40146821,
+      "volume": 40211700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2622,7 +2622,7 @@
       "close": 166.0,
       "prev_close": 172.78,
       "change_pct": -3.92,
-      "volume": 5077849,
+      "volume": 5095000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2635,7 +2635,7 @@
       "close": 59.69,
       "prev_close": 59.92,
       "change_pct": -0.38,
-      "volume": 1540799,
+      "volume": 1545800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2648,7 +2648,7 @@
       "close": 68.42,
       "prev_close": 67.22,
       "change_pct": 1.79,
-      "volume": 3622657,
+      "volume": 3622700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2661,7 +2661,7 @@
       "close": 61.32,
       "prev_close": 60.4,
       "change_pct": 1.52,
-      "volume": 928258,
+      "volume": 943300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2674,7 +2674,7 @@
       "close": 34.65,
       "prev_close": 34.82,
       "change_pct": -0.49,
-      "volume": 1974915,
+      "volume": 1975000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2687,7 +2687,7 @@
       "close": 76.45,
       "prev_close": 78.42,
       "change_pct": -2.51,
-      "volume": 18056116,
+      "volume": 18058100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2700,7 +2700,7 @@
       "close": 285.19,
       "prev_close": 289.87,
       "change_pct": -1.61,
-      "volume": 780728,
+      "volume": 781100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2713,7 +2713,7 @@
       "close": 198.39,
       "prev_close": 196.6,
       "change_pct": 0.91,
-      "volume": 610198,
+      "volume": 610200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2726,7 +2726,7 @@
       "close": 342.58,
       "prev_close": 342.73,
       "change_pct": -0.04,
-      "volume": 2534654,
+      "volume": 2537100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2739,7 +2739,7 @@
       "close": 71.72,
       "prev_close": 72.48,
       "change_pct": -1.04,
-      "volume": 1984263,
+      "volume": 2002600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2752,7 +2752,7 @@
       "close": 911.93,
       "prev_close": 953.83,
       "change_pct": -4.39,
-      "volume": 1857872,
+      "volume": 1887000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2765,7 +2765,7 @@
       "close": 31.02,
       "prev_close": 30.5,
       "change_pct": 1.7,
-      "volume": 5942528,
+      "volume": 5951500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2778,7 +2778,7 @@
       "close": 183.8,
       "prev_close": 197.29,
       "change_pct": -6.84,
-      "volume": 2429165,
+      "volume": 2429300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2804,7 +2804,7 @@
       "close": 41.55,
       "prev_close": 40.44,
       "change_pct": 2.74,
-      "volume": 8925450,
+      "volume": 8925700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2817,7 +2817,7 @@
       "close": 86.27,
       "prev_close": 86.18,
       "change_pct": 0.1,
-      "volume": 6375526,
+      "volume": 7348400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2830,7 +2830,7 @@
       "close": 137.51,
       "prev_close": 136.7,
       "change_pct": 0.59,
-      "volume": 718260,
+      "volume": 733700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2843,7 +2843,7 @@
       "close": 145.68,
       "prev_close": 148.86,
       "change_pct": -2.14,
-      "volume": 3946644,
+      "volume": 3946900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2856,7 +2856,7 @@
       "close": 91.82,
       "prev_close": 92.74,
       "change_pct": -0.99,
-      "volume": 1869170,
+      "volume": 1869200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2869,7 +2869,7 @@
       "close": 172.79,
       "prev_close": 175.78,
       "change_pct": -1.7,
-      "volume": 454851,
+      "volume": 454900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2882,7 +2882,7 @@
       "close": 97.7,
       "prev_close": 96.98,
       "change_pct": 0.74,
-      "volume": 2044644,
+      "volume": 2044700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2895,7 +2895,7 @@
       "close": 1033.99,
       "prev_close": 1040.87,
       "change_pct": -0.66,
-      "volume": 1043471,
+      "volume": 1053100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2908,7 +2908,7 @@
       "close": 36.18,
       "prev_close": 35.49,
       "change_pct": 1.94,
-      "volume": 9237035,
+      "volume": 9424900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2921,7 +2921,7 @@
       "close": 138.55,
       "prev_close": 137.8,
       "change_pct": 0.54,
-      "volume": 875240,
+      "volume": 875300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2934,7 +2934,7 @@
       "close": 94.23,
       "prev_close": 94.18,
       "change_pct": 0.05,
-      "volume": 901016,
+      "volume": 901000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2947,7 +2947,7 @@
       "close": 417.82,
       "prev_close": 419.34,
       "change_pct": -0.36,
-      "volume": 1000801,
+      "volume": 1000900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2960,7 +2960,7 @@
       "close": 20.96,
       "prev_close": 21.22,
       "change_pct": -1.23,
-      "volume": 3073821,
+      "volume": 3090200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2973,7 +2973,7 @@
       "close": 89.52,
       "prev_close": 90.28,
       "change_pct": -0.84,
-      "volume": 795954,
+      "volume": 796000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2986,7 +2986,7 @@
       "close": 179.05,
       "prev_close": 181.32,
       "change_pct": -1.25,
-      "volume": 821326,
+      "volume": 821400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -2999,7 +2999,7 @@
       "close": 52.31,
       "prev_close": 54.41,
       "change_pct": -3.86,
-      "volume": 13877587,
+      "volume": 13882800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3012,7 +3012,7 @@
       "close": 321.85,
       "prev_close": 325.68,
       "change_pct": -1.18,
-      "volume": 1220076,
+      "volume": 1220100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3025,7 +3025,7 @@
       "close": 330.19,
       "prev_close": 328.61,
       "change_pct": 0.48,
-      "volume": 2659416,
+      "volume": 3136100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3038,7 +3038,7 @@
       "close": 162.37,
       "prev_close": 160.75,
       "change_pct": 1.01,
-      "volume": 2540125,
+      "volume": 2540400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3051,7 +3051,7 @@
       "close": 217.43,
       "prev_close": 220.39,
       "change_pct": -1.34,
-      "volume": 2108966,
+      "volume": 2109000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3064,7 +3064,7 @@
       "close": 21.57,
       "prev_close": 21.28,
       "change_pct": 1.36,
-      "volume": 10615798,
+      "volume": 10643000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3077,7 +3077,7 @@
       "close": 22.28,
       "prev_close": 22.34,
       "change_pct": -0.27,
-      "volume": 4349012,
+      "volume": 4349700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3090,7 +3090,7 @@
       "close": 264.85,
       "prev_close": 267.65,
       "change_pct": -1.05,
-      "volume": 1650417,
+      "volume": 1650600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3103,7 +3103,7 @@
       "close": 30.52,
       "prev_close": 29.63,
       "change_pct": 3.0,
-      "volume": 15844562,
+      "volume": 15845800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3116,7 +3116,7 @@
       "close": 459.66,
       "prev_close": 470.28,
       "change_pct": -2.26,
-      "volume": 267841,
+      "volume": 267835,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3129,7 +3129,7 @@
       "close": 385.54,
       "prev_close": 392.63,
       "change_pct": -1.81,
-      "volume": 746502,
+      "volume": 746500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3142,7 +3142,7 @@
       "close": 16.92,
       "prev_close": 16.86,
       "change_pct": 0.36,
-      "volume": 21522473,
+      "volume": 21522600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3155,7 +3155,7 @@
       "close": 294.21,
       "prev_close": 297.29,
       "change_pct": -1.04,
-      "volume": 438475,
+      "volume": 442500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3168,7 +3168,7 @@
       "close": 235.59,
       "prev_close": 238.79,
       "change_pct": -1.34,
-      "volume": 3938126,
+      "volume": 3943300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3194,7 +3194,7 @@
       "close": 554.99,
       "prev_close": 545.08,
       "change_pct": 1.82,
-      "volume": 340349,
+      "volume": 341000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3207,7 +3207,7 @@
       "close": 280.1,
       "prev_close": 281.67,
       "change_pct": -0.56,
-      "volume": 835436,
+      "volume": 837000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3220,7 +3220,7 @@
       "close": 124.37,
       "prev_close": 127.74,
       "change_pct": -2.64,
-      "volume": 1215027,
+      "volume": 1215100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3233,7 +3233,7 @@
       "close": 78.58,
       "prev_close": 78.97,
       "change_pct": -0.49,
-      "volume": 3232248,
+      "volume": 3232400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3246,7 +3246,7 @@
       "close": 145.13,
       "prev_close": 143.41,
       "change_pct": 1.2,
-      "volume": 1043227,
+      "volume": 1043300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3259,7 +3259,7 @@
       "close": 89.47,
       "prev_close": 92.09,
       "change_pct": -2.85,
-      "volume": 85801756,
+      "volume": 86001600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3272,7 +3272,7 @@
       "close": 95.84,
       "prev_close": 96.55,
       "change_pct": -0.74,
-      "volume": 2229749,
+      "volume": 2236400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3285,7 +3285,7 @@
       "close": 162.33,
       "prev_close": 161.24,
       "change_pct": 0.68,
-      "volume": 3000843,
+      "volume": 3000900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3298,7 +3298,7 @@
       "close": 87.95,
       "prev_close": 86.85,
       "change_pct": 1.27,
-      "volume": 1162278,
+      "volume": 1162300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3311,7 +3311,7 @@
       "close": 39.31,
       "prev_close": 39.88,
       "change_pct": -1.43,
-      "volume": 3520347,
+      "volume": 3520300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3324,7 +3324,7 @@
       "close": 358.06,
       "prev_close": 348.0,
       "change_pct": 2.89,
-      "volume": 4116751,
+      "volume": 4120100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3337,7 +3337,7 @@
       "close": 372.6,
       "prev_close": 367.07,
       "change_pct": 1.51,
-      "volume": 1801300,
+      "volume": 1801600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3350,7 +3350,7 @@
       "close": 32.86,
       "prev_close": 33.31,
       "change_pct": -1.35,
-      "volume": 2777033,
+      "volume": 2777100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3363,7 +3363,7 @@
       "close": 29.24,
       "prev_close": 29.23,
       "change_pct": 0.03,
-      "volume": 4427886,
+      "volume": 4428200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3376,7 +3376,7 @@
       "close": 261.75,
       "prev_close": 262.38,
       "change_pct": -0.24,
-      "volume": 1842139,
+      "volume": 1842100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3389,7 +3389,7 @@
       "close": 117.4,
       "prev_close": 122.69,
       "change_pct": -4.31,
-      "volume": 1144365,
+      "volume": 1144400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3402,7 +3402,7 @@
       "close": 261.03,
       "prev_close": 263.39,
       "change_pct": -0.9,
-      "volume": 555316,
+      "volume": 555300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3415,7 +3415,7 @@
       "close": 301.45,
       "prev_close": 312.22,
       "change_pct": -3.45,
-      "volume": 1022747,
+      "volume": 1022900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3428,7 +3428,7 @@
       "close": 169.73,
       "prev_close": 169.64,
       "change_pct": 0.05,
-      "volume": 901756,
+      "volume": 901800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3441,7 +3441,7 @@
       "close": 151.98,
       "prev_close": 150.62,
       "change_pct": 0.9,
-      "volume": 615193,
+      "volume": 615200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3454,7 +3454,7 @@
       "close": 268.04,
       "prev_close": 265.77,
       "change_pct": 0.85,
-      "volume": 5761434,
+      "volume": 5765600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3467,7 +3467,7 @@
       "close": 139.59,
       "prev_close": 142.21,
       "change_pct": -1.84,
-      "volume": 2681027,
+      "volume": 2681100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3480,7 +3480,7 @@
       "close": 357.62,
       "prev_close": 354.22,
       "change_pct": 0.96,
-      "volume": 3911023,
+      "volume": 3914500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3493,7 +3493,7 @@
       "close": 19.17,
       "prev_close": 19.2,
       "change_pct": -0.16,
-      "volume": 11888237,
+      "volume": 11888300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3506,7 +3506,7 @@
       "close": 32.18,
       "prev_close": 31.88,
       "change_pct": 0.94,
-      "volume": 8222396,
+      "volume": 8222600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3519,7 +3519,7 @@
       "close": 21.91,
       "prev_close": 22.02,
       "change_pct": -0.5,
-      "volume": 7584761,
+      "volume": 7591500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3532,7 +3532,7 @@
       "close": 319.97,
       "prev_close": 325.82,
       "change_pct": -1.8,
-      "volume": 2195517,
+      "volume": 2195500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3545,7 +3545,7 @@
       "close": 109.55,
       "prev_close": 109.98,
       "change_pct": -0.39,
-      "volume": 2433377,
+      "volume": 2433400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3558,7 +3558,7 @@
       "close": 23.78,
       "prev_close": 23.81,
       "change_pct": -0.13,
-      "volume": 3934840,
+      "volume": 3934800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3571,7 +3571,7 @@
       "close": 31.56,
       "prev_close": 31.54,
       "change_pct": 0.06,
-      "volume": 5498738,
+      "volume": 5500700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3584,7 +3584,7 @@
       "close": 108.68,
       "prev_close": 109.32,
       "change_pct": -0.59,
-      "volume": 2423598,
+      "volume": 2424200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3597,7 +3597,7 @@
       "close": 175.54,
       "prev_close": 183.77,
       "change_pct": -4.48,
-      "volume": 9926064,
+      "volume": 9956300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3610,7 +3610,7 @@
       "close": 25.7,
       "prev_close": 25.13,
       "change_pct": 2.27,
-      "volume": 20652379,
+      "volume": 20654800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3623,7 +3623,7 @@
       "close": 57.72,
       "prev_close": 56.93,
       "change_pct": 1.39,
-      "volume": 3968170,
+      "volume": 3970700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3636,7 +3636,7 @@
       "close": 262.82,
       "prev_close": 261.98,
       "change_pct": 0.32,
-      "volume": 1397351,
+      "volume": 1615000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3649,7 +3649,7 @@
       "close": 335.11,
       "prev_close": 336.54,
       "change_pct": -0.42,
-      "volume": 456542,
+      "volume": 456500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3662,7 +3662,7 @@
       "close": 301.9,
       "prev_close": 318.58,
       "change_pct": -5.24,
-      "volume": 8034911,
+      "volume": 8057600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3675,7 +3675,7 @@
       "close": 45.04,
       "prev_close": 44.24,
       "change_pct": 1.81,
-      "volume": 6847697,
+      "volume": 6848500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3688,7 +3688,7 @@
       "close": 140.66,
       "prev_close": 139.86,
       "change_pct": 0.57,
-      "volume": 949256,
+      "volume": 950200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3701,7 +3701,7 @@
       "close": 86.33,
       "prev_close": 85.11,
       "change_pct": 1.43,
-      "volume": 2359367,
+      "volume": 2359800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3714,7 +3714,7 @@
       "close": 393.39,
       "prev_close": 391.15,
       "change_pct": 0.57,
-      "volume": 370390,
+      "volume": 370400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3727,7 +3727,7 @@
       "close": 1174.61,
       "prev_close": 1176.1,
       "change_pct": -0.13,
-      "volume": 2447356,
+      "volume": 2450800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3740,7 +3740,7 @@
       "close": 489.51,
       "prev_close": 485.35,
       "change_pct": 0.86,
-      "volume": 1240207,
+      "volume": 1240800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3753,7 +3753,7 @@
       "close": 181.65,
       "prev_close": 180.64,
       "change_pct": 0.56,
-      "volume": 1279067,
+      "volume": 1279100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3766,7 +3766,7 @@
       "close": 563.85,
       "prev_close": 565.89,
       "change_pct": -0.36,
-      "volume": 611694,
+      "volume": 619000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3779,7 +3779,7 @@
       "close": 109.72,
       "prev_close": 109.82,
       "change_pct": -0.09,
-      "volume": 490543,
+      "volume": 490500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3792,7 +3792,7 @@
       "close": 208.05,
       "prev_close": 206.74,
       "change_pct": 0.63,
-      "volume": 2742791,
+      "volume": 2791600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3805,7 +3805,7 @@
       "close": 120.81,
       "prev_close": 115.0,
       "change_pct": 5.05,
-      "volume": 3900557,
+      "volume": 3910300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3818,7 +3818,7 @@
       "close": 895.0,
       "prev_close": 956.14,
       "change_pct": -6.39,
-      "volume": 3439848,
+      "volume": 3442100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3831,7 +3831,7 @@
       "close": 63.67,
       "prev_close": 63.06,
       "change_pct": 0.97,
-      "volume": 2171268,
+      "volume": 2171300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3844,7 +3844,7 @@
       "close": 237.29,
       "prev_close": 238.68,
       "change_pct": -0.58,
-      "volume": 867697,
+      "volume": 868300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3857,7 +3857,7 @@
       "close": 368.83,
       "prev_close": 363.54,
       "change_pct": 1.46,
-      "volume": 1917722,
+      "volume": 1918600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3870,7 +3870,7 @@
       "close": 351.08,
       "prev_close": 353.87,
       "change_pct": -0.79,
-      "volume": 1001556,
+      "volume": 1011200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3883,7 +3883,7 @@
       "close": 192.64,
       "prev_close": 190.0,
       "change_pct": 1.39,
-      "volume": 1446780,
+      "volume": 1446800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3896,7 +3896,7 @@
       "close": 531.05,
       "prev_close": 528.59,
       "change_pct": 0.47,
-      "volume": 559071,
+      "volume": 559100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3909,7 +3909,7 @@
       "close": 216.62,
       "prev_close": 241.45,
       "change_pct": -10.28,
-      "volume": 48739012,
+      "volume": 48858000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3922,7 +3922,7 @@
       "close": 73.25,
       "prev_close": 72.79,
       "change_pct": 0.63,
-      "volume": 1314045,
+      "volume": 1314000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3935,7 +3935,7 @@
       "close": 595.3,
       "prev_close": 591.73,
       "change_pct": 0.6,
-      "volume": 1881012,
+      "volume": 1885300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3948,7 +3948,7 @@
       "close": 55.33,
       "prev_close": 54.54,
       "change_pct": 1.45,
-      "volume": 2002520,
+      "volume": 2002500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3961,7 +3961,7 @@
       "close": 265.0,
       "prev_close": 260.06,
       "change_pct": 1.9,
-      "volume": 3882072,
+      "volume": 3887300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3974,7 +3974,7 @@
       "close": 893.39,
       "prev_close": 890.51,
       "change_pct": 0.32,
-      "volume": 603082,
+      "volume": 606000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -3987,7 +3987,7 @@
       "close": 91.23,
       "prev_close": 89.97,
       "change_pct": 1.4,
-      "volume": 6464713,
+      "volume": 6466100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4000,7 +4000,7 @@
       "close": 148.35,
       "prev_close": 149.54,
       "change_pct": -0.8,
-      "volume": 8063261,
+      "volume": 8067000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4013,7 +4013,7 @@
       "close": 578.02,
       "prev_close": 571.1,
       "change_pct": 1.21,
-      "volume": 15573685,
+      "volume": 16018300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4026,7 +4026,7 @@
       "close": 96.51,
       "prev_close": 96.25,
       "change_pct": 0.27,
-      "volume": 2878195,
+      "volume": 2878200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4039,7 +4039,7 @@
       "close": 1398.58,
       "prev_close": 1407.43,
       "change_pct": -0.63,
-      "volume": 201919,
+      "volume": 202000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4052,7 +4052,7 @@
       "close": 42.28,
       "prev_close": 42.97,
       "change_pct": -1.61,
-      "volume": 1667668,
+      "volume": 1668300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4065,7 +4065,7 @@
       "close": 72.93,
       "prev_close": 75.49,
       "change_pct": -3.39,
-      "volume": 11080523,
+      "volume": 11114600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4078,7 +4078,7 @@
       "close": 932.86,
       "prev_close": 935.39,
       "change_pct": -0.27,
-      "volume": 22761175,
+      "volume": 22820800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4091,7 +4091,7 @@
       "close": 513.53,
       "prev_close": 505.06,
       "change_pct": 1.68,
-      "volume": 28953449,
+      "volume": 29178300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4104,7 +4104,7 @@
       "close": 129.61,
       "prev_close": 128.79,
       "change_pct": 0.64,
-      "volume": 844913,
+      "volume": 845000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4117,7 +4117,7 @@
       "close": 137.99,
       "prev_close": 142.77,
       "change_pct": -3.35,
-      "volume": 25736829,
+      "volume": 25766100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4130,7 +4130,7 @@
       "close": 41.46,
       "prev_close": 41.66,
       "change_pct": -0.48,
-      "volume": 2005029,
+      "volume": 2005000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4143,7 +4143,7 @@
       "close": 62.36,
       "prev_close": 62.43,
       "change_pct": -0.11,
-      "volume": 9164737,
+      "volume": 9165400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4156,7 +4156,7 @@
       "close": 1256.26,
       "prev_close": 1311.08,
       "change_pct": -4.18,
-      "volume": 703215,
+      "volume": 706200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4169,7 +4169,7 @@
       "close": 46.86,
       "prev_close": 46.7,
       "change_pct": 0.34,
-      "volume": 5279487,
+      "volume": 5279500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4182,7 +4182,7 @@
       "close": 514.95,
       "prev_close": 509.02,
       "change_pct": 1.16,
-      "volume": 471686,
+      "volume": 471700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4195,7 +4195,7 @@
       "close": 214.77,
       "prev_close": 214.86,
       "change_pct": -0.04,
-      "volume": 3733893,
+      "volume": 3735400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4208,7 +4208,7 @@
       "close": 23.6,
       "prev_close": 23.76,
       "change_pct": -0.67,
-      "volume": 5384647,
+      "volume": 5385000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4221,7 +4221,7 @@
       "close": 486.0,
       "prev_close": 486.54,
       "change_pct": -0.11,
-      "volume": 504504,
+      "volume": 504500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4234,7 +4234,7 @@
       "close": 570.76,
       "prev_close": 569.15,
       "change_pct": 0.28,
-      "volume": 270068,
+      "volume": 270100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4247,7 +4247,7 @@
       "close": 99.31,
       "prev_close": 99.35,
       "change_pct": -0.04,
-      "volume": 2528852,
+      "volume": 2528900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4260,7 +4260,7 @@
       "close": 187.02,
       "prev_close": 190.64,
       "change_pct": -1.9,
-      "volume": 1497184,
+      "volume": 1497500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4273,7 +4273,7 @@
       "close": 81.72,
       "prev_close": 79.84,
       "change_pct": 2.35,
-      "volume": 29028023,
+      "volume": 29048400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4286,7 +4286,7 @@
       "close": 127.98,
       "prev_close": 132.29,
       "change_pct": -3.26,
-      "volume": 8173292,
+      "volume": 8821100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4299,7 +4299,7 @@
       "close": 30.97,
       "prev_close": 31.19,
       "change_pct": -0.71,
-      "volume": 5268015,
+      "volume": 5268000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4312,7 +4312,7 @@
       "close": 34.85,
       "prev_close": 35.32,
       "change_pct": -1.33,
-      "volume": 1583071,
+      "volume": 1583100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4325,7 +4325,7 @@
       "close": 81.84,
       "prev_close": 83.47,
       "change_pct": -1.95,
-      "volume": 13950121,
+      "volume": 13950900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4338,7 +4338,7 @@
       "close": 39.6,
       "prev_close": 38.44,
       "change_pct": 3.02,
-      "volume": 28339979,
+      "volume": 28392600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4351,7 +4351,7 @@
       "close": 40.57,
       "prev_close": 40.96,
       "change_pct": -0.95,
-      "volume": 3054038,
+      "volume": 3065100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4364,7 +4364,7 @@
       "close": 324.59,
       "prev_close": 330.84,
       "change_pct": -1.89,
-      "volume": 343009,
+      "volume": 343000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4377,7 +4377,7 @@
       "close": 348.68,
       "prev_close": 347.93,
       "change_pct": 0.22,
-      "volume": 980303,
+      "volume": 980700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4390,7 +4390,7 @@
       "close": 186.79,
       "prev_close": 186.27,
       "change_pct": 0.28,
-      "volume": 603016,
+      "volume": 603000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4403,7 +4403,7 @@
       "close": 545.57,
       "prev_close": 545.13,
       "change_pct": 0.08,
-      "volume": 392852,
+      "volume": 392900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4416,7 +4416,7 @@
       "close": 16.65,
       "prev_close": 16.65,
       "change_pct": 0.0,
-      "volume": 14002398,
+      "volume": 14004700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4429,7 +4429,7 @@
       "close": 111.12,
       "prev_close": 114.41,
       "change_pct": -2.88,
-      "volume": 2162040,
+      "volume": 2169100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4442,7 +4442,7 @@
       "close": 250.5,
       "prev_close": 252.37,
       "change_pct": -0.74,
-      "volume": 929810,
+      "volume": 930200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4455,7 +4455,7 @@
       "close": 217.55,
       "prev_close": 227.98,
       "change_pct": -4.57,
-      "volume": 194036188,
+      "volume": 194586600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4468,7 +4468,7 @@
       "close": 6396.27,
       "prev_close": 6365.45,
       "change_pct": 0.48,
-      "volume": 23766,
+      "volume": 23800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4481,7 +4481,7 @@
       "close": 223.58,
       "prev_close": 225.86,
       "change_pct": -1.01,
-      "volume": 3296785,
+      "volume": 3312800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4494,7 +4494,7 @@
       "close": 88.5,
       "prev_close": 87.83,
       "change_pct": 0.76,
-      "volume": 4704785,
+      "volume": 4704800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4507,7 +4507,7 @@
       "close": 59.1,
       "prev_close": 59.17,
       "change_pct": -0.12,
-      "volume": 4428409,
+      "volume": 4429000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4520,7 +4520,7 @@
       "close": 198.63,
       "prev_close": 200.06,
       "change_pct": -0.71,
-      "volume": 1173826,
+      "volume": 1173800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4533,7 +4533,7 @@
       "close": 88.28,
       "prev_close": 87.89,
       "change_pct": 0.44,
-      "volume": 1389407,
+      "volume": 1389400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4546,7 +4546,7 @@
       "close": 72.61,
       "prev_close": 74.8,
       "change_pct": -2.93,
-      "volume": 7059711,
+      "volume": 7087300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4559,7 +4559,7 @@
       "close": 94.76,
       "prev_close": 94.72,
       "change_pct": 0.04,
-      "volume": 2605885,
+      "volume": 2606000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4572,7 +4572,7 @@
       "close": 150.85,
       "prev_close": 151.94,
       "change_pct": -0.72,
-      "volume": 17753541,
+      "volume": 17778300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4585,7 +4585,7 @@
       "close": 71.74,
       "prev_close": 71.48,
       "change_pct": 0.36,
-      "volume": 3499361,
+      "volume": 3502000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4598,7 +4598,7 @@
       "close": 125.34,
       "prev_close": 126.54,
       "change_pct": -0.95,
-      "volume": 1839829,
+      "volume": 1841600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4611,7 +4611,7 @@
       "close": 240.39,
       "prev_close": 243.69,
       "change_pct": -1.35,
-      "volume": 417987,
+      "volume": 421100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4624,7 +4624,7 @@
       "close": 186.29,
       "prev_close": 185.93,
       "change_pct": 0.19,
-      "volume": 24959261,
+      "volume": 24995400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4637,7 +4637,7 @@
       "close": 371.59,
       "prev_close": 382.85,
       "change_pct": -2.94,
-      "volume": 5837234,
+      "volume": 5840700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4650,7 +4650,7 @@
       "close": 10.88,
       "prev_close": 10.8,
       "change_pct": 0.74,
-      "volume": 10028916,
+      "volume": 10029400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4663,7 +4663,7 @@
       "close": 995.02,
       "prev_close": 1011.2,
       "change_pct": -1.6,
-      "volume": 550623,
+      "volume": 576100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4676,7 +4676,7 @@
       "close": 127.04,
       "prev_close": 126.48,
       "change_pct": 0.44,
-      "volume": 1546116,
+      "volume": 1546100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4689,7 +4689,7 @@
       "close": 53.66,
       "prev_close": 61.47,
       "change_pct": -12.71,
-      "volume": 36208248,
+      "volume": 36302400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4702,7 +4702,7 @@
       "close": 61.67,
       "prev_close": 62.1,
       "change_pct": -0.69,
-      "volume": 3592471,
+      "volume": 3592500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4715,7 +4715,7 @@
       "close": 141.07,
       "prev_close": 139.72,
       "change_pct": 0.97,
-      "volume": 5462892,
+      "volume": 5465100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4728,7 +4728,7 @@
       "close": 27.96,
       "prev_close": 28.02,
       "change_pct": -0.21,
-      "volume": 27164507,
+      "volume": 27175800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4741,7 +4741,7 @@
       "close": 16.6,
       "prev_close": 17.95,
       "change_pct": -7.52,
-      "volume": 114326369,
+      "volume": 114350800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4754,7 +4754,7 @@
       "close": 191.89,
       "prev_close": 190.48,
       "change_pct": 0.74,
-      "volume": 3811283,
+      "volume": 3816800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4767,7 +4767,7 @@
       "close": 244.01,
       "prev_close": 239.81,
       "change_pct": 1.75,
-      "volume": 1728245,
+      "volume": 1728500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4780,7 +4780,7 @@
       "close": 97.64,
       "prev_close": 97.89,
       "change_pct": -0.26,
-      "volume": 753646,
+      "volume": 753600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4793,7 +4793,7 @@
       "close": 242.22,
       "prev_close": 243.51,
       "change_pct": -0.53,
-      "volume": 1376293,
+      "volume": 1376300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4806,7 +4806,7 @@
       "close": 114.22,
       "prev_close": 113.47,
       "change_pct": 0.66,
-      "volume": 1051922,
+      "volume": 1051900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4819,7 +4819,7 @@
       "close": 34.2,
       "prev_close": 34.44,
       "change_pct": -0.7,
-      "volume": 5653324,
+      "volume": 5653300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4832,7 +4832,7 @@
       "close": 111.41,
       "prev_close": 112.17,
       "change_pct": -0.68,
-      "volume": 806379,
+      "volume": 806400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4845,7 +4845,7 @@
       "close": 143.78,
       "prev_close": 143.14,
       "change_pct": 0.45,
-      "volume": 5855830,
+      "volume": 5868900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4858,7 +4858,7 @@
       "close": 218.64,
       "prev_close": 217.65,
       "change_pct": 0.45,
-      "volume": 924333,
+      "volume": 924700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4871,7 +4871,7 @@
       "close": 140.7,
       "prev_close": 141.85,
       "change_pct": -0.81,
-      "volume": 1862492,
+      "volume": 1862500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4884,7 +4884,7 @@
       "close": 119.79,
       "prev_close": 120.37,
       "change_pct": -0.48,
-      "volume": 1248456,
+      "volume": 1248600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4897,7 +4897,7 @@
       "close": 73.19,
       "prev_close": 73.33,
       "change_pct": -0.19,
-      "volume": 2284221,
+      "volume": 2284200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4910,7 +4910,7 @@
       "close": 157.15,
       "prev_close": 158.95,
       "change_pct": -1.13,
-      "volume": 1069117,
+      "volume": 1069100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4923,7 +4923,7 @@
       "close": 313.51,
       "prev_close": 311.2,
       "change_pct": 0.74,
-      "volume": 533719,
+      "volume": 533700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4936,7 +4936,7 @@
       "close": 128.55,
       "prev_close": 126.75,
       "change_pct": 1.42,
-      "volume": 1065613,
+      "volume": 1067000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4949,7 +4949,7 @@
       "close": 602.7,
       "prev_close": 621.83,
       "change_pct": -3.08,
-      "volume": 881696,
+      "volume": 882500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4962,7 +4962,7 @@
       "close": 164.19,
       "prev_close": 164.78,
       "change_pct": -0.36,
-      "volume": 7713846,
+      "volume": 7752100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4975,7 +4975,7 @@
       "close": 242.76,
       "prev_close": 244.61,
       "change_pct": -0.76,
-      "volume": 639931,
+      "volume": 639900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -4988,7 +4988,7 @@
       "close": 120.26,
       "prev_close": 126.35,
       "change_pct": -4.82,
-      "volume": 1997615,
+      "volume": 2004900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5001,7 +5001,7 @@
       "close": 354.04,
       "prev_close": 351.9,
       "change_pct": 0.61,
-      "volume": 511944,
+      "volume": 512000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5014,7 +5014,7 @@
       "close": 179.36,
       "prev_close": 176.11,
       "change_pct": 1.85,
-      "volume": 1759382,
+      "volume": 1772400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5027,7 +5027,7 @@
       "close": 153.0,
       "prev_close": 153.95,
       "change_pct": -0.62,
-      "volume": 2744092,
+      "volume": 2749300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5040,7 +5040,7 @@
       "close": 211.71,
       "prev_close": 212.08,
       "change_pct": -0.17,
-      "volume": 2311449,
+      "volume": 2313200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5053,7 +5053,7 @@
       "close": 61.98,
       "prev_close": 61.8,
       "change_pct": 0.29,
-      "volume": 3694054,
+      "volume": 3697400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5066,7 +5066,7 @@
       "close": 75.52,
       "prev_close": 75.46,
       "change_pct": 0.08,
-      "volume": 847942,
+      "volume": 847900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5079,7 +5079,7 @@
       "close": 794.19,
       "prev_close": 807.71,
       "change_pct": -1.67,
-      "volume": 487713,
+      "volume": 487700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5092,7 +5092,7 @@
       "close": 30.33,
       "prev_close": 30.4,
       "change_pct": -0.23,
-      "volume": 5897989,
+      "volume": 5901900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5105,7 +5105,7 @@
       "close": 222.11,
       "prev_close": 219.27,
       "change_pct": 1.3,
-      "volume": 1401605,
+      "volume": 1401700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5118,7 +5118,7 @@
       "close": 240.33,
       "prev_close": 235.76,
       "change_pct": 1.94,
-      "volume": 1386747,
+      "volume": 1386700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5131,7 +5131,7 @@
       "close": 128.8,
       "prev_close": 129.71,
       "change_pct": -0.7,
-      "volume": 1576262,
+      "volume": 1576300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5144,7 +5144,7 @@
       "close": 104.26,
       "prev_close": 109.76,
       "change_pct": -5.01,
-      "volume": 16200263,
+      "volume": 16236400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5157,7 +5157,7 @@
       "close": 430.86,
       "prev_close": 433.0,
       "change_pct": -0.49,
-      "volume": 565901,
+      "volume": 566600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5170,7 +5170,7 @@
       "close": 36.38,
       "prev_close": 35.94,
       "change_pct": 1.22,
-      "volume": 2723387,
+      "volume": 2723400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5183,7 +5183,7 @@
       "close": 426.2,
       "prev_close": 422.69,
       "change_pct": 0.83,
-      "volume": 560823,
+      "volume": 560800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5196,7 +5196,7 @@
       "close": 228.55,
       "prev_close": 229.87,
       "change_pct": -0.57,
-      "volume": 2375298,
+      "volume": 2431500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5209,7 +5209,7 @@
       "close": 279.41,
       "prev_close": 284.8,
       "change_pct": -1.89,
-      "volume": 1107231,
+      "volume": 1107700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5222,7 +5222,7 @@
       "close": 442.89,
       "prev_close": 435.39,
       "change_pct": 1.72,
-      "volume": 1288459,
+      "volume": 1288500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5235,7 +5235,7 @@
       "close": 256.0,
       "prev_close": 252.05,
       "change_pct": 1.57,
-      "volume": 34320234,
+      "volume": 34342700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5248,7 +5248,7 @@
       "close": 1484.98,
       "prev_close": 1484.95,
       "change_pct": 0.0,
-      "volume": 8104535,
+      "volume": 8115000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5261,7 +5261,7 @@
       "close": 190.95,
       "prev_close": 186.96,
       "change_pct": 2.13,
-      "volume": 681159,
+      "volume": 684300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5274,7 +5274,7 @@
       "close": 57.33,
       "prev_close": 55.01,
       "change_pct": 4.22,
-      "volume": 17902297,
+      "volume": 18116900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5287,7 +5287,7 @@
       "close": 829.76,
       "prev_close": 847.2,
       "change_pct": -2.06,
-      "volume": 2797766,
+      "volume": 2802800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5300,7 +5300,7 @@
       "close": 84.31,
       "prev_close": 84.75,
       "change_pct": -0.52,
-      "volume": 4959497,
+      "volume": 4959500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5313,7 +5313,7 @@
       "close": 144.71,
       "prev_close": 138.43,
       "change_pct": 4.54,
-      "volume": 28890423,
+      "volume": 28982600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5326,7 +5326,7 @@
       "close": 344.86,
       "prev_close": 345.21,
       "change_pct": -0.1,
-      "volume": 1557020,
+      "volume": 1618500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5339,7 +5339,7 @@
       "close": 214.56,
       "prev_close": 214.89,
       "change_pct": -0.15,
-      "volume": 852660,
+      "volume": 852700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5352,7 +5352,7 @@
       "close": 65.79,
       "prev_close": 67.36,
       "change_pct": -2.33,
-      "volume": 4822880,
+      "volume": 4832400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5365,7 +5365,7 @@
       "close": 132.34,
       "prev_close": 131.84,
       "change_pct": 0.38,
-      "volume": 1448156,
+      "volume": 1449200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5378,7 +5378,7 @@
       "close": 48.29,
       "prev_close": 48.63,
       "change_pct": -0.7,
-      "volume": 3973811,
+      "volume": 3979700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5391,7 +5391,7 @@
       "close": 391.86,
       "prev_close": 395.84,
       "change_pct": -1.01,
-      "volume": 192773,
+      "volume": 192800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5404,7 +5404,7 @@
       "close": 91.12,
       "prev_close": 90.93,
       "change_pct": 0.21,
-      "volume": 658526,
+      "volume": 678800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5417,7 +5417,7 @@
       "close": 88.25,
       "prev_close": 89.05,
       "change_pct": -0.9,
-      "volume": 6345625,
+      "volume": 6346400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5430,7 +5430,7 @@
       "close": 39.64,
       "prev_close": 39.76,
       "change_pct": -0.3,
-      "volume": 3130477,
+      "volume": 3130800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5443,7 +5443,7 @@
       "close": 97.8,
       "prev_close": 99.24,
       "change_pct": -1.45,
-      "volume": 1230816,
+      "volume": 1230800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5456,7 +5456,7 @@
       "close": 107.85,
       "prev_close": 107.26,
       "change_pct": 0.55,
-      "volume": 4828385,
+      "volume": 4832200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5469,7 +5469,7 @@
       "close": 193.33,
       "prev_close": 193.37,
       "change_pct": -0.02,
-      "volume": 627396,
+      "volume": 627400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5479,10 +5479,10 @@
       "wiki_ticker": "STLD",
       "name": "Steel Dynamics",
       "sector": "Materials",
-      "close": 234.66,
+      "close": 234.67,
       "prev_close": 235.84,
       "change_pct": -0.5,
-      "volume": 670280,
+      "volume": 670300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5495,7 +5495,7 @@
       "close": 233.78,
       "prev_close": 232.97,
       "change_pct": 0.35,
-      "volume": 339455,
+      "volume": 339500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5508,7 +5508,7 @@
       "close": 330.69,
       "prev_close": 322.12,
       "change_pct": 2.66,
-      "volume": 2227711,
+      "volume": 2227700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5521,7 +5521,7 @@
       "close": 37.08,
       "prev_close": 38.46,
       "change_pct": -3.59,
-      "volume": 28943597,
+      "volume": 29045100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5534,7 +5534,7 @@
       "close": 78.05,
       "prev_close": 79.93,
       "change_pct": -2.35,
-      "volume": 2932014,
+      "volume": 2945700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5547,7 +5547,7 @@
       "close": 442.61,
       "prev_close": 464.89,
       "change_pct": -4.79,
-      "volume": 2002907,
+      "volume": 2004100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5560,7 +5560,7 @@
       "close": 81.94,
       "prev_close": 82.45,
       "change_pct": -0.62,
-      "volume": 2082994,
+      "volume": 2083100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5573,7 +5573,7 @@
       "close": 181.37,
       "prev_close": 177.75,
       "change_pct": 2.04,
-      "volume": 3105620,
+      "volume": 3126400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5586,7 +5586,7 @@
       "close": 111.24,
       "prev_close": 112.36,
       "change_pct": -1.0,
-      "volume": 1059328,
+      "volume": 1059300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5599,7 +5599,7 @@
       "close": 235.39,
       "prev_close": 233.0,
       "change_pct": 1.03,
-      "volume": 3703598,
+      "volume": 3706600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5612,7 +5612,7 @@
       "close": 125.49,
       "prev_close": 123.24,
       "change_pct": 1.83,
-      "volume": 3485696,
+      "volume": 3533900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5625,7 +5625,7 @@
       "close": 287.82,
       "prev_close": 288.95,
       "change_pct": -0.39,
-      "volume": 805544,
+      "volume": 806200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5638,7 +5638,7 @@
       "close": 163.18,
       "prev_close": 165.93,
       "change_pct": -1.66,
-      "volume": 3569281,
+      "volume": 3643800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5651,7 +5651,7 @@
       "close": 202.66,
       "prev_close": 203.0,
       "change_pct": -0.17,
-      "volume": 1384371,
+      "volume": 1384400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5664,7 +5664,7 @@
       "close": 621.96,
       "prev_close": 626.5,
       "change_pct": -0.72,
-      "volume": 187002,
+      "volume": 187000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5677,7 +5677,7 @@
       "close": 354.97,
       "prev_close": 372.06,
       "change_pct": -4.59,
-      "volume": 2373639,
+      "volume": 2388700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5690,7 +5690,7 @@
       "close": 348.75,
       "prev_close": 354.81,
       "change_pct": -1.71,
-      "volume": 32818355,
+      "volume": 32913300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5703,7 +5703,7 @@
       "close": 258.64,
       "prev_close": 266.54,
       "change_pct": -2.96,
-      "volume": 5841246,
+      "volume": 5861100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5716,7 +5716,7 @@
       "close": 364.38,
       "prev_close": 369.71,
       "change_pct": -1.44,
-      "volume": 200076,
+      "volume": 200100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5729,7 +5729,7 @@
       "close": 83.04,
       "prev_close": 82.35,
       "change_pct": 0.84,
-      "volume": 1939960,
+      "volume": 1983400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5742,7 +5742,7 @@
       "close": 622.18,
       "prev_close": 630.7,
       "change_pct": -1.35,
-      "volume": 1016554,
+      "volume": 1016600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5755,7 +5755,7 @@
       "close": 135.12,
       "prev_close": 134.22,
       "change_pct": 0.67,
-      "volume": 6783991,
+      "volume": 6800200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5768,7 +5768,7 @@
       "close": 184.64,
       "prev_close": 184.34,
       "change_pct": 0.16,
-      "volume": 641161,
+      "volume": 641300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5781,7 +5781,7 @@
       "close": 13.57,
       "prev_close": 13.42,
       "change_pct": 1.12,
-      "volume": 12947167,
+      "volume": 12955300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5794,7 +5794,7 @@
       "close": 34.72,
       "prev_close": 34.7,
       "change_pct": 0.06,
-      "volume": 8331754,
+      "volume": 8332100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5807,7 +5807,7 @@
       "close": 448.96,
       "prev_close": 454.31,
       "change_pct": -1.18,
-      "volume": 721492,
+      "volume": 728100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5820,7 +5820,7 @@
       "close": 1185.97,
       "prev_close": 1186.48,
       "change_pct": -0.04,
-      "volume": 192539,
+      "volume": 192500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5833,7 +5833,7 @@
       "close": 369.9,
       "prev_close": 369.33,
       "change_pct": 0.15,
-      "volume": 976830,
+      "volume": 976900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5846,7 +5846,7 @@
       "close": 61.01,
       "prev_close": 61.54,
       "change_pct": -0.86,
-      "volume": 2532695,
+      "volume": 2532700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5859,7 +5859,7 @@
       "close": 50.43,
       "prev_close": 50.3,
       "change_pct": 0.26,
-      "volume": 4615520,
+      "volume": 4618600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5872,7 +5872,7 @@
       "close": 377.94,
       "prev_close": 369.88,
       "change_pct": 2.18,
-      "volume": 1105330,
+      "volume": 1105300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5885,7 +5885,7 @@
       "close": 55.4,
       "prev_close": 55.35,
       "change_pct": 0.09,
-      "volume": 1945674,
+      "volume": 1959700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5898,7 +5898,7 @@
       "close": 62.47,
       "prev_close": 62.4,
       "change_pct": 0.11,
-      "volume": 6255985,
+      "volume": 6256100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5911,7 +5911,7 @@
       "close": 78.82,
       "prev_close": 76.95,
       "change_pct": 2.43,
-      "volume": 10692241,
+      "volume": 10702700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5924,7 +5924,7 @@
       "close": 37.12,
       "prev_close": 37.08,
       "change_pct": 0.11,
-      "volume": 1935742,
+      "volume": 1935800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5937,7 +5937,7 @@
       "close": 517.5,
       "prev_close": 540.1,
       "change_pct": -4.18,
-      "volume": 1606711,
+      "volume": 1608100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5950,7 +5950,7 @@
       "close": 307.41,
       "prev_close": 307.67,
       "change_pct": -0.08,
-      "volume": 1717024,
+      "volume": 1717700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5963,7 +5963,7 @@
       "close": 110.6,
       "prev_close": 112.39,
       "change_pct": -1.59,
-      "volume": 2283651,
+      "volume": 2284900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5976,7 +5976,7 @@
       "close": 105.33,
       "prev_close": 105.68,
       "change_pct": -0.33,
-      "volume": 2342107,
+      "volume": 2343400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -5989,7 +5989,7 @@
       "close": 1030.25,
       "prev_close": 1037.51,
       "change_pct": -0.7,
-      "volume": 547121,
+      "volume": 547100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6002,7 +6002,7 @@
       "close": 392.95,
       "prev_close": 395.05,
       "change_pct": -0.53,
-      "volume": 2453364,
+      "volume": 2455500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6015,7 +6015,7 @@
       "close": 171.66,
       "prev_close": 172.58,
       "change_pct": -0.53,
-      "volume": 553337,
+      "volume": 556200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6028,7 +6028,7 @@
       "close": 352.36,
       "prev_close": 346.59,
       "change_pct": 1.66,
-      "volume": 1832339,
+      "volume": 1848500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6041,7 +6041,7 @@
       "close": 276.69,
       "prev_close": 282.13,
       "change_pct": -1.93,
-      "volume": 3638382,
+      "volume": 3641600,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6054,7 +6054,7 @@
       "close": 91.81,
       "prev_close": 92.89,
       "change_pct": -1.16,
-      "volume": 1916830,
+      "volume": 1916800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6067,7 +6067,7 @@
       "close": 98.56,
       "prev_close": 98.37,
       "change_pct": 0.19,
-      "volume": 1201498,
+      "volume": 1201500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6080,7 +6080,7 @@
       "close": 291.93,
       "prev_close": 294.73,
       "change_pct": -0.95,
-      "volume": 698768,
+      "volume": 698800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6093,7 +6093,7 @@
       "close": 191.77,
       "prev_close": 191.02,
       "change_pct": 0.39,
-      "volume": 942285,
+      "volume": 942300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6106,7 +6106,7 @@
       "close": 50.1,
       "prev_close": 49.43,
       "change_pct": 1.36,
-      "volume": 15789014,
+      "volume": 15790100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6119,7 +6119,7 @@
       "close": 541.69,
       "prev_close": 547.55,
       "change_pct": -1.07,
-      "volume": 886790,
+      "volume": 886900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6132,7 +6132,7 @@
       "close": 257.08,
       "prev_close": 269.28,
       "change_pct": -4.53,
-      "volume": 3834647,
+      "volume": 3840500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6145,7 +6145,7 @@
       "close": 16.34,
       "prev_close": 16.89,
       "change_pct": -3.26,
-      "volume": 6217364,
+      "volume": 6217400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6158,7 +6158,7 @@
       "close": 25.87,
       "prev_close": 25.77,
       "change_pct": 0.39,
-      "volume": 4362855,
+      "volume": 4363500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6171,7 +6171,7 @@
       "close": 381.6,
       "prev_close": 379.66,
       "change_pct": 0.51,
-      "volume": 4625359,
+      "volume": 4643000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6184,7 +6184,7 @@
       "close": 137.09,
       "prev_close": 139.81,
       "change_pct": -1.95,
-      "volume": 3049673,
+      "volume": 3059500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6197,7 +6197,7 @@
       "close": 65.54,
       "prev_close": 65.5,
       "change_pct": 0.06,
-      "volume": 4749529,
+      "volume": 4749500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6210,7 +6210,7 @@
       "close": 274.51,
       "prev_close": 273.85,
       "change_pct": 0.24,
-      "volume": 714764,
+      "volume": 714800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6223,7 +6223,7 @@
       "close": 68.44,
       "prev_close": 68.34,
       "change_pct": 0.15,
-      "volume": 1266958,
+      "volume": 1267100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6236,7 +6236,7 @@
       "close": 1306.3,
       "prev_close": 1321.08,
       "change_pct": -1.12,
-      "volume": 149265,
+      "volume": 150200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6249,7 +6249,7 @@
       "close": 292.23,
       "prev_close": 297.28,
       "change_pct": -1.7,
-      "volume": 477703,
+      "volume": 477700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6262,7 +6262,7 @@
       "close": 103.09,
       "prev_close": 102.63,
       "change_pct": 0.45,
-      "volume": 19350259,
+      "volume": 19392800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6275,7 +6275,7 @@
       "close": 108.1,
       "prev_close": 106.82,
       "change_pct": 1.2,
-      "volume": 5440769,
+      "volume": 5465900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6288,7 +6288,7 @@
       "close": 28.77,
       "prev_close": 28.88,
       "change_pct": -0.38,
-      "volume": 10004334,
+      "volume": 10004800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6301,7 +6301,7 @@
       "close": 219.66,
       "prev_close": 217.76,
       "change_pct": 0.87,
-      "volume": 1962194,
+      "volume": 1962800,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6314,7 +6314,7 @@
       "close": 414.69,
       "prev_close": 421.26,
       "change_pct": -1.56,
-      "volume": 435135,
+      "volume": 435100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6327,7 +6327,7 @@
       "close": 106.22,
       "prev_close": 106.28,
       "change_pct": -0.06,
-      "volume": 1440482,
+      "volume": 1440500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6340,7 +6340,7 @@
       "close": 86.69,
       "prev_close": 84.97,
       "change_pct": 2.02,
-      "volume": 12020214,
+      "volume": 12024000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6353,7 +6353,7 @@
       "close": 238.07,
       "prev_close": 239.6,
       "change_pct": -0.64,
-      "volume": 2109229,
+      "volume": 2131300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6366,7 +6366,7 @@
       "close": 337.47,
       "prev_close": 346.09,
       "change_pct": -2.49,
-      "volume": 492703,
+      "volume": 496300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6379,7 +6379,7 @@
       "close": 459.45,
       "prev_close": 462.0,
       "change_pct": -0.55,
-      "volume": 4285805,
+      "volume": 4317400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6392,7 +6392,7 @@
       "close": 23.64,
       "prev_close": 23.7,
       "change_pct": -0.25,
-      "volume": 3276886,
+      "volume": 3287500,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6405,7 +6405,7 @@
       "close": 235.09,
       "prev_close": 238.4,
       "change_pct": -1.39,
-      "volume": 972351,
+      "volume": 972400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6418,7 +6418,7 @@
       "close": 73.73,
       "prev_close": 74.19,
       "change_pct": -0.62,
-      "volume": 4693034,
+      "volume": 4693100,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6431,7 +6431,7 @@
       "close": 343.75,
       "prev_close": 339.58,
       "change_pct": 1.23,
-      "volume": 311422,
+      "volume": 311400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6444,7 +6444,7 @@
       "close": 204.72,
       "prev_close": 193.57,
       "change_pct": 5.76,
-      "volume": 8655791,
+      "volume": 8668700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6457,7 +6457,7 @@
       "close": 95.26,
       "prev_close": 93.61,
       "change_pct": 1.76,
-      "volume": 1203996,
+      "volume": 1223700,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6470,7 +6470,7 @@
       "close": 76.45,
       "prev_close": 77.16,
       "change_pct": -0.92,
-      "volume": 4330530,
+      "volume": 4522200,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6483,7 +6483,7 @@
       "close": 111.31,
       "prev_close": 112.65,
       "change_pct": -1.19,
-      "volume": 1458851,
+      "volume": 1458900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6496,7 +6496,7 @@
       "close": 153.86,
       "prev_close": 150.75,
       "change_pct": 2.06,
-      "volume": 1539983,
+      "volume": 1545400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6509,7 +6509,7 @@
       "close": 356.45,
       "prev_close": 361.11,
       "change_pct": -1.29,
-      "volume": 580966,
+      "volume": 581000,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6522,7 +6522,7 @@
       "close": 100.91,
       "prev_close": 99.48,
       "change_pct": 1.44,
-      "volume": 1190906,
+      "volume": 1190900,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"
@@ -6535,7 +6535,7 @@
       "close": 77.34,
       "prev_close": 75.02,
       "change_pct": 3.09,
-      "volume": 4843694,
+      "volume": 4844300,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "USD"

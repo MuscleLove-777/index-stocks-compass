@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29 12:30 JST",
+  "updated": "2026-08-30 08:53 JST",
   "members": [
     {
       "ticker": "ACS.MC",
@@ -71,9 +71,9 @@
       "wiki_ticker": "BBVA.MC",
       "name": "BBVA",
       "sector": "Financial Services",
-      "close": NaN,
+      "close": 25.04,
       "prev_close": 24.66,
-      "change_pct": NaN,
+      "change_pct": 1.54,
       "volume": 5649302,
       "last_date": "2026-08-28",
       "market_cap": 0,
@@ -227,9 +227,9 @@
       "wiki_ticker": "IBE.MC",
       "name": "Iberdrola",
       "sector": "Energy",
-      "close": NaN,
+      "close": 20.28,
       "prev_close": 20.06,
-      "change_pct": NaN,
+      "change_pct": 1.1,
       "volume": 6896706,
       "last_date": "2026-08-28",
       "market_cap": 0,
@@ -243,7 +243,7 @@
       "close": NaN,
       "prev_close": 61.5,
       "change_pct": NaN,
-      "volume": 547255,
+      "volume": 537238,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -256,7 +256,7 @@
       "close": NaN,
       "prev_close": 57.7,
       "change_pct": NaN,
-      "volume": 895801,
+      "volume": 893062,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -269,7 +269,7 @@
       "close": NaN,
       "prev_close": 35.72,
       "change_pct": NaN,
-      "volume": 128647,
+      "volume": 126168,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -282,7 +282,7 @@
       "close": NaN,
       "prev_close": 4.45,
       "change_pct": NaN,
-      "volume": 1453803,
+      "volume": 1441438,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -295,7 +295,7 @@
       "close": NaN,
       "prev_close": 13.54,
       "change_pct": NaN,
-      "volume": 798970,
+      "volume": 793997,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -308,7 +308,7 @@
       "close": NaN,
       "prev_close": 63.9,
       "change_pct": NaN,
-      "volume": 127030,
+      "volume": 127031,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -321,7 +321,7 @@
       "close": NaN,
       "prev_close": 29.62,
       "change_pct": NaN,
-      "volume": 637266,
+      "volume": 633268,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -334,7 +334,7 @@
       "close": NaN,
       "prev_close": 18.08,
       "change_pct": NaN,
-      "volume": 1043742,
+      "volume": 1029124,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -347,7 +347,7 @@
       "close": NaN,
       "prev_close": 15.2,
       "change_pct": NaN,
-      "volume": 667891,
+      "volume": 664476,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -360,7 +360,7 @@
       "close": NaN,
       "prev_close": 26.37,
       "change_pct": NaN,
-      "volume": 1521092,
+      "volume": 1513167,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -373,7 +373,7 @@
       "close": NaN,
       "prev_close": 61.5,
       "change_pct": NaN,
-      "volume": 106765,
+      "volume": 106285,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -386,7 +386,7 @@
       "close": NaN,
       "prev_close": 3.61,
       "change_pct": NaN,
-      "volume": 7224457,
+      "volume": 7140625,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -396,9 +396,9 @@
       "wiki_ticker": "SAN.MC",
       "name": "Santander",
       "sector": "Financial Services",
-      "close": NaN,
+      "close": 12.71,
       "prev_close": 12.54,
-      "change_pct": NaN,
+      "change_pct": 1.36,
       "volume": 11482493,
       "last_date": "2026-08-28",
       "market_cap": 0,
@@ -412,7 +412,7 @@
       "close": NaN,
       "prev_close": 4.31,
       "change_pct": NaN,
-      "volume": 1613103,
+      "volume": 1595577,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -425,7 +425,7 @@
       "close": NaN,
       "prev_close": 17.7,
       "change_pct": NaN,
-      "volume": 1185610,
+      "volume": 1149562,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -438,7 +438,7 @@
       "close": NaN,
       "prev_close": 3.6,
       "change_pct": NaN,
-      "volume": 4436264,
+      "volume": 4424104,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -451,7 +451,7 @@
       "close": NaN,
       "prev_close": 3.55,
       "change_pct": NaN,
-      "volume": 1890368,
+      "volume": 1884178,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
