@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30 08:53 JST",
+  "updated": "2026-08-31 09:12 JST",
   "members": [
     {
       "ticker": "ADS.DE",
@@ -9,7 +9,7 @@
       "close": NaN,
       "prev_close": 153.1,
       "change_pct": NaN,
-      "volume": 424396,
+      "volume": 424484,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -35,7 +35,7 @@
       "close": NaN,
       "prev_close": 445.2,
       "change_pct": NaN,
-      "volume": 430767,
+      "volume": 431217,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -48,7 +48,7 @@
       "close": NaN,
       "prev_close": 51.51,
       "change_pct": NaN,
-      "volume": 1585806,
+      "volume": 1587981,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -61,7 +61,7 @@
       "close": NaN,
       "prev_close": 48.48,
       "change_pct": NaN,
-      "volume": 1453763,
+      "volume": 1454272,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -74,7 +74,7 @@
       "close": NaN,
       "prev_close": 80.7,
       "change_pct": NaN,
-      "volume": 188439,
+      "volume": 188489,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -87,7 +87,7 @@
       "close": NaN,
       "prev_close": 59.94,
       "change_pct": NaN,
-      "volume": 2734292,
+      "volume": 2736596,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -113,7 +113,7 @@
       "close": NaN,
       "prev_close": 39.82,
       "change_pct": NaN,
-      "volume": 1417649,
+      "volume": 1421232,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -139,7 +139,7 @@
       "close": NaN,
       "prev_close": 46.96,
       "change_pct": NaN,
-      "volume": 827078,
+      "volume": 827090,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -152,7 +152,7 @@
       "close": NaN,
       "prev_close": 34.44,
       "change_pct": NaN,
-      "volume": 4449923,
+      "volume": 4454124,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -165,7 +165,7 @@
       "close": NaN,
       "prev_close": 288.8,
       "change_pct": NaN,
-      "volume": 292595,
+      "volume": 292650,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -178,7 +178,7 @@
       "close": NaN,
       "prev_close": 56.42,
       "change_pct": NaN,
-      "volume": 1236287,
+      "volume": 1236328,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -191,7 +191,7 @@
       "close": NaN,
       "prev_close": 28.19,
       "change_pct": NaN,
-      "volume": 5010418,
+      "volume": 5011917,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -204,7 +204,7 @@
       "close": NaN,
       "prev_close": 17.61,
       "change_pct": NaN,
-      "volume": 3797114,
+      "volume": 3798169,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -217,7 +217,7 @@
       "close": NaN,
       "prev_close": 46.2,
       "change_pct": NaN,
-      "volume": 782287,
+      "volume": 782487,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -230,7 +230,7 @@
       "close": NaN,
       "prev_close": 40.13,
       "change_pct": NaN,
-      "volume": 894046,
+      "volume": 894166,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -256,7 +256,7 @@
       "close": NaN,
       "prev_close": 256.0,
       "change_pct": NaN,
-      "volume": 98367,
+      "volume": 98464,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -282,7 +282,7 @@
       "close": NaN,
       "prev_close": 75.7,
       "change_pct": NaN,
-      "volume": 188217,
+      "volume": 188317,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -295,7 +295,7 @@
       "close": NaN,
       "prev_close": 57.17,
       "change_pct": NaN,
-      "volume": 2712615,
+      "volume": 2714627,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -308,7 +308,7 @@
       "close": NaN,
       "prev_close": 45.6,
       "change_pct": NaN,
-      "volume": 2887435,
+      "volume": 2887976,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -321,7 +321,7 @@
       "close": NaN,
       "prev_close": 140.1,
       "change_pct": NaN,
-      "volume": 177400,
+      "volume": 177555,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -347,7 +347,7 @@
       "close": NaN,
       "prev_close": 514.4,
       "change_pct": NaN,
-      "volume": 233180,
+      "volume": 233221,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -386,7 +386,7 @@
       "close": NaN,
       "prev_close": 1173.2,
       "change_pct": NaN,
-      "volume": 111858,
+      "volume": 112003,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -399,7 +399,7 @@
       "close": NaN,
       "prev_close": 57.76,
       "change_pct": NaN,
-      "volume": 1229657,
+      "volume": 1231217,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -412,7 +412,7 @@
       "close": NaN,
       "prev_close": 189.88,
       "change_pct": NaN,
-      "volume": 2183127,
+      "volume": 2187400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -438,7 +438,7 @@
       "close": NaN,
       "prev_close": 286.95,
       "change_pct": NaN,
-      "volume": 795534,
+      "volume": 795740,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -451,7 +451,7 @@
       "close": NaN,
       "prev_close": 150.24,
       "change_pct": NaN,
-      "volume": 1404990,
+      "volume": 1405726,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -464,7 +464,7 @@
       "close": NaN,
       "prev_close": 39.26,
       "change_pct": NaN,
-      "volume": 490743,
+      "volume": 491263,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -477,7 +477,7 @@
       "close": NaN,
       "prev_close": 91.86,
       "change_pct": NaN,
-      "volume": 205635,
+      "volume": 205742,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -490,7 +490,7 @@
       "close": NaN,
       "prev_close": 75.0,
       "change_pct": NaN,
-      "volume": 1376154,
+      "volume": 1378031,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -503,7 +503,7 @@
       "close": NaN,
       "prev_close": 19.94,
       "change_pct": NaN,
-      "volume": 2038356,
+      "volume": 2040884,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -516,7 +516,7 @@
       "close": NaN,
       "prev_close": 24.0,
       "change_pct": NaN,
-      "volume": 914744,
+      "volume": 914794,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"

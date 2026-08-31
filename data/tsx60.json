@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30 08:53 JST",
+  "updated": "2026-08-31 09:12 JST",
   "members": [
     {
       "ticker": "AEM.TO",
@@ -9,7 +9,7 @@
       "close": NaN,
       "prev_close": 298.24,
       "change_pct": NaN,
-      "volume": 1044377,
+      "volume": 1051725,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "CAD"
@@ -61,7 +61,7 @@
       "close": NaN,
       "prev_close": 65.59,
       "change_pct": NaN,
-      "volume": 4734386,
+      "volume": 4739428,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "CAD"
@@ -113,7 +113,7 @@
       "close": NaN,
       "prev_close": 53.86,
       "change_pct": NaN,
-      "volume": 368632,
+      "volume": 370198,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "CAD"
@@ -672,7 +672,7 @@
       "close": NaN,
       "prev_close": 97.77,
       "change_pct": NaN,
-      "volume": 1291425,
+      "volume": 1302121,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "CAD"

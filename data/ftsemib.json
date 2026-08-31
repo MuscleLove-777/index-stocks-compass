@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30 08:53 JST",
+  "updated": "2026-08-31 09:12 JST",
   "members": [
     {
       "ticker": "A2A.MI",
@@ -48,7 +48,7 @@
       "close": NaN,
       "prev_close": 38.83,
       "change_pct": NaN,
-      "volume": 331570,
+      "volume": 336351,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -373,7 +373,7 @@
       "close": NaN,
       "prev_close": 27.65,
       "change_pct": NaN,
-      "volume": 1305374,
+      "volume": 1311388,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -503,7 +503,7 @@
       "close": NaN,
       "prev_close": 83.42,
       "change_pct": NaN,
-      "volume": 2777098,
+      "volume": 2783974,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"

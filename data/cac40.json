@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30 08:53 JST",
+  "updated": "2026-08-31 09:12 JST",
   "members": [
     {
       "ticker": "AC.PA",
@@ -9,7 +9,7 @@
       "close": NaN,
       "prev_close": 46.65,
       "change_pct": NaN,
-      "volume": 626647,
+      "volume": 627327,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -35,7 +35,7 @@
       "close": NaN,
       "prev_close": 203.4,
       "change_pct": NaN,
-      "volume": 752184,
+      "volume": 754873,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -61,7 +61,7 @@
       "close": NaN,
       "prev_close": 42.92,
       "change_pct": NaN,
-      "volume": 3139050,
+      "volume": 3139678,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -217,7 +217,7 @@
       "close": NaN,
       "prev_close": 73.0,
       "change_pct": NaN,
-      "volume": 274996,
+      "volume": 275066,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"
@@ -516,7 +516,7 @@
       "close": NaN,
       "prev_close": 114.85,
       "change_pct": NaN,
-      "volume": 866472,
+      "volume": 868163,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "EUR"

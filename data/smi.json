@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30 08:53 JST",
+  "updated": "2026-08-31 09:12 JST",
   "members": [
     {
       "ticker": "NOVN.SW",
@@ -9,7 +9,7 @@
       "close": NaN,
       "prev_close": 124.64,
       "change_pct": NaN,
-      "volume": 1961272,
+      "volume": 1961400,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "CHF"
@@ -113,7 +113,7 @@
       "close": NaN,
       "prev_close": 139.95,
       "change_pct": NaN,
-      "volume": 488513,
+      "volume": 488752,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "CHF"
@@ -139,7 +139,7 @@
       "close": NaN,
       "prev_close": 626.5,
       "change_pct": NaN,
-      "volume": 49972,
+      "volume": 50041,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "CHF"
@@ -152,7 +152,7 @@
       "close": NaN,
       "prev_close": 3274.0,
       "change_pct": NaN,
-      "volume": 11365,
+      "volume": 11361,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "CHF"
@@ -204,7 +204,7 @@
       "close": NaN,
       "prev_close": 917.8,
       "change_pct": NaN,
-      "volume": 26425,
+      "volume": 26453,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "CHF"
@@ -217,7 +217,7 @@
       "close": NaN,
       "prev_close": 217.0,
       "change_pct": NaN,
-      "volume": 116599,
+      "volume": 116726,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "CHF"
@@ -256,7 +256,7 @@
       "close": NaN,
       "prev_close": 79.2,
       "change_pct": NaN,
-      "volume": 495403,
+      "volume": 495937,
       "last_date": "2026-08-28",
       "market_cap": 0,
       "currency": "CHF"
