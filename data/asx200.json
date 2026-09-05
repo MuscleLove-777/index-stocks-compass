@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 08:43 JST",
+  "updated": "2026-09-06 08:33 JST",
   "members": [
     {
       "ticker": "360.AX",
@@ -279,13 +279,13 @@
       "wiki_ticker": "ASK",
       "name": "Abacus Storage King",
       "sector": "Real Estate",
-      "close": 1.11,
-      "prev_close": 1.11,
-      "change_pct": 0.0,
-      "volume": 829341,
-      "last_date": "2026-09-04",
+      "close": null,
+      "prev_close": null,
+      "change_pct": null,
+      "volume": null,
+      "last_date": null,
       "market_cap": 0,
-      "currency": "AUD"
+      "currency": ""
     },
     {
       "ticker": "ASX.AX",
