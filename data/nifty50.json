@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19 08:52 JST",
+  "updated": "2026-09-20 08:54 JST",
   "members": [
     {
       "ticker": "ADANIENT.NS",
@@ -292,9 +292,9 @@
       "wiki_ticker": "INDIGO",
       "name": "IndiGo",
       "sector": "Services",
-      "close": NaN,
+      "close": 4920.0,
       "prev_close": 4845.0,
-      "change_pct": NaN,
+      "change_pct": 1.55,
       "volume": 732347,
       "last_date": "2026-09-18",
       "market_cap": 0,
@@ -487,9 +487,9 @@
       "wiki_ticker": "SBILIFE",
       "name": "SBI Life Insurance Company",
       "sector": "Financial Services",
-      "close": NaN,
+      "close": 1731.0,
       "prev_close": 1766.9,
-      "change_pct": NaN,
+      "change_pct": -2.03,
       "volume": 929365,
       "last_date": "2026-09-18",
       "market_cap": 0,

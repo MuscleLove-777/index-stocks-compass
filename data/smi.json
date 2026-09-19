@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19 08:52 JST",
+  "updated": "2026-09-20 08:54 JST",
   "members": [
     {
       "ticker": "NOVN.SW",
@@ -110,9 +110,9 @@
       "wiki_ticker": "SREN",
       "name": "Swiss Reinsurance Company Ltd",
       "sector": "Financials",
-      "close": NaN,
+      "close": 138.75,
       "prev_close": 139.3,
-      "change_pct": NaN,
+      "change_pct": -0.39,
       "volume": 1842656,
       "last_date": "2026-09-18",
       "market_cap": 0,
@@ -162,9 +162,9 @@
       "wiki_ticker": "ALC",
       "name": "Alcon Inc",
       "sector": "Health care",
-      "close": NaN,
+      "close": 53.66,
       "prev_close": 55.1,
-      "change_pct": NaN,
+      "change_pct": -2.61,
       "volume": 2936880,
       "last_date": "2026-09-18",
       "market_cap": 0,

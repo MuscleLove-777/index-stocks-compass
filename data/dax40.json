@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19 08:52 JST",
+  "updated": "2026-09-20 08:54 JST",
   "members": [
     {
       "ticker": "ADS.DE",
@@ -35,7 +35,7 @@
       "close": NaN,
       "prev_close": 449.2,
       "change_pct": NaN,
-      "volume": 1731481,
+      "volume": 1731545,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -61,7 +61,7 @@
       "close": NaN,
       "prev_close": 48.98,
       "change_pct": NaN,
-      "volume": 6026712,
+      "volume": 6026732,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -87,7 +87,7 @@
       "close": NaN,
       "prev_close": 62.14,
       "change_pct": NaN,
-      "volume": 6339100,
+      "volume": 6347346,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -113,7 +113,7 @@
       "close": NaN,
       "prev_close": 41.45,
       "change_pct": NaN,
-      "volume": 7671806,
+      "volume": 7693446,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -126,7 +126,7 @@
       "close": NaN,
       "prev_close": 69.86,
       "change_pct": NaN,
-      "volume": 2142068,
+      "volume": 2142458,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -136,10 +136,10 @@
       "wiki_ticker": "DTG.DE",
       "name": "Daimler Truck",
       "sector": "Automotive",
-      "close": NaN,
+      "close": 43.49,
       "prev_close": 43.56,
-      "change_pct": NaN,
-      "volume": 2671186,
+      "change_pct": -0.16,
+      "volume": 2671299,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -152,7 +152,7 @@
       "close": NaN,
       "prev_close": 33.63,
       "change_pct": NaN,
-      "volume": 14193567,
+      "volume": 14208668,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -178,7 +178,7 @@
       "close": NaN,
       "prev_close": 55.76,
       "change_pct": NaN,
-      "volume": 4535042,
+      "volume": 4535342,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -191,7 +191,7 @@
       "close": NaN,
       "prev_close": 28.84,
       "change_pct": NaN,
-      "volume": 24609153,
+      "volume": 24629473,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -204,7 +204,7 @@
       "close": NaN,
       "prev_close": 17.67,
       "change_pct": NaN,
-      "volume": 14166249,
+      "volume": 14167059,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -230,7 +230,7 @@
       "close": NaN,
       "prev_close": 40.03,
       "change_pct": NaN,
-      "volume": 2205039,
+      "volume": 2205139,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -269,7 +269,7 @@
       "close": NaN,
       "prev_close": 149.8,
       "change_pct": NaN,
-      "volume": 1286703,
+      "volume": 1287015,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -295,7 +295,7 @@
       "close": NaN,
       "prev_close": 55.0,
       "change_pct": NaN,
-      "volume": 9825454,
+      "volume": 9826247,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -308,7 +308,7 @@
       "close": NaN,
       "prev_close": 45.37,
       "change_pct": NaN,
-      "volume": 7641403,
+      "volume": 7643742,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -321,7 +321,7 @@
       "close": NaN,
       "prev_close": 131.7,
       "change_pct": NaN,
-      "volume": 777317,
+      "volume": 777337,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -347,7 +347,7 @@
       "close": NaN,
       "prev_close": 511.6,
       "change_pct": NaN,
-      "volume": 875868,
+      "volume": 875870,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -360,7 +360,7 @@
       "close": NaN,
       "prev_close": 28.73,
       "change_pct": NaN,
-      "volume": 2301095,
+      "volume": 2302890,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -386,7 +386,7 @@
       "close": NaN,
       "prev_close": 1013.0,
       "change_pct": NaN,
-      "volume": 316968,
+      "volume": 317077,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -399,7 +399,7 @@
       "close": NaN,
       "prev_close": 59.92,
       "change_pct": NaN,
-      "volume": 3369008,
+      "volume": 3369558,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -412,7 +412,7 @@
       "close": NaN,
       "prev_close": 186.56,
       "change_pct": NaN,
-      "volume": 7135718,
+      "volume": 7136397,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -422,10 +422,10 @@
       "wiki_ticker": "G24.DE",
       "name": "Scout24",
       "sector": "E-Commerce",
-      "close": NaN,
+      "close": 73.75,
       "prev_close": 74.7,
-      "change_pct": NaN,
-      "volume": 963622,
+      "change_pct": -1.27,
+      "volume": 963634,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -438,7 +438,7 @@
       "close": NaN,
       "prev_close": 260.5,
       "change_pct": NaN,
-      "volume": 3575504,
+      "volume": 3575590,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -448,10 +448,10 @@
       "wiki_ticker": "ENR.DE",
       "name": "Siemens Energy",
       "sector": "Energy technology",
-      "close": NaN,
+      "close": 140.2,
       "prev_close": 137.12,
-      "change_pct": NaN,
-      "volume": 4733605,
+      "change_pct": 2.25,
+      "volume": 4734474,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -461,9 +461,9 @@
       "wiki_ticker": "SHL.DE",
       "name": "Siemens Healthineers",
       "sector": "Medical Equipment",
-      "close": NaN,
+      "close": 37.77,
       "prev_close": 38.36,
-      "change_pct": NaN,
+      "change_pct": -1.54,
       "volume": 2516085,
       "last_date": "2026-09-18",
       "market_cap": 0,
@@ -477,7 +477,7 @@
       "close": NaN,
       "prev_close": 91.46,
       "change_pct": NaN,
-      "volume": 909227,
+      "volume": 909237,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -490,7 +490,7 @@
       "close": NaN,
       "prev_close": 78.88,
       "change_pct": NaN,
-      "volume": 8287568,
+      "volume": 8290627,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -500,10 +500,10 @@
       "wiki_ticker": "VNA.DE",
       "name": "Vonovia",
       "sector": "Real Estate",
-      "close": NaN,
+      "close": 17.7,
       "prev_close": 17.89,
-      "change_pct": NaN,
-      "volume": 6867326,
+      "change_pct": -1.03,
+      "volume": 6868516,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "EUR"
@@ -513,9 +513,9 @@
       "wiki_ticker": "ZAL.DE",
       "name": "Zalando",
       "sector": "E-Commerce",
-      "close": NaN,
+      "close": 21.52,
       "prev_close": 21.48,
-      "change_pct": NaN,
+      "change_pct": 0.19,
       "volume": 2332463,
       "last_date": "2026-09-18",
       "market_cap": 0,
