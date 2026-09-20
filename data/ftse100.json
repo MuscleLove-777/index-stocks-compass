@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 08:54 JST",
+  "updated": "2026-09-21 08:51 JST",
   "members": [
     {
       "ticker": "III.L",
@@ -331,10 +331,10 @@
       "wiki_ticker": "CPG",
       "name": "Compass Group",
       "sector": "",
-      "close": NaN,
+      "close": 29.97,
       "prev_close": 30.91,
-      "change_pct": NaN,
-      "volume": 6317266,
+      "change_pct": -3.04,
+      "volume": 6319998,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "USD"
@@ -617,10 +617,10 @@
       "wiki_ticker": "IHG",
       "name": "IHG Hotels & Resorts",
       "sector": "",
-      "close": NaN,
+      "close": 151.85,
       "prev_close": 153.55,
-      "change_pct": NaN,
-      "volume": 587740,
+      "change_pct": -1.11,
+      "volume": 588483,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "USD"

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 08:54 JST",
+  "updated": "2026-09-21 08:51 JST",
   "members": [
     {
       "ticker": "MMM",
@@ -873,6 +873,19 @@
       "currency": "USD"
     },
     {
+      "ticker": "BE",
+      "wiki_ticker": "BE",
+      "name": "Bloom Energy",
+      "sector": "Industrials",
+      "close": 265.63,
+      "prev_close": 280.76,
+      "change_pct": -5.39,
+      "volume": 73384100,
+      "last_date": "2026-09-18",
+      "market_cap": 0,
+      "currency": "USD"
+    },
+    {
       "ticker": "BNY",
       "wiki_ticker": "BNY",
       "name": "BNY Mellon",
@@ -985,19 +998,6 @@
       "prev_close": 26.5,
       "change_pct": -2.11,
       "volume": 8003500,
-      "last_date": "2026-09-18",
-      "market_cap": 0,
-      "currency": "USD"
-    },
-    {
-      "ticker": "BLDR",
-      "wiki_ticker": "BLDR",
-      "name": "Builders FirstSource",
-      "sector": "Industrials",
-      "close": 58.12,
-      "prev_close": 57.68,
-      "change_pct": 0.76,
-      "volume": 27089800,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "USD"
@@ -2329,6 +2329,19 @@
       "currency": "USD"
     },
     {
+      "ticker": "P",
+      "wiki_ticker": "P",
+      "name": "Everpure",
+      "sector": "Information Technology",
+      "close": 104.14,
+      "prev_close": 103.99,
+      "change_pct": 0.14,
+      "volume": 73094300,
+      "last_date": "2026-09-18",
+      "market_cap": 0,
+      "currency": "USD"
+    },
+    {
       "ticker": "ES",
       "wiki_ticker": "ES",
       "name": "Eversource Energy",
@@ -3208,6 +3221,19 @@
       "prev_close": 267.51,
       "change_pct": 0.71,
       "volume": 2094100,
+      "last_date": "2026-09-18",
+      "market_cap": 0,
+      "currency": "USD"
+    },
+    {
+      "ticker": "ILMN",
+      "wiki_ticker": "ILMN",
+      "name": "Illumina, Inc.",
+      "sector": "Health Care",
+      "close": 239.62,
+      "prev_close": 245.18,
+      "change_pct": -2.27,
+      "volume": 32586500,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "USD"
@@ -4118,19 +4144,6 @@
       "prev_close": 158.07,
       "change_pct": -2.55,
       "volume": 20229600,
-      "last_date": "2026-09-18",
-      "market_cap": 0,
-      "currency": "USD"
-    },
-    {
-      "ticker": "TAP",
-      "wiki_ticker": "TAP",
-      "name": "Molson Coors Beverage Company",
-      "sector": "Consumer Staples",
-      "close": 37.53,
-      "prev_close": 39.08,
-      "change_pct": -3.97,
-      "volume": 49898300,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "USD"
@@ -5769,19 +5782,6 @@
       "prev_close": 189.3,
       "change_pct": -0.02,
       "volume": 3674400,
-      "last_date": "2026-09-18",
-      "market_cap": 0,
-      "currency": "USD"
-    },
-    {
-      "ticker": "TTD",
-      "wiki_ticker": "TTD",
-      "name": "Trade Desk (The)",
-      "sector": "Communication Services",
-      "close": 13.92,
-      "prev_close": 14.26,
-      "change_pct": -2.38,
-      "volume": 149092500,
       "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "USD"
