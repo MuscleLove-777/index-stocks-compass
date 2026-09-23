@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22 09:35 JST",
+  "updated": "2026-09-23 08:59 JST",
   "members": [
     {
       "ticker": "6857.T",
@@ -1189,11 +1189,11 @@
       "wiki_ticker": "8252.T",
       "name": "Marui Group Co., Ltd.",
       "sector": "Retail",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 2882.5,
+      "prev_close": 2929.5,
+      "change_pct": -1.6,
+      "volume": 1641500,
+      "last_date": "2026-09-18",
       "market_cap": 0,
       "currency": "JPY"
     },
