@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27 09:14 JST",
+  "updated": "2026-09-28 09:18 JST",
   "members": [
     {
       "ticker": "005930.KS",
@@ -9,7 +9,7 @@
       "close": 285500.0,
       "prev_close": 276500.0,
       "change_pct": 3.25,
-      "volume": 20864376,
+      "volume": 0,
       "last_date": "2026-09-23",
       "market_cap": 0,
       "currency": "KRW"
@@ -22,7 +22,7 @@
       "close": 1862000.0,
       "prev_close": 1840000.0,
       "change_pct": 1.2,
-      "volume": 2947714,
+      "volume": 0,
       "last_date": "2026-09-23",
       "market_cap": 0,
       "currency": "KRW"
@@ -35,7 +35,7 @@
       "close": 1366000.0,
       "prev_close": 1391000.0,
       "change_pct": -1.8,
-      "volume": 38947,
+      "volume": 0,
       "last_date": "2026-09-23",
       "market_cap": 0,
       "currency": "KRW"
@@ -48,7 +48,7 @@
       "close": 351500.0,
       "prev_close": 350500.0,
       "change_pct": 0.29,
-      "volume": 222728,
+      "volume": 0,
       "last_date": "2026-09-23",
       "market_cap": 0,
       "currency": "KRW"
@@ -61,7 +61,7 @@
       "close": 353500.0,
       "prev_close": 360500.0,
       "change_pct": -1.94,
-      "volume": 550575,
+      "volume": 0,
       "last_date": "2026-09-23",
       "market_cap": 0,
       "currency": "KRW"
@@ -74,7 +74,7 @@
       "close": 177400.0,
       "prev_close": 178500.0,
       "change_pct": -0.62,
-      "volume": 294934,
+      "volume": 0,
       "last_date": "2026-09-23",
       "market_cap": 0,
       "currency": "KRW"
@@ -87,7 +87,7 @@
       "close": 115400.0,
       "prev_close": 118500.0,
       "change_pct": -2.62,
-      "volume": 798446,
+      "volume": 0,
       "last_date": "2026-09-23",
       "market_cap": 0,
       "currency": "KRW"
@@ -100,7 +100,7 @@
       "close": 194700.0,
       "prev_close": 201000.0,
       "change_pct": -3.13,
-      "volume": 1148820,
+      "volume": 0,
       "last_date": "2026-09-23",
       "market_cap": 0,
       "currency": "KRW"
@@ -113,7 +113,7 @@
       "close": 173200.0,
       "prev_close": 175700.0,
       "change_pct": -1.42,
-      "volume": 679189,
+      "volume": 0,
       "last_date": "2026-09-23",
       "market_cap": 0,
       "currency": "KRW"
@@ -126,7 +126,7 @@
       "close": 1021000.0,
       "prev_close": 1057000.0,
       "change_pct": -3.41,
-      "volume": 139794,
+      "volume": 0,
       "last_date": "2026-09-23",
       "market_cap": 0,
       "currency": "KRW"
