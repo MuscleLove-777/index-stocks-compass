@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 10:17 JST",
+  "updated": "2026-10-03 09:56 JST",
   "members": [
     {
       "ticker": "ADANIENT.NS",
@@ -136,10 +136,10 @@
       "wiki_ticker": "CIPLA",
       "name": "Cipla",
       "sector": "Healthcare",
-      "close": NaN,
+      "close": 1344.0,
       "prev_close": 1346.0,
-      "change_pct": NaN,
-      "volume": 921701,
+      "change_pct": -0.15,
+      "volume": 921789,
       "last_date": "2026-10-01",
       "market_cap": 0,
       "currency": "INR"
@@ -201,10 +201,10 @@
       "wiki_ticker": "GRASIM",
       "name": "Grasim Industries",
       "sector": "Construction Materials",
-      "close": NaN,
+      "close": 2962.0,
       "prev_close": 3061.9,
-      "change_pct": NaN,
-      "volume": 1385134,
+      "change_pct": -3.26,
+      "volume": 1385746,
       "last_date": "2026-10-01",
       "market_cap": 0,
       "currency": "INR"
@@ -487,10 +487,10 @@
       "wiki_ticker": "SBILIFE",
       "name": "SBI Life Insurance Company",
       "sector": "Financial Services",
-      "close": NaN,
+      "close": 1721.6,
       "prev_close": 1696.4,
-      "change_pct": NaN,
-      "volume": 3329762,
+      "change_pct": 1.49,
+      "volume": 3329860,
       "last_date": "2026-10-01",
       "market_cap": 0,
       "currency": "INR"
@@ -526,10 +526,10 @@
       "wiki_ticker": "SUNPHARMA",
       "name": "Sun Pharma",
       "sector": "Healthcare",
-      "close": NaN,
+      "close": 1801.0,
       "prev_close": 1816.6,
-      "change_pct": NaN,
-      "volume": 2314614,
+      "change_pct": -0.86,
+      "volume": 2314700,
       "last_date": "2026-10-01",
       "market_cap": 0,
       "currency": "INR"
