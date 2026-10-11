@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10 10:31 JST",
+  "updated": "2026-10-11 09:40 JST",
   "members": [
     {
       "ticker": "NOVN.SW",
@@ -9,7 +9,7 @@
       "close": 119.1,
       "prev_close": 117.72,
       "change_pct": 1.17,
-      "volume": 1766823,
+      "volume": 1772212,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -22,7 +22,7 @@
       "close": 357.8,
       "prev_close": 352.7,
       "change_pct": 1.45,
-      "volume": 437214,
+      "volume": 441064,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -32,10 +32,10 @@
       "wiki_ticker": "NESN",
       "name": "Nestlé SA",
       "sector": "Retail staples",
-      "close": NaN,
+      "close": 76.04,
       "prev_close": 76.0,
-      "change_pct": NaN,
-      "volume": 2554704,
+      "change_pct": 0.05,
+      "volume": 2554411,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -48,7 +48,7 @@
       "close": 79.64,
       "prev_close": 78.8,
       "change_pct": 1.07,
-      "volume": 1397892,
+      "volume": 1397896,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -61,7 +61,7 @@
       "close": 39.9,
       "prev_close": 38.83,
       "change_pct": 2.76,
-      "volume": 3854408,
+      "volume": 3854776,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -74,7 +74,7 @@
       "close": 170.3,
       "prev_close": 168.4,
       "change_pct": 1.13,
-      "volume": 388111,
+      "volume": 420259,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -84,10 +84,10 @@
       "wiki_ticker": "ZURN",
       "name": "Zurich Insurance Group AG",
       "sector": "Financials",
-      "close": NaN,
+      "close": 576.0,
       "prev_close": 572.8,
-      "change_pct": NaN,
-      "volume": 150413,
+      "change_pct": 0.56,
+      "volume": 150411,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -100,7 +100,7 @@
       "close": 63.5,
       "prev_close": 62.84,
       "change_pct": 1.05,
-      "volume": 595276,
+      "volume": 600341,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -126,7 +126,7 @@
       "close": 572.2,
       "prev_close": 563.4,
       "change_pct": 1.56,
-      "volume": 77849,
+      "volume": 77924,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -152,7 +152,7 @@
       "close": 3440.0,
       "prev_close": 3409.0,
       "change_pct": 0.91,
-      "volume": 13680,
+      "volume": 14014,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -178,7 +178,7 @@
       "close": 173.8,
       "prev_close": 170.85,
       "change_pct": 1.73,
-      "volume": 280064,
+      "volume": 280473,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -201,10 +201,10 @@
       "wiki_ticker": "SLHN",
       "name": "Swiss Life Holding AG",
       "sector": "Financials",
-      "close": NaN,
+      "close": 883.6,
       "prev_close": 881.4,
-      "change_pct": NaN,
-      "volume": 41672,
+      "change_pct": 0.25,
+      "volume": 41666,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -227,10 +227,10 @@
       "wiki_ticker": "GEBN",
       "name": "Geberit AG",
       "sector": "Industrials",
-      "close": NaN,
+      "close": 528.6,
       "prev_close": 523.8,
-      "change_pct": NaN,
-      "volume": 51670,
+      "change_pct": 0.92,
+      "volume": 51636,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -243,7 +243,7 @@
       "close": 594.6,
       "prev_close": 589.4,
       "change_pct": 0.88,
-      "volume": 84990,
+      "volume": 85988,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
@@ -253,10 +253,10 @@
       "wiki_ticker": "LOGN",
       "name": "Logitech International SA",
       "sector": "Information technology",
-      "close": NaN,
+      "close": 81.98,
       "prev_close": 84.12,
-      "change_pct": NaN,
-      "volume": 573122,
+      "change_pct": -2.54,
+      "volume": 572674,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "CHF"
