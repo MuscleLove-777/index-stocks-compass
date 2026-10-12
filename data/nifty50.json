@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11 09:40 JST",
+  "updated": "2026-10-12 09:59 JST",
   "members": [
     {
       "ticker": "ADANIENT.NS",
@@ -127,6 +127,19 @@
       "prev_close": 1804.6,
       "change_pct": 0.03,
       "volume": 3362523,
+      "last_date": "2026-10-09",
+      "market_cap": 0,
+      "currency": "INR"
+    },
+    {
+      "ticker": "BSE.NS",
+      "wiki_ticker": "BSE",
+      "name": "BSE",
+      "sector": "Financial Services",
+      "close": 3287.2,
+      "prev_close": 3334.8,
+      "change_pct": -1.43,
+      "volume": 3243473,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "INR"
@@ -634,19 +647,6 @@
       "prev_close": 10426.0,
       "change_pct": 2.39,
       "volume": 157341,
-      "last_date": "2026-10-09",
-      "market_cap": 0,
-      "currency": "INR"
-    },
-    {
-      "ticker": "WIPRO.NS",
-      "wiki_ticker": "WIPRO",
-      "name": "Wipro",
-      "sector": "Information Technology",
-      "close": 162.57,
-      "prev_close": 158.38,
-      "change_pct": 2.65,
-      "volume": 23916315,
       "last_date": "2026-10-09",
       "market_cap": 0,
       "currency": "INR"
