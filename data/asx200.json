@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24 09:15 JST",
+  "updated": "2026-10-25 09:00 JST",
   "members": [
     {
       "ticker": "360.AX",
@@ -9,7 +9,7 @@
       "close": 21.71,
       "prev_close": 21.32,
       "change_pct": 1.83,
-      "volume": 1549354,
+      "volume": 1552004,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -48,7 +48,7 @@
       "close": 53.92,
       "prev_close": 57.71,
       "change_pct": -6.57,
-      "volume": 864142,
+      "volume": 864683,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -61,7 +61,7 @@
       "close": 6.71,
       "prev_close": 6.67,
       "change_pct": 0.6,
-      "volume": 610305,
+      "volume": 613774,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -100,7 +100,7 @@
       "close": 39.2,
       "prev_close": 39.88,
       "change_pct": -1.71,
-      "volume": 1273619,
+      "volume": 1262692,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -217,7 +217,7 @@
       "close": 11.52,
       "prev_close": 11.48,
       "change_pct": 0.35,
-      "volume": 2896837,
+      "volume": 2899815,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -230,7 +230,7 @@
       "close": 18.59,
       "prev_close": 18.45,
       "change_pct": 0.76,
-      "volume": 480308,
+      "volume": 473013,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -243,7 +243,7 @@
       "close": 17.34,
       "prev_close": 17.33,
       "change_pct": 0.06,
-      "volume": 180174,
+      "volume": 177021,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -256,7 +256,7 @@
       "close": 9.19,
       "prev_close": 9.22,
       "change_pct": -0.33,
-      "volume": 308680,
+      "volume": 307977,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -295,7 +295,7 @@
       "close": 66.06,
       "prev_close": 65.29,
       "change_pct": 1.18,
-      "volume": 488314,
+      "volume": 478291,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -464,7 +464,7 @@
       "close": 21.65,
       "prev_close": 21.23,
       "change_pct": 1.98,
-      "volume": 6432681,
+      "volume": 6450985,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -477,7 +477,7 @@
       "close": 25.02,
       "prev_close": 25.18,
       "change_pct": -0.64,
-      "volume": 937851,
+      "volume": 940820,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -503,7 +503,7 @@
       "close": 55.2,
       "prev_close": 56.53,
       "change_pct": -2.35,
-      "volume": 1027091,
+      "volume": 1020977,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -542,7 +542,7 @@
       "close": 20.03,
       "prev_close": 19.52,
       "change_pct": 2.61,
-      "volume": 2401306,
+      "volume": 2465944,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -568,7 +568,7 @@
       "close": 2.8,
       "prev_close": 2.78,
       "change_pct": 0.72,
-      "volume": 1367062,
+      "volume": 1369010,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -672,7 +672,7 @@
       "close": 11.18,
       "prev_close": 11.66,
       "change_pct": -4.12,
-      "volume": 2432633,
+      "volume": 2431845,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -711,7 +711,7 @@
       "close": 2.99,
       "prev_close": 3.0,
       "change_pct": -0.33,
-      "volume": 19025884,
+      "volume": 18577710,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -737,7 +737,7 @@
       "close": 5.74,
       "prev_close": 5.6,
       "change_pct": 2.5,
-      "volume": 1117186,
+      "volume": 1069106,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -750,7 +750,7 @@
       "close": 3.85,
       "prev_close": 3.92,
       "change_pct": -1.79,
-      "volume": 5017934,
+      "volume": 5115867,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -776,7 +776,7 @@
       "close": 1.43,
       "prev_close": 1.51,
       "change_pct": -4.97,
-      "volume": 4808942,
+      "volume": 4812136,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -828,7 +828,7 @@
       "close": 16.75,
       "prev_close": 17.16,
       "change_pct": -2.39,
-      "volume": 126718,
+      "volume": 123565,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -854,7 +854,7 @@
       "close": 5.78,
       "prev_close": 6.2,
       "change_pct": -6.77,
-      "volume": 1843158,
+      "volume": 1786388,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -906,7 +906,7 @@
       "close": 2.63,
       "prev_close": 2.7,
       "change_pct": -2.59,
-      "volume": 679675,
+      "volume": 666697,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -932,7 +932,7 @@
       "close": 14.27,
       "prev_close": 14.57,
       "change_pct": -2.06,
-      "volume": 8104809,
+      "volume": 8104849,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -971,7 +971,7 @@
       "close": 3.07,
       "prev_close": 3.2,
       "change_pct": -4.06,
-      "volume": 3037367,
+      "volume": 3029181,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -997,7 +997,7 @@
       "close": 6.16,
       "prev_close": 6.68,
       "change_pct": -7.78,
-      "volume": 8413968,
+      "volume": 8348777,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1192,7 +1192,7 @@
       "close": 37.54,
       "prev_close": 36.85,
       "change_pct": 1.87,
-      "volume": 1088798,
+      "volume": 1093364,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1335,7 +1335,7 @@
       "close": 7.34,
       "prev_close": 7.7,
       "change_pct": -4.68,
-      "volume": 1656511,
+      "volume": 1680049,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1413,7 +1413,7 @@
       "close": 1.77,
       "prev_close": 1.83,
       "change_pct": -3.01,
-      "volume": 2164966,
+      "volume": 2138588,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1439,7 +1439,7 @@
       "close": 1.64,
       "prev_close": 1.64,
       "change_pct": 0.0,
-      "volume": 2060680,
+      "volume": 2087576,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1452,7 +1452,7 @@
       "close": 41.31,
       "prev_close": 40.01,
       "change_pct": 3.25,
-      "volume": 7147588,
+      "volume": 7139570,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1504,7 +1504,7 @@
       "close": 0.65,
       "prev_close": 0.67,
       "change_pct": -2.99,
-      "volume": 11318261,
+      "volume": 11357991,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1543,7 +1543,7 @@
       "close": 6.02,
       "prev_close": 6.32,
       "change_pct": -4.75,
-      "volume": 1939708,
+      "volume": 1953455,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1569,7 +1569,7 @@
       "close": 48.49,
       "prev_close": 47.62,
       "change_pct": 1.83,
-      "volume": 42563,
+      "volume": 48311,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1660,7 +1660,7 @@
       "close": 3.54,
       "prev_close": 3.84,
       "change_pct": -7.81,
-      "volume": 1893610,
+      "volume": 1909230,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1673,7 +1673,7 @@
       "close": 6.88,
       "prev_close": 7.26,
       "change_pct": -5.23,
-      "volume": 3468383,
+      "volume": 3426972,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1712,7 +1712,7 @@
       "close": 13.93,
       "prev_close": 13.37,
       "change_pct": 4.19,
-      "volume": 614800,
+      "volume": 614299,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1738,7 +1738,7 @@
       "close": 17.08,
       "prev_close": 16.59,
       "change_pct": 2.95,
-      "volume": 451876,
+      "volume": 454837,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1829,7 +1829,7 @@
       "close": 3.5,
       "prev_close": 3.5,
       "change_pct": 0.0,
-      "volume": 339033,
+      "volume": 338770,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1907,7 +1907,7 @@
       "close": 146.27,
       "prev_close": 150.3,
       "change_pct": -2.68,
-      "volume": 1636679,
+      "volume": 1640047,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1946,7 +1946,7 @@
       "close": 6.05,
       "prev_close": 6.38,
       "change_pct": -5.17,
-      "volume": 4770175,
+      "volume": 4698000,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -1972,7 +1972,7 @@
       "close": 4.4,
       "prev_close": 4.38,
       "change_pct": 0.46,
-      "volume": 3788439,
+      "volume": 3912020,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2024,7 +2024,7 @@
       "close": 5.81,
       "prev_close": 5.81,
       "change_pct": 0.0,
-      "volume": 4261339,
+      "volume": 4287134,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2076,7 +2076,7 @@
       "close": 19.26,
       "prev_close": 20.16,
       "change_pct": -4.46,
-      "volume": 1603854,
+      "volume": 1628465,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2115,7 +2115,7 @@
       "close": 2.74,
       "prev_close": 2.74,
       "change_pct": 0.0,
-      "volume": 25840034,
+      "volume": 24857315,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2141,7 +2141,7 @@
       "close": 5.35,
       "prev_close": 5.45,
       "change_pct": -1.83,
-      "volume": 6536,
+      "volume": 6958,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2154,7 +2154,7 @@
       "close": 46.2,
       "prev_close": 45.97,
       "change_pct": 0.5,
-      "volume": 396909,
+      "volume": 398615,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2167,7 +2167,7 @@
       "close": 1.54,
       "prev_close": 1.53,
       "change_pct": 0.65,
-      "volume": 2982782,
+      "volume": 2911799,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2219,7 +2219,7 @@
       "close": 0.86,
       "prev_close": 0.87,
       "change_pct": -1.16,
-      "volume": 5669940,
+      "volume": 5536602,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2232,7 +2232,7 @@
       "close": 14.17,
       "prev_close": 14.01,
       "change_pct": 1.14,
-      "volume": 4740044,
+      "volume": 4945046,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2336,7 +2336,7 @@
       "close": 5.18,
       "prev_close": 5.57,
       "change_pct": -7.0,
-      "volume": 4281933,
+      "volume": 4266301,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2362,7 +2362,7 @@
       "close": 2.79,
       "prev_close": 2.89,
       "change_pct": -3.46,
-      "volume": 10143627,
+      "volume": 10148373,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2401,7 +2401,7 @@
       "close": 3.18,
       "prev_close": 3.38,
       "change_pct": -5.92,
-      "volume": 3786737,
+      "volume": 3796461,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2414,7 +2414,7 @@
       "close": 1.0,
       "prev_close": 1.0,
       "change_pct": 0.0,
-      "volume": 2195990,
+      "volume": 2198107,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2479,7 +2479,7 @@
       "close": 7.91,
       "prev_close": 7.65,
       "change_pct": 3.4,
-      "volume": 5726022,
+      "volume": 5723638,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2492,7 +2492,7 @@
       "close": 1.26,
       "prev_close": 1.27,
       "change_pct": -0.79,
-      "volume": 967514,
+      "volume": 929800,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
@@ -2518,7 +2518,7 @@
       "close": 41.75,
       "prev_close": 41.71,
       "change_pct": 0.1,
-      "volume": 1972116,
+      "volume": 1971337,
       "last_date": "2026-10-23",
       "market_cap": 0,
       "currency": "AUD"
