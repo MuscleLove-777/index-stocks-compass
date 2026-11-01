@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31 10:25 JST",
+  "updated": "2026-11-01 09:41 JST",
   "members": [
     {
       "ticker": "ADANIENT.NS",
@@ -32,10 +32,10 @@
       "wiki_ticker": "APOLLOHOSP",
       "name": "Apollo Hospitals",
       "sector": "Healthcare",
-      "close": NaN,
+      "close": 8448.0,
       "prev_close": 8200.0,
-      "change_pct": NaN,
-      "volume": 372118,
+      "change_pct": 3.02,
+      "volume": 372156,
       "last_date": "2026-10-30",
       "market_cap": 0,
       "currency": "INR"
@@ -71,10 +71,10 @@
       "wiki_ticker": "BAJAJ-AUTO",
       "name": "Bajaj Auto",
       "sector": "Automobile and Auto Components",
-      "close": NaN,
+      "close": 10350.0,
       "prev_close": 10383.0,
-      "change_pct": NaN,
-      "volume": 380918,
+      "change_pct": -0.32,
+      "volume": 382424,
       "last_date": "2026-10-30",
       "market_cap": 0,
       "currency": "INR"
@@ -396,10 +396,10 @@
       "wiki_ticker": "M&M",
       "name": "Mahindra & Mahindra",
       "sector": "Automobile and Auto Components",
-      "close": NaN,
+      "close": 2840.3,
       "prev_close": 2890.0,
-      "change_pct": NaN,
-      "volume": 1859267,
+      "change_pct": -1.72,
+      "volume": 1859369,
       "last_date": "2026-10-30",
       "market_cap": 0,
       "currency": "INR"
@@ -643,10 +643,10 @@
       "wiki_ticker": "ULTRACEMCO",
       "name": "UltraTech Cement",
       "sector": "Construction Materials",
-      "close": NaN,
+      "close": 11045.0,
       "prev_close": 11175.0,
-      "change_pct": NaN,
-      "volume": 199529,
+      "change_pct": -1.16,
+      "volume": 199530,
       "last_date": "2026-10-30",
       "market_cap": 0,
       "currency": "INR"

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31 10:25 JST",
+  "updated": "2026-11-01 09:41 JST",
   "members": [
     {
       "ticker": "MMM",
@@ -3113,10 +3113,10 @@
       "wiki_ticker": "HUBB",
       "name": "Hubbell Incorporated",
       "sector": "Industrials",
-      "close": NaN,
+      "close": 422.44,
       "prev_close": 438.23,
-      "change_pct": NaN,
-      "volume": 809480,
+      "change_pct": -3.6,
+      "volume": 807610,
       "last_date": "2026-10-30",
       "market_cap": 0,
       "currency": "USD"
