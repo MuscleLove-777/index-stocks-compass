@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07 10:37 JST",
+  "updated": "2026-11-08 10:05 JST",
   "members": [
     {
       "ticker": "6857.T",
@@ -1371,11 +1371,11 @@
       "wiki_ticker": "8031.T",
       "name": "Mitsui & Co., Ltd.",
       "sector": "Trading Companies",
-      "close": null,
-      "prev_close": null,
-      "change_pct": null,
-      "volume": null,
-      "last_date": null,
+      "close": 4620.0,
+      "prev_close": 5039.0,
+      "change_pct": -8.32,
+      "volume": 15252500,
+      "last_date": "2026-11-06",
       "market_cap": 0,
       "currency": "JPY"
     },
