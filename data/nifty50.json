@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 12:57 JST",
+  "updated": "2026-11-11 10:42 JST",
   "members": [
     {
       "ticker": "ADANIENT.NS",
@@ -61,7 +61,7 @@
       "close": 1310.7,
       "prev_close": 1322.9,
       "change_pct": -0.92,
-      "volume": 4806256,
+      "volume": 4806900,
       "last_date": "2026-11-09",
       "market_cap": 0,
       "currency": "INR"
@@ -152,7 +152,7 @@
       "close": 1403.8,
       "prev_close": 1411.0,
       "change_pct": -0.51,
-      "volume": 1706211,
+      "volume": 1706347,
       "last_date": "2026-11-09",
       "market_cap": 0,
       "currency": "INR"
@@ -178,7 +178,7 @@
       "close": 1385.0,
       "prev_close": 1373.0,
       "change_pct": 0.87,
-      "volume": 1788071,
+      "volume": 1788177,
       "last_date": "2026-11-09",
       "market_cap": 0,
       "currency": "INR"
@@ -256,7 +256,7 @@
       "close": 565.4,
       "prev_close": 565.3,
       "change_pct": 0.02,
-      "volume": 2498360,
+      "volume": 2498411,
       "last_date": "2026-11-09",
       "market_cap": 0,
       "currency": "INR"
@@ -412,7 +412,7 @@
       "close": 12928.0,
       "prev_close": 12750.0,
       "change_pct": 1.4,
-      "volume": 557936,
+      "volume": 558028,
       "last_date": "2026-11-09",
       "market_cap": 0,
       "currency": "INR"
@@ -503,7 +503,7 @@
       "close": 1748.0,
       "prev_close": 1784.0,
       "change_pct": -2.02,
-      "volume": 849558,
+      "volume": 849559,
       "last_date": "2026-11-09",
       "market_cap": 0,
       "currency": "INR"
@@ -620,7 +620,7 @@
       "close": 5005.0,
       "prev_close": 5000.0,
       "change_pct": 0.1,
-      "volume": 839804,
+      "volume": 839812,
       "last_date": "2026-11-09",
       "market_cap": 0,
       "currency": "INR"
