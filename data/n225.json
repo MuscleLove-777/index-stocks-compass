@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14 10:58 JST",
+  "updated": "2026-11-15 10:30 JST",
   "members": [
     {
       "ticker": "6857.T",
@@ -2333,11 +2333,11 @@
       "wiki_ticker": "5713.T",
       "name": "Sumitomo Metal Mining Co., Ltd.",
       "sector": "Nonferrous Metals",
-      "close": 7193.0,
-      "prev_close": 7367.0,
-      "change_pct": -2.36,
-      "volume": 3330000,
-      "last_date": "2026-11-13",
+      "close": null,
+      "prev_close": null,
+      "change_pct": null,
+      "volume": null,
+      "last_date": null,
       "market_cap": 0,
       "currency": "JPY"
     },
