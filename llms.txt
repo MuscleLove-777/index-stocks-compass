@@ -1,0 +1,19 @@
+# Index Stocks Compass | 世界20指数1459銘柄の構成銘柄と株価を毎日自動更新
+
+> 日経225・S&P500・DAX・FTSE・ハンセン・NIFTY等、世界20指数1459銘柄の構成と株価を毎日自動集計。構成銘柄変更も自動追従。
+
+## Main Pages
+
+- [index stocks compass](https://musclelove-777.github.io/index-stocks-compass/): main page of Index Stocks Compass | 世界20指数1459銘柄の構成銘柄と株価を毎日自動更新.
+- [n225](https://musclelove-777.github.io/index-stocks-compass/n225/): main page of Index Stocks Compass | 世界20指数1459銘柄の構成銘柄と株価を毎日自動更新.
+- [topix core30](https://musclelove-777.github.io/index-stocks-compass/topix-core30/): main page of Index Stocks Compass | 世界20指数1459銘柄の構成銘柄と株価を毎日自動更新.
+- [sp500](https://musclelove-777.github.io/index-stocks-compass/sp500/): main page of Index Stocks Compass | 世界20指数1459銘柄の構成銘柄と株価を毎日自動更新.
+- [nasdaq100](https://musclelove-777.github.io/index-stocks-compass/nasdaq100/): main page of Index Stocks Compass | 世界20指数1459銘柄の構成銘柄と株価を毎日自動更新.
+- [dow30](https://musclelove-777.github.io/index-stocks-compass/dow30/): main page of Index Stocks Compass | 世界20指数1459銘柄の構成銘柄と株価を毎日自動更新.
+- [ftse100](https://musclelove-777.github.io/index-stocks-compass/ftse100/): main page of Index Stocks Compass | 世界20指数1459銘柄の構成銘柄と株価を毎日自動更新.
+- [dax40](https://musclelove-777.github.io/index-stocks-compass/dax40/): main page of Index Stocks Compass | 世界20指数1459銘柄の構成銘柄と株価を毎日自動更新.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/index-stocks-compass
